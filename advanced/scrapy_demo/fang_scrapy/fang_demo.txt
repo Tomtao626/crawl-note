@@ -1,0 +1,11 @@
+1. 获取所有的城市的url链接
+    https://www.fang.com/SoufunFamily.htm
+2. 获取所有城市的新房的url链接
+    例如 安庆 ：http://anqing.fang.com/
+    安庆新房：http://newhouse.anqing.fang.com/house/s/
+3. 获取所有城市的二手房的url链接
+    例如 安庆 ：http://anqing.fang.com/
+    安庆二手房：http://esf.anqing.fang.com/
+北京是个例外
+    北京新房链接：http://house.fang.com/
+    北京二手房链接：http://esf.fang.com/

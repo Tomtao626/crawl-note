@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/.gitignore
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/python_crawler.iml
+.idea/rSettings.xml
+.idea/vcs.xml
+crawler_py3env
+12306_spider/chromedriver
+.idea

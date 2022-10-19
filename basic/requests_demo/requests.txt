@@ -1,0 +1,54 @@
+requests笔记
+
+# 发送get请求:
+    发送get请求，直接调用requests.get()就可以了，想要发送什么类型的请求，就掉用什么方法
+    代码示例:
+        response = requests.get('http://www.baidu.com')
+
+# response的一些属性
+    代码示例:
+        import requests
+        response = requests.get('http://www.baidu.com')
+        响应内容 返回的是Unicde格式的数据
+        print(response.text)
+        响应内容 返回的是字节流数据  bytes
+        print(response.content.decode('utf-8'))
+        完整url地址
+        print(response.url)
+        响应头部字符编码
+        print(response.encoding)
+        响应状态码
+        print(response.status_code)
+
+response.text和response.content的区别:
+    1.response.content:这个是直接从网络上个抓取的数据，没有经过任何解码，所以是一个bytes类型，网络上和硬盘上传输的字符串都是bytes类型
+    2.response.text:这个是str的数据类型,是requests库将response.content进行解码的字符串，解码需要指定一个编码方式，requests会根据自己的猜测来判断解码的方式，所以有时可能会判断错误，就会导致解码错误出现乱码。这时候就应该使用response.content.decode('utf-8'),进行手动解码。
+
+# 发送post请求
+    调用requests.post()即可，如果返回的是json数据，那么可以调用response.json(),将json数据转换为字典或者列表
+
+# 使用代理
+    在请求方法中，传递proxies参数即可
+
+# 处理cookie:
+    如果想要在多次请求中共享cookie，那么应该使用session
+    示例代码:
+        import requests
+        data = {
+                'email': "18372620761",
+                'password': "Wangxi4228tp"
+                }
+        login_url = "http://www.renren.com/PLogin.do"
+        headers = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36'
+                }
+        session = requests.Session()
+        session.post(login_url, data=data, headers=headers)
+        response = session.get('http://www.renren.com/880151247/profile')
+        with open('renren.html','w',encoding='utf-8') as fp:
+            fp.write(response.text)
+# 处理不受信任的SSL证书（主要针对https网站）
+    添加verify参数即可 并设置值为False
+    代码示例:
+        response = requests.get('https://www.12306.cn/normalweb/',verify=False)
+        print(response.content.decode('utf-8'))

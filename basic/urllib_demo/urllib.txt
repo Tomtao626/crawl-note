@@ -1,0 +1,16 @@
+ProcyHandler处理器(代理):
+1.代理的原理：在请求目的服务器之前，先请求代理服务器，然后让代理服务器去请求目的网站，代理服务器拿到目的网站的数据后，再转发给我们代码
+2.http://httpbin.org 这个网站可以方便查看http请求的一些参数
+3.在代码中使用代理
+    1.使用urllib.request.ProxyHandler,传入一个代理，这个代理是一个字典，字典的key是'http'或者'https'，值是'ip:port'
+    2.使用上一步创建的handler,以及request.build_opener创建一个opener
+    3.使用上一步创建的opener,调用open函数，发起请求
+    代码示例:
+        from urllib import request
+        url = 'http:httpbin.org/ip'
+        handler = request.ProxyHandler("http":"106.122.205.36:8118")
+        opener = request.build_opener(handler)
+        resp = opener.open(url)
+        print(resp)
+        返回结果：
+        b'{\n  "origin": "106.122.205.36"\n}\n'

@@ -1,0 +1,53 @@
+# BeautlfulSoup笔记
+
+# find_all的使用
+    1.在提取标签的时候，第一个参数是标签的名字，然后如果在提取标签时想要使用标签属性进行过滤，
+    则可以在这个方法中通过关键字参数的形式，将属性的名字以及对应的值传进去。或是使用'attrs'属性，
+    将所有的属性以及对应的值·放在一个一个字典中传给'attrs'属性
+    2.在提取标签时，不想提取过去数据，则可以使用limit参数进行限制
+
+# find和find_all的区别:
+    1.find 找到第一个满足条件的标签返回，只返回一个元素
+    2.find_all 将所有满足的标签全部返回，以列表的形式
+
+# 使用find和find_all的过滤条件：
+    1.关键字参数：将属性的名字作为关键字参数的名字，以及属性的值作为关键字参数的值进行过滤
+    2.attrs参数：将属性条件放到一个字典中，传给attrs参数。
+
+# 获取标签的属性：
+    1.通过下标获取
+    代码示例：
+        href = a['href']
+    2.通过attrs属性获取
+    代码示例：
+        href = a.attrs['href']
+
+# strings和stripped_strings属性以及get_text方法：
+    1.string:获取某个标签下的非标签字符串,返回一个字符串,如果这个标签下有多个字符，可能会取不到
+    2.strings:获取某个标签下的子孙非标签字符串,返回一个生成器
+    3.stripped_strings:获取某个标签下的子孙非标签字符串,会去掉空白字符,返回一个生成器
+    4.get_text():获取某个标签下的子孙非标签字符串,不是以列表形式返回,是返回一个字符串
+
+# css选择器
+1.根据名字选择  p{ background-color:pink;}
+2.根据类名选择 .line{ background-color:pink; }
+3.根据id名字选择 #box{ background-color:pink; }
+4.查找子孙元素,要在子孙元素之间有一个空格 #box p{ background-color:pink; }
+5.查找直接子元素,在父子元素之间有一个> #box > p{ background-color:pink; }
+6.根据属性的名字进行查找，先写标签名字，再在中括号中写属性的值
+    input[name='username']{ background-color:pink; }
+
+# 在BeautifulSoup使用css选择器
+    soup = BeautifulSoup(html, "lxml")
+    soup.select("标签名")
+
+# 常见的四种对象
+1.Tag BeautlfulSoup中所有的标签都是Tag属性，并且BeautlfulSoup的对象其实本质上都是Tag类型
+2.NavigableString 继承自python的str
+3.BeautifulSoup 继承自Tag 用于生成BBeautifulSoup树
+4.Comment 继承自NavigableString
+
+# contents和children
+    返回某个标签下的直接子元素，其中也包括字符串,
+    contents返回一个列表
+    children返回一个迭代器

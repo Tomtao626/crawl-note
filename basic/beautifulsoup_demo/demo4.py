@@ -1,0 +1,89 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# @Time : 2020/3/7 23:51
+# @Author : Tom_tao
+# @Site : 
+# @File : gushiwen.py
+# @Software: PyCharm
+
+from bs4 import BeautifulSoup
+
+html = """
+    <table class="tablelist" cellpadding="0" cellspacing="0">
+    <tbody>
+        <tr class="h">
+            <td class="1" width="374">职位名称</td>
+            <td>职位类别</td>
+            <td>人数</td>
+            <td>地点</td>
+            <td>发布时间</td>
+        </tr>
+        <tr class="even">
+            <td class="l square"><a target="_blank" href="position_detail.php?id=33824&keywords=python&tid=87&lid=2218">22989-金融云区块链高级研发工程师(深圳)</a></td>
+            <td>技术类</td>
+            <td>1</td>
+            <td>深圳</td>
+            <td>2019-11-25</td>
+        </tr>
+        <tr class="odd">
+            <td class="1 square"><a target="_blank" href="position_detail.php?id=29938&keywords=python&tid=87&lid=2218">金融云高级后台开发</a></td>
+            <td>技术类</td>
+            <td>2</td>
+            <td>深圳</td>
+            <td>2019-11-25</td>
+        </tr>
+    <tr class="even">
+            <td class="l square"><a target="_blank" href="position_detail.php?id=33824&keywords=python&tid=87&lid=2218">22989-金融云区块链高级研发工程师(深圳)</a></td>
+            <td>技术类</td>
+            <td>1</td>
+            <td>深圳</td>
+            <td>2019-11-25</td>
+        </tr>
+        <tr class="odd">
+            <td class="1 square"><a target="_blank" href="position_detail.php?id=29938&keywords=python&tid=87&lid=2218">金融云高级后台开发</a></td>
+            <td>技术类</td>
+            <td>2</td>
+            <td>深圳</td>
+            <td>2019-11-25</td>
+        </tr><tr class="even">
+            <td class="l square"><a target="_blank" href="position_detail.php?id=33824&keywords=python&tid=87&lid=2218">22989-金融云区块链高级研发工程师(深圳)</a></td>
+            <td>技术类</td>
+            <td>1</td>
+            <td>深圳</td>
+            <td>2019-11-25</td>
+        </tr>
+        <tr class="odd">
+            <td class="1 square"><a target="_blank" href="position_detail.php?id=29938&keywords=python&tid=87&lid=2218">金融云高级后台开发</a></td>
+            <td>技术类</td>
+            <td>2</td>
+            <td>深圳</td>
+            <td>2019-11-25</td>
+        </tr><tr class="even">
+            <td class="l square"><a target="_blank" href="position_detail.php?id=33824&keywords=python&tid=87&lid=2218">22989-金融云区块链高级研发工程师(深圳)</a></td>
+            <td>技术类</td>
+            <td>1</td>
+            <td>深圳</td>
+            <td>2019-11-25</td>
+        </tr>
+        <tr class="odd">
+            <td class="1 square"><a id="test" class="test" target="_blank" href="position_detail.php?id=29938&keywords=python&tid=87&lid=2218">金融云高级后台开发</a></td>
+            <td>技术类</td>
+            <td>2</td>
+            <td>深圳</td>
+            <td>2019-11-25</td>
+        </tr>
+    </tbody>
+</table>
+<div>我是div</div>
+<p><!-- 我是注释字符串 --></p>
+"""
+
+from bs4.element import Tag
+
+soup = BeautifulSoup(html, 'lxml')
+# table = soup.find("table")
+# print(table)
+# p = soup.find("p")
+# print(p.contents)
+# print(type(p.string))
+
