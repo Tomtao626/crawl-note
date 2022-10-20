@@ -1,0 +1,300 @@
+[{
+  "switch_code":"iv_TVMute",
+  "bl_code": "mute",
+  "desc_cn": "静音",
+  "desc_en": "MUTE"
+},
+{
+  "switch_code":"iv_TVPowerOnOff",
+  "bl_code": "power",
+  "desc_cn": "电源",
+  "desc_en": "POWER"
+},
+{
+  "switch_code":"iv_TVMenuOff",
+  "bl_code": "menu",
+  "desc_cn": "菜单/主页",
+  "desc_en": "MENU/HOME"
+},
+{
+  "switch_code":"iv_ChannelDelete",
+  "bl_code": "channel_down",
+  "desc_cn": "频道-",
+  "desc_en": "CH-"
+},
+{
+  "switch_code":"iv_ChannelAdd",
+  "bl_code": "channel_up",
+  "desc_cn": "频道+",
+  "desc_en": "CH+"
+},
+{
+  "switch_code":"iv_VolumeDelete",
+  "bl_code": "volume_down",
+  "desc_cn": "音量-",
+  "desc_en": "VOL-"
+},
+{
+  "switch_code":"iv_VolumeAdd",
+  "bl_code": "volume_up",
+  "desc_cn": "音量+",
+  "desc_en": "VOL+"
+},
+{
+  "switch_code":"iv_tv_input",
+  "bl_code": "tv_av",
+  "desc_cn": "信号源",
+  "desc_en": "SOURCE"
+},
+{
+  "switch_code":"iv_tv_data",
+  "bl_code": "d_data",
+  "desc_cn": "讯息",
+  "desc_en": "DATA"
+},
+{
+  "switch_code":"iv_tv_subtitle",
+  "bl_code": "sub",
+  "desc_cn": "字幕",
+  "desc_en": "CC"
+},
+{
+  "switch_code":"iv_tv_audio",
+  "bl_code": "audio_mode",
+  "desc_cn": "声音模式",
+  "desc_en": "AUDIO"
+},
+{
+  "switch_code":"iv_Top",
+  "bl_code": "up",
+  "desc_cn": "上",
+  "desc_en": "UP"
+},
+{
+  "switch_code":"iv_Bottom",
+  "bl_code": "down",
+  "desc_cn": "下",
+  "desc_en": "DOWN"
+},
+{
+  "switch_code":"iv_Left",
+  "bl_code": "left",
+  "desc_cn": "左",
+  "desc_en": "LEFT"
+},
+{
+  "switch_code":"iv_Right",
+  "bl_code": "right",
+  "desc_cn": "右",
+  "desc_en": "RIGHT"
+},
+{
+  "switch_code":"iv_Center",
+  "bl_code": "ok",
+  "desc_cn": "OK",
+  "desc_en": "OK"
+},
+{
+  "switch_code":"iv_tv_back",
+  "bl_code": "back",
+  "desc_cn": "返回",
+  "desc_en": "Back"
+},
+{
+  "switch_code":"iv_tv_list",
+  "bl_code": "video_list",
+  "desc_cn": "录制清单",
+  "desc_en": "REC UST"
+},
+{
+  "switch_code":"iv_tv_blue",
+  "bl_code": "blue",
+  "desc_cn": "蓝",
+  "desc_en": "BLUE"
+},
+{
+  "switch_code":"iv_tv_red",
+  "bl_code": "red",
+  "desc_cn": "红",
+  "desc_en": "RED"
+},
+{
+  "switch_code":"iv_tv_green",
+  "bl_code": "green",
+  "desc_cn": "绿",
+  "desc_en": "GREEN"
+},
+{
+  "switch_code":"iv_tv_yellow",
+  "bl_code": "yellow",
+  "desc_cn": "黄",
+  "desc_en": "YELLOW"
+},
+{
+  "switch_code":"iv_tv_number1",
+  "bl_code": "1",
+  "desc_cn": "1",
+  "desc_en": "1"
+},
+{
+  "switch_code":"iv_tv_number2",
+  "bl_code": "2",
+  "desc_cn": "2",
+  "desc_en": "2"
+},
+{
+  "switch_code":"iv_tv_number3",
+  "bl_code": "3",
+  "desc_cn": "3",
+  "desc_en": "3"
+},
+{
+  "switch_code":"iv_tv_number4",
+  "bl_code": "4",
+  "desc_cn": "4",
+  "desc_en": "4"
+},
+{
+  "switch_code":"iv_tv_number5",
+  "bl_code": "5",
+  "desc_cn": "5",
+  "desc_en": "5"
+},
+{
+  "switch_code":"iv_tv_number6",
+  "bl_code": "6",
+  "desc_cn": "6",
+  "desc_en": "6"
+},
+{
+  "switch_code":"iv_tv_number7",
+  "bl_code": "7",
+  "desc_cn": "7",
+  "desc_en": "7"
+},
+{
+  "switch_code":"iv_tv_number8",
+  "bl_code": "8",
+  "desc_cn": "8",
+  "desc_en": "8"
+},
+{
+  "switch_code":"iv_tv_number9",
+  "bl_code": "9",
+  "desc_cn": "9",
+  "desc_en": "9"
+},
+{
+  "switch_code":"iv_tv_number10",
+  "bl_code": "10",
+  "desc_cn": "10",
+  "desc_en": "10"
+},
+{
+  "switch_code":"iv_tv_number11",
+  "bl_code": "11",
+  "desc_cn": "11",
+  "desc_en": "11"
+},
+{
+  "switch_code":"iv_tv_number12",
+  "bl_code": "12",
+  "desc_cn": "12",
+  "desc_en": "12"
+},
+{
+  "switch_code":"iv_tv_program_list",
+  "bl_code": "video_list",
+  "desc_cn": "节目表",
+  "desc_en": "PROGRAM INFO"
+},
+{
+  "switch_code":"iv_tv_fav",
+  "bl_code": "fav",
+  "desc_cn": "真爱频道",
+  "desc_en": "PREFERENCE"
+},
+{
+  "switch_code":"iv_tv_bs",
+  "bl_code": "bs",
+  "desc_cn": "BS",
+  "desc_en": "BS"
+},
+{
+  "switch_code":"iv_tv_cs",
+  "bl_code": "cs",
+  "desc_cn": "CS/CATV",
+  "desc_en": "CS/CATV"
+},
+{
+  "switch_code":"iv_tv_dttv",
+  "bl_code": "tv_d",
+  "desc_cn": "无线",
+  "desc_en": "DTTV"
+},
+{
+  "switch_code":"iv_tv_internet",
+  "bl_code": "",
+  "desc_cn": "网络电视",
+  "desc_en": "STREAM"
+},
+{
+  "switch_code":"iv_tv_three_code",
+  "bl_code": "",
+  "desc_cn": "123",
+  "desc_en": "123"
+},
+{
+  "switch_code":"iv_tv_fast_reverse",
+  "bl_code": "fast_backward",
+  "desc_cn": "快退",
+  "desc_en": "REWIND"
+},
+{
+  "switch_code":"iv_tv_play",
+  "bl_code": "play",
+  "desc_cn": "播放",
+  "desc_en": "PLAY"
+},
+{
+  "switch_code":"iv_tv_fast_forward",
+  "bl_code": "fast_forward",
+  "desc_cn": "快进",
+  "desc_en": "FORWARD"
+},
+{
+  "switch_code":"iv_tv_last",
+  "bl_code": "previous",
+  "desc_cn": "上一曲",
+  "desc_en": "LAST"
+},
+{
+  "switch_code":"iv_tv_pause",
+  "bl_code": "pause",
+  "desc_cn": "暂停",
+  "desc_en": "PAUSE"
+},
+{
+  "switch_code":"iv_tv_next",
+  "bl_code": "next",
+  "desc_cn": "下一曲",
+  "desc_en": "NEXT"
+},
+{
+  "switch_code":"iv_tv_record",
+  "bl_code": "record",
+  "desc_cn": "录像",
+  "desc_en": "RECORD"
+},
+{
+  "switch_code":"iv_tv_stop",
+  "bl_code": "stop",
+  "desc_cn": "停止",
+  "desc_en": "STOP"
+},
+{
+  "switch_code":"iv_tv_take_out",
+  "bl_code": "",
+  "desc_cn": "出仓",
+  "desc_en": "EJECT"
+}]

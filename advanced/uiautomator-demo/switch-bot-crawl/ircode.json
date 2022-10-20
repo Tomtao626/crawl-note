@@ -1,0 +1,25 @@
+{
+  "devtypeid": 2,           # 设备类型id
+  "brand": "LG",            # 品牌中文名
+  "branid": 2773,           # 品牌id
+  "elecModel": "32LJ",      # 设备型号，可以为空
+  "remoteModel": "500B-UB", # 遥控器型号，可以为空
+  "origin": "one for all",  # 该红码从哪获取的
+  "old_ircodeid": "1",      # 在原app处的排序, 如果没有可以随便写
+  "functionList": [{
+    "function": "mute",     # 标准的function名称
+    "code": [38, 0, 80, 0, 0, 1, 35, 145, 17, 55, ...]  # 波形码
+  }, {
+    "function": "volume_up",
+    "code": [38, 0, 80, 0, 0, 1, 35, 145, 17, 55, ...]
+  }, {
+    "function": "volume_down",
+    "code": [38, 0, 80, 0, 0, 1, 35, 145, 17, 55, ...]
+  }, {
+    "function": "channel_up",
+    "code": [38, 0, 80, 0, 0, 1, 35, 145, 17, 55, ...]
+  }, {
+    "function": "channel_down",
+    "code": [38, 0, 80, 0, 0, 1, 35, 145, 17, 55, ...]
+  }]
+}

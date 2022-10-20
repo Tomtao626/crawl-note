@@ -1,0 +1,25 @@
+{
+  "devtypeid": 2,
+  "brand": "LG",
+  "branid": 2773,
+  "elecModel": "32LJ",
+  "remoteModel": "500B-UB",
+  "origin": "one for all",
+  "old_ircodeid": "1",
+  "functionList": [{
+    "function": "mute",
+    "code": [38, 0, 80, 0, 0, 1, 35, 145, 17, 55, ...]
+  }, {
+    "function": "volume_up",
+    "code": [38, 0, 80, 0, 0, 1, 35, 145, 17, 55, ...]
+  }, {
+    "function": "volume_down",
+    "code": [38, 0, 80, 0, 0, 1, 35, 145, 17, 55, ...]
+  }, {
+    "function": "channel_up",
+    "code": [38, 0, 80, 0, 0, 1, 35, 145, 17, 55, ...]
+  }, {
+    "function": "channel_down",
+    "code": [38, 0, 80, 0, 0, 1, 35, 145, 17, 55, ...]
+  }]
+}

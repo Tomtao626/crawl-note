@@ -1,0 +1,6214 @@
+[
+  {
+    "brandid": 1166,
+    "brand": "天龙"
+  },
+  {
+    "brandid": 1217,
+    "brand": "通用"
+  },
+  {
+    "brandid": 1229,
+    "brand": "东洋"
+  },
+  {
+    "brandid": 1233,
+    "brand": "惠康"
+  },
+  {
+    "brandid": 1239,
+    "brand": "荣事达"
+  },
+  {
+    "brandid": 1361,
+    "brand": "胜利"
+  },
+  {
+    "brandid": 1399,
+    "brand": "天敏"
+  },
+  {
+    "brandid": 1403,
+    "brand": "3M"
+  },
+  {
+    "brandid": 1405,
+    "brand": "七喜"
+  },
+  {
+    "brandid": 1407,
+    "brand": "888"
+  },
+  {
+    "brandid": 1411,
+    "brand": "A+K"
+  },
+  {
+    "brandid": 1413,
+    "brand": "A.R.Syetems"
+  },
+  {
+    "brandid": 1414,
+    "brand": "Abex"
+  },
+  {
+    "brandid": 1416,
+    "brand": "Accent"
+  },
+  {
+    "brandid": 1417,
+    "brand": "Access Hd"
+  },
+  {
+    "brandid": 1418,
+    "brand": "Accor"
+  },
+  {
+    "brandid": 1419,
+    "brand": "Acentic"
+  },
+  {
+    "brandid": 1420,
+    "brand": "宏碁"
+  },
+  {
+    "brandid": 1423,
+    "brand": "喜事来"
+  },
+  {
+    "brandid": 1426,
+    "brand": "Acme"
+  },
+  {
+    "brandid": 1427,
+    "brand": "Acoustic Solutions"
+  },
+  {
+    "brandid": 1430,
+    "brand": "Ada"
+  },
+  {
+    "brandid": 1432,
+    "brand": "艾德龙"
+  },
+  {
+    "brandid": 1434,
+    "brand": "爱琴"
+  },
+  {
+    "brandid": 1436,
+    "brand": "爱迪生"
+  },
+  {
+    "brandid": 1439,
+    "brand": "Admiral"
+  },
+  {
+    "brandid": 1443,
+    "brand": "有用"
+  },
+  {
+    "brandid": 1446,
+    "brand": "Advent"
+  },
+  {
+    "brandid": 1447,
+    "brand": "Adventura"
+  },
+  {
+    "brandid": 1448,
+    "brand": "Aea"
+  },
+  {
+    "brandid": 1449,
+    "brand": "Aeg"
+  },
+  {
+    "brandid": 1452,
+    "brand": "Affinity"
+  },
+  {
+    "brandid": 1454,
+    "brand": "Aftron"
+  },
+  {
+    "brandid": 1455,
+    "brand": "Agashi"
+  },
+  {
+    "brandid": 1456,
+    "brand": "Agfaphoto"
+  },
+  {
+    "brandid": 1458,
+    "brand": "Agora"
+  },
+  {
+    "brandid": 1459,
+    "brand": "科比"
+  },
+  {
+    "brandid": 1463,
+    "brand": "Aiko"
+  },
+  {
+    "brandid": 1464,
+    "brand": "Aim"
+  },
+  {
+    "brandid": 1465,
+    "brand": "Airis"
+  },
+  {
+    "brandid": 1468,
+    "brand": "爱华"
+  },
+  {
+    "brandid": 1472,
+    "brand": "雅佳"
+  },
+  {
+    "brandid": 1474,
+    "brand": "Akiba"
+  },
+  {
+    "brandid": 1477,
+    "brand": "秋叶原"
+  },
+  {
+    "brandid": 1480,
+    "brand": "爱家乐"
+  },
+  {
+    "brandid": 1483,
+    "brand": "讴歌"
+  },
+  {
+    "brandid": 1485,
+    "brand": "Alba"
+  },
+  {
+    "brandid": 1486,
+    "brand": "Alien"
+  },
+  {
+    "brandid": 1487,
+    "brand": "Alios"
+  },
+  {
+    "brandid": 1488,
+    "brand": "Alleron"
+  },
+  {
+    "brandid": 1491,
+    "brand": "Allstar"
+  },
+  {
+    "brandid": 1492,
+    "brand": "Allure"
+  },
+  {
+    "brandid": 1503,
+    "brand": "Amark"
+  },
+  {
+    "brandid": 1506,
+    "brand": "Amc"
+  },
+  {
+    "brandid": 1507,
+    "brand": "Ames"
+  },
+  {
+    "brandid": 1508,
+    "brand": "Amitech"
+  },
+  {
+    "brandid": 1509,
+    "brand": "夏新"
+  },
+  {
+    "brandid": 1515,
+    "brand": "Ampro"
+  },
+  {
+    "brandid": 1516,
+    "brand": "Amstrad"
+  },
+  {
+    "brandid": 1518,
+    "brand": "Amtran"
+  },
+  {
+    "brandid": 1519,
+    "brand": "Amtron"
+  },
+  {
+    "brandid": 1520,
+    "brand": "Amw"
+  },
+  {
+    "brandid": 1521,
+    "brand": "Anaba"
+  },
+  {
+    "brandid": 1522,
+    "brand": "Anam"
+  },
+  {
+    "brandid": 1524,
+    "brand": "Andersson"
+  },
+  {
+    "brandid": 1525,
+    "brand": "Anglo"
+  },
+  {
+    "brandid": 1526,
+    "brand": "安化"
+  },
+  {
+    "brandid": 1529,
+    "brand": "Anitech"
+  },
+  {
+    "brandid": 1530,
+    "brand": "Ansonic"
+  },
+  {
+    "brandid": 1535,
+    "brand": "冠捷"
+  },
+  {
+    "brandid": 1539,
+    "brand": "Aolinpike"
+  },
+  {
+    "brandid": 1540,
+    "brand": "奥林普"
+  },
+  {
+    "brandid": 1544,
+    "brand": "Apex"
+  },
+  {
+    "brandid": 1545,
+    "brand": "Apex Digital"
+  },
+  {
+    "brandid": 1546,
+    "brand": "苹果"
+  },
+  {
+    "brandid": 1553,
+    "brand": "Arcelik"
+  },
+  {
+    "brandid": 1554,
+    "brand": "Archer"
+  },
+  {
+    "brandid": 1555,
+    "brand": "Arctic"
+  },
+  {
+    "brandid": 1556,
+    "brand": "Ardem"
+  },
+  {
+    "brandid": 1557,
+    "brand": "Arena"
+  },
+  {
+    "brandid": 1560,
+    "brand": "Ario"
+  },
+  {
+    "brandid": 1561,
+    "brand": "Aristona"
+  },
+  {
+    "brandid": 1565,
+    "brand": "Art"
+  },
+  {
+    "brandid": 1566,
+    "brand": "Art Mito"
+  },
+  {
+    "brandid": 1570,
+    "brand": "Asberg"
+  },
+  {
+    "brandid": 1575,
+    "brand": "Asha"
+  },
+  {
+    "brandid": 1578,
+    "brand": "Aspect"
+  },
+  {
+    "brandid": 1580,
+    "brand": "Astra"
+  },
+  {
+    "brandid": 1584,
+    "brand": "Asuka"
+  },
+  {
+    "brandid": 1585,
+    "brand": "华硕"
+  },
+  {
+    "brandid": 1587,
+    "brand": "At&T"
+  },
+  {
+    "brandid": 1589,
+    "brand": "Atd"
+  },
+  {
+    "brandid": 1592,
+    "brand": "Atlantic"
+  },
+  {
+    "brandid": 1594,
+    "brand": "Atvio"
+  },
+  {
+    "brandid": 1605,
+    "brand": "Audiosonic"
+  },
+  {
+    "brandid": 1606,
+    "brand": "Audioton"
+  },
+  {
+    "brandid": 1607,
+    "brand": "Audiotronic"
+  },
+  {
+    "brandid": 1608,
+    "brand": "欧迪福斯"
+  },
+  {
+    "brandid": 1610,
+    "brand": "Audioworld"
+  },
+  {
+    "brandid": 1612,
+    "brand": "Auria"
+  },
+  {
+    "brandid": 1613,
+    "brand": "Aurora"
+  },
+  {
+    "brandid": 1616,
+    "brand": "Autovox"
+  },
+  {
+    "brandid": 1617,
+    "brand": "Auvio"
+  },
+  {
+    "brandid": 1619,
+    "brand": "奥克斯"
+  },
+  {
+    "brandid": 1622,
+    "brand": "Aventura"
+  },
+  {
+    "brandid": 1628,
+    "brand": "Avol"
+  },
+  {
+    "brandid": 1629,
+    "brand": "Awa"
+  },
+  {
+    "brandid": 1631,
+    "brand": "Axion"
+  },
+  {
+    "brandid": 1635,
+    "brand": "Axxon"
+  },
+  {
+    "brandid": 1637,
+    "brand": "Azuki"
+  },
+  {
+    "brandid": 1643,
+    "brand": "Baier"
+  },
+  {
+    "brandid": 1644,
+    "brand": "Baihe"
+  },
+  {
+    "brandid": 1645,
+    "brand": "百合花"
+  },
+  {
+    "brandid": 1647,
+    "brand": "百花"
+  },
+  {
+    "brandid": 1649,
+    "brand": "佰乐"
+  },
+  {
+    "brandid": 1656,
+    "brand": "Baird"
+  },
+  {
+    "brandid": 1659,
+    "brand": "Bang & Olufsen"
+  },
+  {
+    "brandid": 1660,
+    "brand": "宝华视"
+  },
+  {
+    "brandid": 1662,
+    "brand": "宝生"
+  },
+  {
+    "brandid": 1665,
+    "brand": "宝石花"
+  },
+  {
+    "brandid": 1667,
+    "brand": "Base"
+  },
+  {
+    "brandid": 1668,
+    "brand": "Basic Line"
+  },
+  {
+    "brandid": 1669,
+    "brand": "Bauer"
+  },
+  {
+    "brandid": 1670,
+    "brand": "Bauhn"
+  },
+  {
+    "brandid": 1671,
+    "brand": "Baur"
+  },
+  {
+    "brandid": 1673,
+    "brand": "步步高"
+  },
+  {
+    "brandid": 1678,
+    "brand": "Beaumark"
+  },
+  {
+    "brandid": 1681,
+    "brand": "北京"
+  },
+  {
+    "brandid": 1683,
+    "brand": "倍科"
+  },
+  {
+    "brandid": 1685,
+    "brand": "Belcor"
+  },
+  {
+    "brandid": 1688,
+    "brand": "贝灵巧"
+  },
+  {
+    "brandid": 1694,
+    "brand": "Belson"
+  },
+  {
+    "brandid": 1695,
+    "brand": "Belstar"
+  },
+  {
+    "brandid": 1697,
+    "brand": "Bennett"
+  },
+  {
+    "brandid": 1698,
+    "brand": "明基"
+  },
+  {
+    "brandid": 1700,
+    "brand": "Bensten"
+  },
+  {
+    "brandid": 1701,
+    "brand": "Beon"
+  },
+  {
+    "brandid": 1702,
+    "brand": "Berthen"
+  },
+  {
+    "brandid": 1705,
+    "brand": "Bestar"
+  },
+  {
+    "brandid": 1708,
+    "brand": "凯壹"
+  },
+  {
+    "brandid": 1712,
+    "brand": "Bexa"
+  },
+  {
+    "brandid": 1716,
+    "brand": "Blacx Diamond"
+  },
+  {
+    "brandid": 1717,
+    "brand": "蓝宝"
+  },
+  {
+    "brandid": 1719,
+    "brand": "Blauren"
+  },
+  {
+    "brandid": 1721,
+    "brand": "Blue Sky"
+  },
+  {
+    "brandid": 1722,
+    "brand": "Bluediamond"
+  },
+  {
+    "brandid": 1723,
+    "brand": "Bluetech"
+  },
+  {
+    "brandid": 1725,
+    "brand": "Blusens"
+  },
+  {
+    "brandid": 1727,
+    "brand": "Blush"
+  },
+  {
+    "brandid": 1729,
+    "brand": "Boca"
+  },
+  {
+    "brandid": 1730,
+    "brand": "京东方"
+  },
+  {
+    "brandid": 1733,
+    "brand": "Bogo"
+  },
+  {
+    "brandid": 1734,
+    "brand": "Boman"
+  },
+  {
+    "brandid": 1736,
+    "brand": "Bork"
+  },
+  {
+    "brandid": 1749,
+    "brand": "Bpl"
+  },
+  {
+    "brandid": 1750,
+    "brand": "Bradford"
+  },
+  {
+    "brandid": 1752,
+    "brand": "Brandt"
+  },
+  {
+    "brandid": 1754,
+    "brand": "Brimax"
+  },
+  {
+    "brandid": 1755,
+    "brand": "Brinkmann"
+  },
+  {
+    "brandid": 1756,
+    "brand": "Brionvega"
+  },
+  {
+    "brandid": 1758,
+    "brand": "Brockwood"
+  },
+  {
+    "brandid": 1759,
+    "brand": "Broksonic"
+  },
+  {
+    "brandid": 1760,
+    "brand": "Brother"
+  },
+  {
+    "brandid": 1766,
+    "brand": "布什"
+  },
+  {
+    "brandid": 1768,
+    "brand": "Buxtron"
+  },
+  {
+    "brandid": 1774,
+    "brand": "彩凌"
+  },
+  {
+    "brandid": 1776,
+    "brand": "彩诗"
+  },
+  {
+    "brandid": 1779,
+    "brand": "彩行"
+  },
+  {
+    "brandid": 1784,
+    "brand": "可利士"
+  },
+  {
+    "brandid": 1789,
+    "brand": "Cameron"
+  },
+  {
+    "brandid": 1790,
+    "brand": "Camper"
+  },
+  {
+    "brandid": 1797,
+    "brand": "创佳"
+  },
+  {
+    "brandid": 1799,
+    "brand": "Candle"
+  },
+  {
+    "brandid": 1802,
+    "brand": "Capehart"
+  },
+  {
+    "brandid": 1803,
+    "brand": "Capsonic"
+  },
+  {
+    "brandid": 1804,
+    "brand": "Carad"
+  },
+  {
+    "brandid": 1805,
+    "brand": "Carena"
+  },
+  {
+    "brandid": 1806,
+    "brand": "Carrefour"
+  },
+  {
+    "brandid": 1809,
+    "brand": "卡维"
+  },
+  {
+    "brandid": 1811,
+    "brand": "Cascade"
+  },
+  {
+    "brandid": 1812,
+    "brand": "卡西欧"
+  },
+  {
+    "brandid": 1814,
+    "brand": "Cat"
+  },
+  {
+    "brandid": 1815,
+    "brand": "Cathay"
+  },
+  {
+    "brandid": 1816,
+    "brand": "Cce"
+  },
+  {
+    "brandid": 1819,
+    "brand": "Celcuts"
+  },
+  {
+    "brandid": 1820,
+    "brand": "Celebrity"
+  },
+  {
+    "brandid": 1821,
+    "brand": "Celera"
+  },
+  {
+    "brandid": 1822,
+    "brand": "Celestial"
+  },
+  {
+    "brandid": 1823,
+    "brand": "Cello"
+  },
+  {
+    "brandid": 1826,
+    "brand": "Centrex"
+  },
+  {
+    "brandid": 1827,
+    "brand": "Centrios"
+  },
+  {
+    "brandid": 1828,
+    "brand": "Centrum"
+  },
+  {
+    "brandid": 1829,
+    "brand": "Centurion"
+  },
+  {
+    "brandid": 1830,
+    "brand": "Cetomer"
+  },
+  {
+    "brandid": 1831,
+    "brand": "Cetronic"
+  },
+  {
+    "brandid": 1834,
+    "brand": "长飞"
+  },
+  {
+    "brandid": 1836,
+    "brand": "长风"
+  },
+  {
+    "brandid": 1838,
+    "brand": "长海"
+  },
+  {
+    "brandid": 1840,
+    "brand": "长河"
+  },
+  {
+    "brandid": 1842,
+    "brand": "长虹"
+  },
+  {
+    "brandid": 1846,
+    "brand": "Chaparral"
+  },
+  {
+    "brandid": 1847,
+    "brand": "Charter"
+  },
+  {
+    "brandid": 1850,
+    "brand": "成都"
+  },
+  {
+    "brandid": 1855,
+    "brand": "志高"
+  },
+  {
+    "brandid": 1857,
+    "brand": "奇美"
+  },
+  {
+    "brandid": 1859,
+    "brand": "中国电信"
+  },
+  {
+    "brandid": 1861,
+    "brand": "Chl"
+  },
+  {
+    "brandid": 1862,
+    "brand": "Chun Yun"
+  },
+  {
+    "brandid": 1863,
+    "brand": "春风"
+  },
+  {
+    "brandid": 1865,
+    "brand": "Chung Hsin"
+  },
+  {
+    "brandid": 1866,
+    "brand": "春兰"
+  },
+  {
+    "brandid": 1868,
+    "brand": "春笋"
+  },
+  {
+    "brandid": 1870,
+    "brand": "春云"
+  },
+  {
+    "brandid": 1872,
+    "brand": "Cibn"
+  },
+  {
+    "brandid": 1873,
+    "brand": "Cielo"
+  },
+  {
+    "brandid": 1875,
+    "brand": "Cinego"
+  },
+  {
+    "brandid": 1876,
+    "brand": "Cineral"
+  },
+  {
+    "brandid": 1880,
+    "brand": "Cinex"
+  },
+  {
+    "brandid": 1881,
+    "brand": "瑞旭"
+  },
+  {
+    "brandid": 1885,
+    "brand": "西铁城"
+  },
+  {
+    "brandid": 1891,
+    "brand": "Clairtone"
+  },
+  {
+    "brandid": 1892,
+    "brand": "Clarity"
+  },
+  {
+    "brandid": 1893,
+    "brand": "Clarivox"
+  },
+  {
+    "brandid": 1898,
+    "brand": "Classic"
+  },
+  {
+    "brandid": 1899,
+    "brand": "Clatronic"
+  },
+  {
+    "brandid": 1900,
+    "brand": "Clayton"
+  },
+  {
+    "brandid": 1901,
+    "brand": "Clp"
+  },
+  {
+    "brandid": 1902,
+    "brand": "Clp Classic"
+  },
+  {
+    "brandid": 1906,
+    "brand": "Cmx"
+  },
+  {
+    "brandid": 1908,
+    "brand": "高飞"
+  },
+  {
+    "brandid": 1912,
+    "brand": "Color Voice"
+  },
+  {
+    "brandid": 1913,
+    "brand": "Colortyme"
+  },
+  {
+    "brandid": 1917,
+    "brand": "Commercial Solutions"
+  },
+  {
+    "brandid": 1920,
+    "brand": "康维"
+  },
+  {
+    "brandid": 1923,
+    "brand": "Concerto"
+  },
+  {
+    "brandid": 1924,
+    "brand": "Concierge"
+  },
+  {
+    "brandid": 1925,
+    "brand": "Condor"
+  },
+  {
+    "brandid": 1927,
+    "brand": "Conia"
+  },
+  {
+    "brandid": 1928,
+    "brand": "Conic"
+  },
+  {
+    "brandid": 1929,
+    "brand": "Conrac"
+  },
+  {
+    "brandid": 1930,
+    "brand": "Conrad"
+  },
+  {
+    "brandid": 1931,
+    "brand": "高路华"
+  },
+  {
+    "brandid": 1933,
+    "brand": "Contec"
+  },
+  {
+    "brandid": 1935,
+    "brand": "Contex"
+  },
+  {
+    "brandid": 1936,
+    "brand": "Continental Edison"
+  },
+  {
+    "brandid": 1941,
+    "brand": "Corfug"
+  },
+  {
+    "brandid": 1942,
+    "brand": "Cornea"
+  },
+  {
+    "brandid": 1947,
+    "brand": "Cosmel"
+  },
+  {
+    "brandid": 1950,
+    "brand": "Cox"
+  },
+  {
+    "brandid": 1952,
+    "brand": "Cptec"
+  },
+  {
+    "brandid": 1953,
+    "brand": "Craig"
+  },
+  {
+    "brandid": 1956,
+    "brand": "创新"
+  },
+  {
+    "brandid": 1961,
+    "brand": "Crosley"
+  },
+  {
+    "brandid": 1962,
+    "brand": "皇冠"
+  },
+  {
+    "brandid": 1965,
+    "brand": "Crystal"
+  },
+  {
+    "brandid": 1967,
+    "brand": "Ctx"
+  },
+  {
+    "brandid": 1968,
+    "brand": "Curtis"
+  },
+  {
+    "brandid": 1969,
+    "brand": "Curtis International"
+  },
+  {
+    "brandid": 1970,
+    "brand": "Curtis Mathes"
+  },
+  {
+    "brandid": 1971,
+    "brand": "Cwr-Tech"
+  },
+  {
+    "brandid": 1972,
+    "brand": "Cxc"
+  },
+  {
+    "brandid": 1974,
+    "brand": "Cyberpix"
+  },
+  {
+    "brandid": 1977,
+    "brand": "Cybervision"
+  },
+  {
+    "brandid": 1983,
+    "brand": "Cytronix"
+  },
+  {
+    "brandid": 1986,
+    "brand": "D-Vision"
+  },
+  {
+    "brandid": 1987,
+    "brand": "D.Boss"
+  },
+  {
+    "brandid": 1988,
+    "brand": "Dacus"
+  },
+  {
+    "brandid": 1990,
+    "brand": "大宇"
+  },
+  {
+    "brandid": 2004,
+    "brand": "Dansai"
+  },
+  {
+    "brandid": 2005,
+    "brand": "丹特声"
+  },
+  {
+    "brandid": 2009,
+    "brand": "大亚"
+  },
+  {
+    "brandid": 2012,
+    "brand": "Datron"
+  },
+  {
+    "brandid": 2013,
+    "brand": "Datusra"
+  },
+  {
+    "brandid": 2014,
+    "brand": "Dawa"
+  },
+  {
+    "brandid": 2017,
+    "brand": "Daytek"
+  },
+  {
+    "brandid": 2019,
+    "brand": "Daytron"
+  },
+  {
+    "brandid": 2020,
+    "brand": "大禹"
+  },
+  {
+    "brandid": 2023,
+    "brand": "德创"
+  },
+  {
+    "brandid": 2026,
+    "brand": "De Graaf"
+  },
+  {
+    "brandid": 2027,
+    "brand": "中恒"
+  },
+  {
+    "brandid": 2029,
+    "brand": "Decca"
+  },
+  {
+    "brandid": 2032,
+    "brand": "Deitron"
+  },
+  {
+    "brandid": 2033,
+    "brand": "戴尔"
+  },
+  {
+    "brandid": 2037,
+    "brand": "Deltron"
+  },
+  {
+    "brandid": 2038,
+    "brand": "Denko"
+  },
+  {
+    "brandid": 2043,
+    "brand": "Denver"
+  },
+  {
+    "brandid": 2044,
+    "brand": "Desmet"
+  },
+  {
+    "brandid": 2045,
+    "brand": "Dew"
+  },
+  {
+    "brandid": 2046,
+    "brand": "Dgm"
+  },
+  {
+    "brandid": 2047,
+    "brand": "Dgtec"
+  },
+  {
+    "brandid": 2048,
+    "brand": "Diamant"
+  },
+  {
+    "brandid": 2049,
+    "brand": "钻石"
+  },
+  {
+    "brandid": 2051,
+    "brand": "Diamond Vision"
+  },
+  {
+    "brandid": 2052,
+    "brand": "Diboss"
+  },
+  {
+    "brandid": 2053,
+    "brand": "Dick Smith Electronics"
+  },
+  {
+    "brandid": 2055,
+    "brand": "Digatron"
+  },
+  {
+    "brandid": 2063,
+    "brand": "Digihome"
+  },
+  {
+    "brandid": 2064,
+    "brand": "Digiline"
+  },
+  {
+    "brandid": 2065,
+    "brand": "Digilogic"
+  },
+  {
+    "brandid": 2066,
+    "brand": "Digimate"
+  },
+  {
+    "brandid": 2072,
+    "brand": "联硕"
+  },
+  {
+    "brandid": 2074,
+    "brand": "Digistar"
+  },
+  {
+    "brandid": 2076,
+    "brand": "Digital"
+  },
+  {
+    "brandid": 2082,
+    "brand": "德基德克"
+  },
+  {
+    "brandid": 2085,
+    "brand": "Digitek"
+  },
+  {
+    "brandid": 2087,
+    "brand": "Digitex"
+  },
+  {
+    "brandid": 2088,
+    "brand": "Digitor"
+  },
+  {
+    "brandid": 2089,
+    "brand": "Digitrex"
+  },
+  {
+    "brandid": 2094,
+    "brand": "Dik"
+  },
+  {
+    "brandid": 2095,
+    "brand": "Dikom"
+  },
+  {
+    "brandid": 2098,
+    "brand": "Dimensia"
+  },
+  {
+    "brandid": 2100,
+    "brand": "迪耐斯"
+  },
+  {
+    "brandid": 2103,
+    "brand": "Directv"
+  },
+  {
+    "brandid": 2108,
+    "brand": "Disney"
+  },
+  {
+    "brandid": 2109,
+    "brand": "Distar"
+  },
+  {
+    "brandid": 2112,
+    "brand": "Division"
+  },
+  {
+    "brandid": 2113,
+    "brand": "Dixi"
+  },
+  {
+    "brandid": 2117,
+    "brand": "Dl"
+  },
+  {
+    "brandid": 2118,
+    "brand": "得丽珑"
+  },
+  {
+    "brandid": 2120,
+    "brand": "Dmtech"
+  },
+  {
+    "brandid": 2125,
+    "brand": "东宝"
+  },
+  {
+    "brandid": 2129,
+    "brand": "Domeos"
+  },
+  {
+    "brandid": 2132,
+    "brand": "东宝东凌"
+  },
+  {
+    "brandid": 2134,
+    "brand": "东大"
+  },
+  {
+    "brandid": 2136,
+    "brand": "东海"
+  },
+  {
+    "brandid": 2139,
+    "brand": "东源"
+  },
+  {
+    "brandid": 2147,
+    "brand": "梦寐"
+  },
+  {
+    "brandid": 2151,
+    "brand": "Dse"
+  },
+  {
+    "brandid": 2152,
+    "brand": "Dstv"
+  },
+  {
+    "brandid": 2155,
+    "brand": "森禾科技"
+  },
+  {
+    "brandid": 2158,
+    "brand": "宝得丽"
+  },
+  {
+    "brandid": 2160,
+    "brand": "杜肯"
+  },
+  {
+    "brandid": 2162,
+    "brand": "Dumont"
+  },
+  {
+    "brandid": 2164,
+    "brand": "Dunlop"
+  },
+  {
+    "brandid": 2167,
+    "brand": "Durabrand"
+  },
+  {
+    "brandid": 2168,
+    "brand": "Dux"
+  },
+  {
+    "brandid": 2172,
+    "brand": "Dx Antenna"
+  },
+  {
+    "brandid": 2173,
+    "brand": "Dynasty"
+  },
+  {
+    "brandid": 2174,
+    "brand": "Dynatron"
+  },
+  {
+    "brandid": 2175,
+    "brand": "丹尼克斯"
+  },
+  {
+    "brandid": 2177,
+    "brand": "Dyon"
+  },
+  {
+    "brandid": 2178,
+    "brand": "Dévant"
+  },
+  {
+    "brandid": 2180,
+    "brand": "E-Motion"
+  },
+  {
+    "brandid": 2181,
+    "brand": "E.S.C."
+  },
+  {
+    "brandid": 2182,
+    "brand": "E:Max"
+  },
+  {
+    "brandid": 2186,
+    "brand": "东杰"
+  },
+  {
+    "brandid": 2188,
+    "brand": "Eastlink"
+  },
+  {
+    "brandid": 2189,
+    "brand": "Easy Living"
+  },
+  {
+    "brandid": 2190,
+    "brand": "Easy Touch"
+  },
+  {
+    "brandid": 2194,
+    "brand": "Ecco"
+  },
+  {
+    "brandid": 2195,
+    "brand": "百容"
+  },
+  {
+    "brandid": 2197,
+    "brand": "Ecg"
+  },
+  {
+    "brandid": 2198,
+    "brand": "Echosphere"
+  },
+  {
+    "brandid": 2199,
+    "brand": "Echostar"
+  },
+  {
+    "brandid": 2206,
+    "brand": "爱其"
+  },
+  {
+    "brandid": 2208,
+    "brand": "Elan"
+  },
+  {
+    "brandid": 2210,
+    "brand": "Elbe"
+  },
+  {
+    "brandid": 2211,
+    "brand": "Electrion"
+  },
+  {
+    "brandid": 2212,
+    "brand": "Electro"
+  },
+  {
+    "brandid": 2213,
+    "brand": "Electroband"
+  },
+  {
+    "brandid": 2215,
+    "brand": "Electrohome"
+  },
+  {
+    "brandid": 2218,
+    "brand": "Electron"
+  },
+  {
+    "brandid": 2219,
+    "brand": "Elekta"
+  },
+  {
+    "brandid": 2220,
+    "brand": "Elektra"
+  },
+  {
+    "brandid": 2221,
+    "brand": "Element"
+  },
+  {
+    "brandid": 2222,
+    "brand": "Elfunk"
+  },
+  {
+    "brandid": 2223,
+    "brand": "Elg"
+  },
+  {
+    "brandid": 2224,
+    "brand": "Elin"
+  },
+  {
+    "brandid": 2226,
+    "brand": "精英"
+  },
+  {
+    "brandid": 2228,
+    "brand": "Elite Video"
+  },
+  {
+    "brandid": 2233,
+    "brand": "Elonex"
+  },
+  {
+    "brandid": 2234,
+    "brand": "爱尔达"
+  },
+  {
+    "brandid": 2236,
+    "brand": "艾默生"
+  },
+  {
+    "brandid": 2240,
+    "brand": "Emtec"
+  },
+  {
+    "brandid": 2242,
+    "brand": "Engel"
+  },
+  {
+    "brandid": 2243,
+    "brand": "Entone"
+  },
+  {
+    "brandid": 2244,
+    "brand": "易美逊"
+  },
+  {
+    "brandid": 2246,
+    "brand": "Enzer"
+  },
+  {
+    "brandid": 2249,
+    "brand": "爱普生"
+  },
+  {
+    "brandid": 2251,
+    "brand": "Eqd"
+  },
+  {
+    "brandid": 2252,
+    "brand": "Erisson"
+  },
+  {
+    "brandid": 2253,
+    "brand": "Erres"
+  },
+  {
+    "brandid": 2254,
+    "brand": "Esa"
+  },
+  {
+    "brandid": 2257,
+    "brand": "Essentials"
+  },
+  {
+    "brandid": 2259,
+    "brand": "Eurofeel"
+  },
+  {
+    "brandid": 2260,
+    "brand": "Euroline"
+  },
+  {
+    "brandid": 2261,
+    "brand": "Euroman"
+  },
+  {
+    "brandid": 2262,
+    "brand": "Europa"
+  },
+  {
+    "brandid": 2263,
+    "brand": "Europhon"
+  },
+  {
+    "brandid": 2268,
+    "brand": "松柏"
+  },
+  {
+    "brandid": 2270,
+    "brand": "Evesham"
+  },
+  {
+    "brandid": 2271,
+    "brand": "Evolution"
+  },
+  {
+    "brandid": 2273,
+    "brand": "Evotel"
+  },
+  {
+    "brandid": 2274,
+    "brand": "Excel"
+  },
+  {
+    "brandid": 2275,
+    "brand": "优拉纳斯"
+  },
+  {
+    "brandid": 2277,
+    "brand": "Excello"
+  },
+  {
+    "brandid": 2278,
+    "brand": "彩迅"
+  },
+  {
+    "brandid": 2280,
+    "brand": "Expressvu"
+  },
+  {
+    "brandid": 2281,
+    "brand": "Exquisit"
+  },
+  {
+    "brandid": 2284,
+    "brand": "F&U"
+  },
+  {
+    "brandid": 2285,
+    "brand": "Fagor"
+  },
+  {
+    "brandid": 2286,
+    "brand": "Family Life"
+  },
+  {
+    "brandid": 2290,
+    "brand": "Favi"
+  },
+  {
+    "brandid": 2292,
+    "brand": "飞浪"
+  },
+  {
+    "brandid": 2294,
+    "brand": "飞鹿"
+  },
+  {
+    "brandid": 2296,
+    "brand": "飞燕"
+  },
+  {
+    "brandid": 2298,
+    "brand": "飞越"
+  },
+  {
+    "brandid": 2306,
+    "brand": "Ferguson"
+  },
+  {
+    "brandid": 2307,
+    "brand": "Fidelity"
+  },
+  {
+    "brandid": 2308,
+    "brand": "Filo"
+  },
+  {
+    "brandid": 2310,
+    "brand": "Finlandia"
+  },
+  {
+    "brandid": 2311,
+    "brand": "Finlux"
+  },
+  {
+    "brandid": 2314,
+    "brand": "福斯莱"
+  },
+  {
+    "brandid": 2316,
+    "brand": "Fisher"
+  },
+  {
+    "brandid": 2319,
+    "brand": "Flint"
+  },
+  {
+    "brandid": 2322,
+    "brand": "Fluid"
+  },
+  {
+    "brandid": 2324,
+    "brand": "Foehn&Hirsch"
+  },
+  {
+    "brandid": 2325,
+    "brand": "新飞"
+  },
+  {
+    "brandid": 2327,
+    "brand": "Formenti"
+  },
+  {
+    "brandid": 2328,
+    "brand": "丰泽"
+  },
+  {
+    "brandid": 2334,
+    "brand": "富士康"
+  },
+  {
+    "brandid": 2338,
+    "brand": "Fraba"
+  },
+  {
+    "brandid": 2342,
+    "brand": "Freesat"
+  },
+  {
+    "brandid": 2344,
+    "brand": "Friac"
+  },
+  {
+    "brandid": 2345,
+    "brand": "富及第"
+  },
+  {
+    "brandid": 2347,
+    "brand": "富士通先端科技"
+  },
+  {
+    "brandid": 2349,
+    "brand": "Frontier"
+  },
+  {
+    "brandid": 2351,
+    "brand": "Ftemaximal"
+  },
+  {
+    "brandid": 2356,
+    "brand": "Fujicom"
+  },
+  {
+    "brandid": 2357,
+    "brand": "Fujimaro"
+  },
+  {
+    "brandid": 2358,
+    "brand": "Fujimaru"
+  },
+  {
+    "brandid": 2359,
+    "brand": "富士通"
+  },
+  {
+    "brandid": 2362,
+    "brand": "Fujitsu Siemens"
+  },
+  {
+    "brandid": 2365,
+    "brand": "风行"
+  },
+  {
+    "brandid": 2367,
+    "brand": "船井"
+  },
+  {
+    "brandid": 2370,
+    "brand": "福日"
+  },
+  {
+    "brandid": 2374,
+    "brand": "Furrion"
+  },
+  {
+    "brandid": 2377,
+    "brand": "富士丸"
+  },
+  {
+    "brandid": 2379,
+    "brand": "抚顺"
+  },
+  {
+    "brandid": 2381,
+    "brand": "Fusion"
+  },
+  {
+    "brandid": 2382,
+    "brand": "Futronic"
+  },
+  {
+    "brandid": 2383,
+    "brand": "Future"
+  },
+  {
+    "brandid": 2384,
+    "brand": "Futuretec"
+  },
+  {
+    "brandid": 2387,
+    "brand": "Gaba"
+  },
+  {
+    "brandid": 2391,
+    "brand": "Galaxi"
+  },
+  {
+    "brandid": 2392,
+    "brand": "Galaxis"
+  },
+  {
+    "brandid": 2396,
+    "brand": "港泰"
+  },
+  {
+    "brandid": 2398,
+    "brand": "赣新"
+  },
+  {
+    "brandid": 2400,
+    "brand": "高敏氏"
+  },
+  {
+    "brandid": 2403,
+    "brand": "Garza"
+  },
+  {
+    "brandid": 2404,
+    "brand": "捷威"
+  },
+  {
+    "brandid": 2409,
+    "brand": "歌"
+  },
+  {
+    "brandid": 2412,
+    "brand": "Gec"
+  },
+  {
+    "brandid": 2416,
+    "brand": "Gemini"
+  },
+  {
+    "brandid": 2417,
+    "brand": "General Electric"
+  },
+  {
+    "brandid": 2419,
+    "brand": "General Instrument"
+  },
+  {
+    "brandid": 2423,
+    "brand": "Genesis"
+  },
+  {
+    "brandid": 2424,
+    "brand": "Genexxa"
+  },
+  {
+    "brandid": 2425,
+    "brand": "Gericom"
+  },
+  {
+    "brandid": 2427,
+    "brand": "Gfm"
+  },
+  {
+    "brandid": 2428,
+    "brand": "Ggi"
+  },
+  {
+    "brandid": 2429,
+    "brand": "Gibralter"
+  },
+  {
+    "brandid": 2435,
+    "brand": "Globecast"
+  },
+  {
+    "brandid": 2440,
+    "brand": "Go Video"
+  },
+  {
+    "brandid": 2444,
+    "brand": "Godrej"
+  },
+  {
+    "brandid": 2445,
+    "brand": "Gogen"
+  },
+  {
+    "brandid": 2446,
+    "brand": "Goi"
+  },
+  {
+    "brandid": 2447,
+    "brand": "国科"
+  },
+  {
+    "brandid": 2449,
+    "brand": "Gold"
+  },
+  {
+    "brandid": 2452,
+    "brand": "Goldfunk"
+  },
+  {
+    "brandid": 2453,
+    "brand": "Goldi"
+  },
+  {
+    "brandid": 2456,
+    "brand": "金海"
+  },
+  {
+    "brandid": 2458,
+    "brand": "高士达"
+  },
+  {
+    "brandid": 2460,
+    "brand": "Goodmans"
+  },
+  {
+    "brandid": 2462,
+    "brand": "Gorenje"
+  },
+  {
+    "brandid": 2463,
+    "brand": "康宏电器"
+  },
+  {
+    "brandid": 2466,
+    "brand": "Gpx"
+  },
+  {
+    "brandid": 2467,
+    "brand": "Gradiente"
+  },
+  {
+    "brandid": 2468,
+    "brand": "Graetz"
+  },
+  {
+    "brandid": 2469,
+    "brand": "Gran Prix"
+  },
+  {
+    "brandid": 2470,
+    "brand": "Granada"
+  },
+  {
+    "brandid": 2471,
+    "brand": "Grandin"
+  },
+  {
+    "brandid": 2472,
+    "brand": "长城"
+  },
+  {
+    "brandid": 2480,
+    "brand": "根德"
+  },
+  {
+    "brandid": 2482,
+    "brand": "Grundy"
+  },
+  {
+    "brandid": 2483,
+    "brand": "Grunkel"
+  },
+  {
+    "brandid": 2485,
+    "brand": "Guestvision"
+  },
+  {
+    "brandid": 2486,
+    "brand": "Gva"
+  },
+  {
+    "brandid": 2487,
+    "brand": "Gvision"
+  },
+  {
+    "brandid": 2488,
+    "brand": "G一Hanz"
+  },
+  {
+    "brandid": 2489,
+    "brand": "H&B"
+  },
+  {
+    "brandid": 2490,
+    "brand": "Haaz"
+  },
+  {
+    "brandid": 2493,
+    "brand": "海尔"
+  },
+  {
+    "brandid": 2495,
+    "brand": "海虹"
+  },
+  {
+    "brandid": 2497,
+    "brand": "海燕"
+  },
+  {
+    "brandid": 2500,
+    "brand": "Halifax"
+  },
+  {
+    "brandid": 2501,
+    "brand": "贺曼"
+  },
+  {
+    "brandid": 2505,
+    "brand": "Hammerstein"
+  },
+  {
+    "brandid": 2507,
+    "brand": "汉的"
+  },
+  {
+    "brandid": 2511,
+    "brand": "瀚视奇"
+  },
+  {
+    "brandid": 2513,
+    "brand": "瀚斯宝丽"
+  },
+  {
+    "brandid": 2516,
+    "brand": "Hanseatic"
+  },
+  {
+    "brandid": 2517,
+    "brand": "Hantarex"
+  },
+  {
+    "brandid": 2518,
+    "brand": "Hantor"
+  },
+  {
+    "brandid": 2519,
+    "brand": "好而易"
+  },
+  {
+    "brandid": 2521,
+    "brand": "哈曼卡顿"
+  },
+  {
+    "brandid": 2524,
+    "brand": "Harvard"
+  },
+  {
+    "brandid": 2525,
+    "brand": "Harwood"
+  },
+  {
+    "brandid": 2527,
+    "brand": "Hauppauge"
+  },
+  {
+    "brandid": 2528,
+    "brand": "Havermy"
+  },
+  {
+    "brandid": 2530,
+    "brand": "Hcm"
+  },
+  {
+    "brandid": 2533,
+    "brand": "禾聯碩"
+  },
+  {
+    "brandid": 2535,
+    "brand": "Hedy"
+  },
+  {
+    "brandid": 2536,
+    "brand": "Hedzon"
+  },
+  {
+    "brandid": 2537,
+    "brand": "黑钻"
+  },
+  {
+    "brandid": 2539,
+    "brand": "Hello Kitty"
+  },
+  {
+    "brandid": 2540,
+    "brand": "禾联"
+  },
+  {
+    "brandid": 2542,
+    "brand": "Hero Sonic"
+  },
+  {
+    "brandid": 2549,
+    "brand": "Highline"
+  },
+  {
+    "brandid": 2550,
+    "brand": "Hikona"
+  },
+  {
+    "brandid": 2552,
+    "brand": "画佳"
+  },
+  {
+    "brandid": 2558,
+    "brand": "Hinari"
+  },
+  {
+    "brandid": 2562,
+    "brand": "Hisawa"
+  },
+  {
+    "brandid": 2563,
+    "brand": "海信"
+  },
+  {
+    "brandid": 2565,
+    "brand": "日立"
+  },
+  {
+    "brandid": 2567,
+    "brand": "Hitachi Fujian"
+  },
+  {
+    "brandid": 2568,
+    "brand": "Hitech"
+  },
+  {
+    "brandid": 2569,
+    "brand": "Hiteker"
+  },
+  {
+    "brandid": 2570,
+    "brand": "Hitevision"
+  },
+  {
+    "brandid": 2571,
+    "brand": "海威"
+  },
+  {
+    "brandid": 2573,
+    "brand": "惠科"
+  },
+  {
+    "brandid": 2576,
+    "brand": "Hns"
+  },
+  {
+    "brandid": 2577,
+    "brand": "Hoher"
+  },
+  {
+    "brandid": 2578,
+    "brand": "Home Electronics"
+  },
+  {
+    "brandid": 2580,
+    "brand": "Homecast"
+  },
+  {
+    "brandid": 2584,
+    "brand": "虹美"
+  },
+  {
+    "brandid": 2586,
+    "brand": "红岩"
+  },
+  {
+    "brandid": 2588,
+    "brand": "皓丽"
+  },
+  {
+    "brandid": 2594,
+    "brand": "惠普"
+  },
+  {
+    "brandid": 2597,
+    "brand": "惠浦电子"
+  },
+  {
+    "brandid": 2599,
+    "brand": "Hts"
+  },
+  {
+    "brandid": 2600,
+    "brand": "Hu"
+  },
+  {
+    "brandid": 2603,
+    "brand": "华发"
+  },
+  {
+    "brandid": 2609,
+    "brand": "潢海美"
+  },
+  {
+    "brandid": 2613,
+    "brand": "黄河"
+  },
+  {
+    "brandid": 2615,
+    "brand": "黄龙"
+  },
+  {
+    "brandid": 2617,
+    "brand": "環恭"
+  },
+  {
+    "brandid": 2619,
+    "brand": "黄山"
+  },
+  {
+    "brandid": 2621,
+    "brand": "环宇"
+  },
+  {
+    "brandid": 2623,
+    "brand": "华强"
+  },
+  {
+    "brandid": 2625,
+    "brand": "瓦里"
+  },
+  {
+    "brandid": 2628,
+    "brand": "华数-开元酒店"
+  },
+  {
+    "brandid": 2630,
+    "brand": "华为"
+  },
+  {
+    "brandid": 2632,
+    "brand": "Hughes"
+  },
+  {
+    "brandid": 2634,
+    "brand": "Hugoson"
+  },
+  {
+    "brandid": 2635,
+    "brand": "慧佳伴"
+  },
+  {
+    "brandid": 2638,
+    "brand": "Humax"
+  },
+  {
+    "brandid": 2639,
+    "brand": "昏莎"
+  },
+  {
+    "brandid": 2641,
+    "brand": "Huyu"
+  },
+  {
+    "brandid": 2643,
+    "brand": "Hypson"
+  },
+  {
+    "brandid": 2644,
+    "brand": "现代"
+  },
+  {
+    "brandid": 2648,
+    "brand": "I-Joy"
+  },
+  {
+    "brandid": 2650,
+    "brand": "Iberia"
+  },
+  {
+    "brandid": 2651,
+    "brand": "Ice"
+  },
+  {
+    "brandid": 2659,
+    "brand": "Ideal"
+  },
+  {
+    "brandid": 2662,
+    "brand": "Ikasu"
+  },
+  {
+    "brandid": 2664,
+    "brand": "Ilo"
+  },
+  {
+    "brandid": 2665,
+    "brand": "Ima"
+  },
+  {
+    "brandid": 2668,
+    "brand": "Imiro"
+  },
+  {
+    "brandid": 2669,
+    "brand": "Imperial"
+  },
+  {
+    "brandid": 2670,
+    "brand": "Imperial Crown"
+  },
+  {
+    "brandid": 2671,
+    "brand": "Indiana"
+  },
+  {
+    "brandid": 2673,
+    "brand": "Infinity"
+  },
+  {
+    "brandid": 2674,
+    "brand": "富可视"
+  },
+  {
+    "brandid": 2676,
+    "brand": "Ingelen"
+  },
+  {
+    "brandid": 2677,
+    "brand": "Ingo Devices"
+  },
+  {
+    "brandid": 2678,
+    "brand": "Initial"
+  },
+  {
+    "brandid": 2679,
+    "brand": "Inno Hit"
+  },
+  {
+    "brandid": 2680,
+    "brand": "Innova"
+  },
+  {
+    "brandid": 2681,
+    "brand": "Innovation"
+  },
+  {
+    "brandid": 2684,
+    "brand": "Innowert"
+  },
+  {
+    "brandid": 2685,
+    "brand": "Inotech"
+  },
+  {
+    "brandid": 2690,
+    "brand": "影雅"
+  },
+  {
+    "brandid": 2692,
+    "brand": "Inspira"
+  },
+  {
+    "brandid": 2693,
+    "brand": "浪潮"
+  },
+  {
+    "brandid": 2695,
+    "brand": "Integra"
+  },
+  {
+    "brandid": 2696,
+    "brand": "英特尔"
+  },
+  {
+    "brandid": 2698,
+    "brand": "Inteq"
+  },
+  {
+    "brandid": 2699,
+    "brand": "Inter"
+  },
+  {
+    "brandid": 2700,
+    "brand": "Interactive"
+  },
+  {
+    "brandid": 2701,
+    "brand": "Interbuy"
+  },
+  {
+    "brandid": 2702,
+    "brand": "Interfunk"
+  },
+  {
+    "brandid": 2703,
+    "brand": "Internal"
+  },
+  {
+    "brandid": 2704,
+    "brand": "Intervision"
+  },
+  {
+    "brandid": 2715,
+    "brand": "Irradio"
+  },
+  {
+    "brandid": 2716,
+    "brand": "Irt"
+  },
+  {
+    "brandid": 2717,
+    "brand": "Isis"
+  },
+  {
+    "brandid": 2720,
+    "brand": "Isukai"
+  },
+  {
+    "brandid": 2721,
+    "brand": "Isymphony"
+  },
+  {
+    "brandid": 2722,
+    "brand": "Its"
+  },
+  {
+    "brandid": 2723,
+    "brand": "Itt"
+  },
+  {
+    "brandid": 2724,
+    "brand": "Itt Nokia"
+  },
+  {
+    "brandid": 2725,
+    "brand": "Itv"
+  },
+  {
+    "brandid": 2726,
+    "brand": "Iwitch"
+  },
+  {
+    "brandid": 2731,
+    "brand": "Janeil"
+  },
+  {
+    "brandid": 2737,
+    "brand": "Jay-Tech"
+  },
+  {
+    "brandid": 2738,
+    "brand": "Jbl"
+  },
+  {
+    "brandid": 2739,
+    "brand": "Jc Penney"
+  },
+  {
+    "brandid": 2740,
+    "brand": "Jcb"
+  },
+  {
+    "brandid": 2742,
+    "brand": "美齐"
+  },
+  {
+    "brandid": 2744,
+    "brand": "Jensen"
+  },
+  {
+    "brandid": 2746,
+    "brand": "Jgc"
+  },
+  {
+    "brandid": 2747,
+    "brand": "Jiahua"
+  },
+  {
+    "brandid": 2748,
+    "brand": "佳丽彩"
+  },
+  {
+    "brandid": 2751,
+    "brand": "鉴声"
+  },
+  {
+    "brandid": 2753,
+    "brand": "吉莱瑞"
+  },
+  {
+    "brandid": 2755,
+    "brand": "金凤"
+  },
+  {
+    "brandid": 2757,
+    "brand": "金利普"
+  },
+  {
+    "brandid": 2759,
+    "brand": "金鹊"
+  },
+  {
+    "brandid": 2761,
+    "brand": "金鑫板"
+  },
+  {
+    "brandid": 2763,
+    "brand": "金星"
+  },
+  {
+    "brandid": 2767,
+    "brand": "Jmb"
+  },
+  {
+    "brandid": 2771,
+    "brand": "Jocel"
+  },
+  {
+    "brandid": 2772,
+    "brand": "John Lewis"
+  },
+  {
+    "brandid": 2773,
+    "brand": "Jubilee"
+  },
+  {
+    "brandid": 2774,
+    "brand": "菊花"
+  },
+  {
+    "brandid": 2778,
+    "brand": "Jwf"
+  },
+  {
+    "brandid": 2784,
+    "brand": "Kaidel"
+  },
+  {
+    "brandid": 2785,
+    "brand": "Kaisui"
+  },
+  {
+    "brandid": 2786,
+    "brand": "Kambrook"
+  },
+  {
+    "brandid": 2790,
+    "brand": "康虹"
+  },
+  {
+    "brandid": 2792,
+    "brand": "康宏"
+  },
+  {
+    "brandid": 2794,
+    "brand": "康华"
+  },
+  {
+    "brandid": 2796,
+    "brand": "康力"
+  },
+  {
+    "brandid": 2799,
+    "brand": "康威"
+  },
+  {
+    "brandid": 2801,
+    "brand": "康鑫"
+  },
+  {
+    "brandid": 2803,
+    "brand": "康艺"
+  },
+  {
+    "brandid": 2807,
+    "brand": "凯驰"
+  },
+  {
+    "brandid": 2809,
+    "brand": "凯歌"
+  },
+  {
+    "brandid": 2813,
+    "brand": "Kathrein"
+  },
+  {
+    "brandid": 2814,
+    "brand": "嘉华"
+  },
+  {
+    "brandid": 2818,
+    "brand": "川崎"
+  },
+  {
+    "brandid": 2820,
+    "brand": "Kawasho"
+  },
+  {
+    "brandid": 2821,
+    "brand": "Kaypani"
+  },
+  {
+    "brandid": 2824,
+    "brand": "Kds"
+  },
+  {
+    "brandid": 2825,
+    "brand": "Kec"
+  },
+  {
+    "brandid": 2826,
+    "brand": "科朗"
+  },
+  {
+    "brandid": 2832,
+    "brand": "Kendo"
+  },
+  {
+    "brandid": 2833,
+    "brand": "Kenmark"
+  },
+  {
+    "brandid": 2834,
+    "brand": "Kennex"
+  },
+  {
+    "brandid": 2835,
+    "brand": "Kenstar"
+  },
+  {
+    "brandid": 2837,
+    "brand": "健伍"
+  },
+  {
+    "brandid": 2839,
+    "brand": "Keymat"
+  },
+  {
+    "brandid": 2843,
+    "brand": "Kingsbrook"
+  },
+  {
+    "brandid": 2844,
+    "brand": "Kioto"
+  },
+  {
+    "brandid": 2849,
+    "brand": "Kiton"
+  },
+  {
+    "brandid": 2850,
+    "brand": "Klh"
+  },
+  {
+    "brandid": 2853,
+    "brand": "华融"
+  },
+  {
+    "brandid": 2855,
+    "brand": "Kloss Novabeam"
+  },
+  {
+    "brandid": 2856,
+    "brand": "Kmc"
+  },
+  {
+    "brandid": 2857,
+    "brand": "Kneissel"
+  },
+  {
+    "brandid": 2858,
+    "brand": "Knoll Systems(Zenith)"
+  },
+  {
+    "brandid": 2860,
+    "brand": "Kobra"
+  },
+  {
+    "brandid": 2861,
+    "brand": "Kogi"
+  },
+  {
+    "brandid": 2864,
+    "brand": "歌林"
+  },
+  {
+    "brandid": 2866,
+    "brand": "Kolster"
+  },
+  {
+    "brandid": 2867,
+    "brand": "康佳"
+  },
+  {
+    "brandid": 2871,
+    "brand": "康星"
+  },
+  {
+    "brandid": 2876,
+    "brand": "Korpel"
+  },
+  {
+    "brandid": 2878,
+    "brand": "Kosmos"
+  },
+  {
+    "brandid": 2881,
+    "brand": "Kotron"
+  },
+  {
+    "brandid": 2886,
+    "brand": "Kreisen"
+  },
+  {
+    "brandid": 2890,
+    "brand": "Ktv"
+  },
+  {
+    "brandid": 2891,
+    "brand": "快乐"
+  },
+  {
+    "brandid": 2893,
+    "brand": "库伦旗"
+  },
+  {
+    "brandid": 2895,
+    "brand": "昆仑"
+  },
+  {
+    "brandid": 2897,
+    "brand": "Kuppersbusch"
+  },
+  {
+    "brandid": 2898,
+    "brand": "Kurazai"
+  },
+  {
+    "brandid": 2899,
+    "brand": "Kworld"
+  },
+  {
+    "brandid": 2901,
+    "brand": "Kyoshu"
+  },
+  {
+    "brandid": 2902,
+    "brand": "L&S Electronic"
+  },
+  {
+    "brandid": 2913,
+    "brand": "Lasonic"
+  },
+  {
+    "brandid": 2916,
+    "brand": "Lavis"
+  },
+  {
+    "brandid": 2918,
+    "brand": "Lct"
+  },
+  {
+    "brandid": 2919,
+    "brand": "统帅"
+  },
+  {
+    "brandid": 2921,
+    "brand": "Leadtek"
+  },
+  {
+    "brandid": 2922,
+    "brand": "飞跃"
+  },
+  {
+    "brandid": 2924,
+    "brand": "Lecson"
+  },
+  {
+    "brandid": 2925,
+    "brand": "Leege"
+  },
+  {
+    "brandid": 2926,
+    "brand": "Legend"
+  },
+  {
+    "brandid": 2930,
+    "brand": "Lenco"
+  },
+  {
+    "brandid": 2931,
+    "brand": "联想"
+  },
+  {
+    "brandid": 2934,
+    "brand": "Lenson"
+  },
+  {
+    "brandid": 2935,
+    "brand": "乐视"
+  },
+  {
+    "brandid": 2937,
+    "brand": "Level"
+  },
+  {
+    "brandid": 2938,
+    "brand": "Levis Austria"
+  },
+  {
+    "brandid": 2943,
+    "brand": "力高"
+  },
+  {
+    "brandid": 2945,
+    "brand": "LG"
+  },
+  {
+    "brandid": 2948,
+    "brand": "Liesenkotter"
+  },
+  {
+    "brandid": 2950,
+    "brand": "Lifetec"
+  },
+  {
+    "brandid": 2953,
+    "brand": "百合"
+  },
+  {
+    "brandid": 2956,
+    "brand": "Linetech"
+  },
+  {
+    "brandid": 2958,
+    "brand": "Linn"
+  },
+  {
+    "brandid": 2960,
+    "brand": "Linsar"
+  },
+  {
+    "brandid": 2961,
+    "brand": "Liquidvideo"
+  },
+  {
+    "brandid": 2962,
+    "brand": "Listo"
+  },
+  {
+    "brandid": 2971,
+    "brand": "劳埃德"
+  },
+  {
+    "brandid": 2974,
+    "brand": "Lnno Hit"
+  },
+  {
+    "brandid": 2975,
+    "brand": "Local Calcutta Tv"
+  },
+  {
+    "brandid": 2976,
+    "brand": "Local Chennai Tv"
+  },
+  {
+    "brandid": 2977,
+    "brand": "Local Delhi Tv"
+  },
+  {
+    "brandid": 2978,
+    "brand": "Lodgenet"
+  },
+  {
+    "brandid": 2979,
+    "brand": "Lodos"
+  },
+  {
+    "brandid": 2980,
+    "brand": "罗意威"
+  },
+  {
+    "brandid": 2984,
+    "brand": "Logik"
+  },
+  {
+    "brandid": 2988,
+    "brand": "Logix"
+  },
+  {
+    "brandid": 2989,
+    "brand": "龙江"
+  },
+  {
+    "brandid": 2994,
+    "brand": "龙岩春风"
+  },
+  {
+    "brandid": 2997,
+    "brand": "Lowry"
+  },
+  {
+    "brandid": 2998,
+    "brand": "Lrradio"
+  },
+  {
+    "brandid": 2999,
+    "brand": "雷特"
+  },
+  {
+    "brandid": 3001,
+    "brand": "Luce"
+  },
+  {
+    "brandid": 3002,
+    "brand": "Luma"
+  },
+  {
+    "brandid": 3003,
+    "brand": "Lumatron"
+  },
+  {
+    "brandid": 3004,
+    "brand": "Lumenio"
+  },
+  {
+    "brandid": 3005,
+    "brand": "逻辑学"
+  },
+  {
+    "brandid": 3007,
+    "brand": "Lux May"
+  },
+  {
+    "brandid": 3008,
+    "brand": "力仕"
+  },
+  {
+    "brandid": 3010,
+    "brand": "Luxor"
+  },
+  {
+    "brandid": 3011,
+    "brand": "Lxi"
+  },
+  {
+    "brandid": 3015,
+    "brand": "Madison"
+  },
+  {
+    "brandid": 3016,
+    "brand": "Mag"
+  },
+  {
+    "brandid": 3020,
+    "brand": "Magnasonic"
+  },
+  {
+    "brandid": 3021,
+    "brand": "Magnavox"
+  },
+  {
+    "brandid": 3022,
+    "brand": "Magnin"
+  },
+  {
+    "brandid": 3023,
+    "brand": "Magnum"
+  },
+  {
+    "brandid": 3024,
+    "brand": "麦迪龙"
+  },
+  {
+    "brandid": 3028,
+    "brand": "Majestic"
+  },
+  {
+    "brandid": 3029,
+    "brand": "万利达"
+  },
+  {
+    "brandid": 3031,
+    "brand": "Mandor"
+  },
+  {
+    "brandid": 3032,
+    "brand": "Manesth"
+  },
+  {
+    "brandid": 3033,
+    "brand": "曼哈顿"
+  },
+  {
+    "brandid": 3039,
+    "brand": "Maqma"
+  },
+  {
+    "brandid": 3040,
+    "brand": "马兰士"
+  },
+  {
+    "brandid": 3042,
+    "brand": "Mark"
+  },
+  {
+    "brandid": 3043,
+    "brand": "Marks & Spencer"
+  },
+  {
+    "brandid": 3048,
+    "brand": "Marvel Digital"
+  },
+  {
+    "brandid": 3049,
+    "brand": "Mascom"
+  },
+  {
+    "brandid": 3051,
+    "brand": "MasterS"
+  },
+  {
+    "brandid": 3052,
+    "brand": "Masuda"
+  },
+  {
+    "brandid": 3055,
+    "brand": "松井"
+  },
+  {
+    "brandid": 3059,
+    "brand": "Matsushita"
+  },
+  {
+    "brandid": 3060,
+    "brand": "Matsuviama"
+  },
+  {
+    "brandid": 3061,
+    "brand": "Maxam"
+  },
+  {
+    "brandid": 3062,
+    "brand": "Maxdorf"
+  },
+  {
+    "brandid": 3063,
+    "brand": "Maxent"
+  },
+  {
+    "brandid": 3064,
+    "brand": "Maxess"
+  },
+  {
+    "brandid": 3065,
+    "brand": "Maxim"
+  },
+  {
+    "brandid": 3083,
+    "brand": "Mediator"
+  },
+  {
+    "brandid": 3084,
+    "brand": "Medion"
+  },
+  {
+    "brandid": 3088,
+    "brand": "美格"
+  },
+  {
+    "brandid": 3091,
+    "brand": "Megatron"
+  },
+  {
+    "brandid": 3092,
+    "brand": "Mei"
+  },
+  {
+    "brandid": 3093,
+    "brand": "Meile"
+  },
+  {
+    "brandid": 3094,
+    "brand": "美联"
+  },
+  {
+    "brandid": 3096,
+    "brand": "Mel"
+  },
+  {
+    "brandid": 3099,
+    "brand": "Melectronic"
+  },
+  {
+    "brandid": 3100,
+    "brand": "美乐"
+  },
+  {
+    "brandid": 3102,
+    "brand": "梅莫雷克斯"
+  },
+  {
+    "brandid": 3104,
+    "brand": "Memory"
+  },
+  {
+    "brandid": 3106,
+    "brand": "Mercury"
+  },
+  {
+    "brandid": 3109,
+    "brand": "人鱼数码"
+  },
+  {
+    "brandid": 3112,
+    "brand": "美创"
+  },
+  {
+    "brandid": 3114,
+    "brand": "美兹"
+  },
+  {
+    "brandid": 3116,
+    "brand": "Mga"
+  },
+  {
+    "brandid": 3122,
+    "brand": "Micromaxx"
+  },
+  {
+    "brandid": 3127,
+    "brand": "微星"
+  },
+  {
+    "brandid": 3129,
+    "brand": "Microtek"
+  },
+  {
+    "brandid": 3134,
+    "brand": "Midland"
+  },
+  {
+    "brandid": 3137,
+    "brand": "Mikomi"
+  },
+  {
+    "brandid": 3139,
+    "brand": "Minato"
+  },
+  {
+    "brandid": 3141,
+    "brand": "Minerva"
+  },
+  {
+    "brandid": 3142,
+    "brand": "Ministry Of Sound"
+  },
+  {
+    "brandid": 3144,
+    "brand": "Minoka"
+  },
+  {
+    "brandid": 3145,
+    "brand": "Mintek"
+  },
+  {
+    "brandid": 3146,
+    "brand": "Minutz"
+  },
+  {
+    "brandid": 3148,
+    "brand": "Mirai"
+  },
+  {
+    "brandid": 3149,
+    "brand": "Misakai"
+  },
+  {
+    "brandid": 3152,
+    "brand": "Mitsai"
+  },
+  {
+    "brandid": 3153,
+    "brand": "三菱"
+  },
+  {
+    "brandid": 3159,
+    "brand": "Mivar"
+  },
+  {
+    "brandid": 3164,
+    "brand": "模卡"
+  },
+  {
+    "brandid": 3166,
+    "brand": "青云"
+  },
+  {
+    "brandid": 3168,
+    "brand": "Montgomery Ward"
+  },
+  {
+    "brandid": 3169,
+    "brand": "Moree"
+  },
+  {
+    "brandid": 3170,
+    "brand": "Morgan"
+  },
+  {
+    "brandid": 3172,
+    "brand": "Moserbaer"
+  },
+  {
+    "brandid": 3173,
+    "brand": "Moteva"
+  },
+  {
+    "brandid": 3174,
+    "brand": "摩托罗拉"
+  },
+  {
+    "brandid": 3178,
+    "brand": "Mp Man"
+  },
+  {
+    "brandid": 3179,
+    "brand": "Mtc"
+  },
+  {
+    "brandid": 3180,
+    "brand": "Mtlogic"
+  },
+  {
+    "brandid": 3181,
+    "brand": "牡丹"
+  },
+  {
+    "brandid": 3184,
+    "brand": "Multitec"
+  },
+  {
+    "brandid": 3185,
+    "brand": "Multitech"
+  },
+  {
+    "brandid": 3186,
+    "brand": "Multivision"
+  },
+  {
+    "brandid": 3187,
+    "brand": "Murphy"
+  },
+  {
+    "brandid": 3188,
+    "brand": "Musikland"
+  },
+  {
+    "brandid": 3191,
+    "brand": "Mx Onda"
+  },
+  {
+    "brandid": 3192,
+    "brand": "Mycom"
+  },
+  {
+    "brandid": 3196,
+    "brand": "Myron & Davis"
+  },
+  {
+    "brandid": 3197,
+    "brand": "美丽安"
+  },
+  {
+    "brandid": 3203,
+    "brand": "Nad"
+  },
+  {
+    "brandid": 3204,
+    "brand": "Naiko"
+  },
+  {
+    "brandid": 3211,
+    "brand": "Nakimura"
+  },
+  {
+    "brandid": 3212,
+    "brand": "南堡"
+  },
+  {
+    "brandid": 3214,
+    "brand": "南盛"
+  },
+  {
+    "brandid": 3216,
+    "brand": "Nat"
+  },
+  {
+    "brandid": 3217,
+    "brand": "乐声"
+  },
+  {
+    "brandid": 3218,
+    "brand": "Naxa"
+  },
+  {
+    "brandid": 3221,
+    "brand": "日电"
+  },
+  {
+    "brandid": 3223,
+    "brand": "Neckermann"
+  },
+  {
+    "brandid": 3224,
+    "brand": "Nei"
+  },
+  {
+    "brandid": 3225,
+    "brand": "Neo"
+  },
+  {
+    "brandid": 3227,
+    "brand": "Neon"
+  },
+  {
+    "brandid": 3229,
+    "brand": "Neotion"
+  },
+  {
+    "brandid": 3230,
+    "brand": "Net Tv"
+  },
+  {
+    "brandid": 3235,
+    "brand": "Netsat"
+  },
+  {
+    "brandid": 3237,
+    "brand": "Neufunk"
+  },
+  {
+    "brandid": 3239,
+    "brand": "Nevir"
+  },
+  {
+    "brandid": 3241,
+    "brand": "新思达"
+  },
+  {
+    "brandid": 3243,
+    "brand": "New Tech"
+  },
+  {
+    "brandid": 3244,
+    "brand": "稜威福"
+  },
+  {
+    "brandid": 3246,
+    "brand": "Newsonic"
+  },
+  {
+    "brandid": 3247,
+    "brand": "Newstar"
+  },
+  {
+    "brandid": 3250,
+    "brand": "Nexus Electronics"
+  },
+  {
+    "brandid": 3251,
+    "brand": "Nexxtech"
+  },
+  {
+    "brandid": 3252,
+    "brand": "Nikai"
+  },
+  {
+    "brandid": 3253,
+    "brand": "Nikkai"
+  },
+  {
+    "brandid": 3254,
+    "brand": "Nikkei"
+  },
+  {
+    "brandid": 3255,
+    "brand": "日高"
+  },
+  {
+    "brandid": 3257,
+    "brand": "Niko"
+  },
+  {
+    "brandid": 3258,
+    "brand": "尼康"
+  },
+  {
+    "brandid": 3261,
+    "brand": "金正"
+  },
+  {
+    "brandid": 3264,
+    "brand": "诺基亚"
+  },
+  {
+    "brandid": 3269,
+    "brand": "宏盛"
+  },
+  {
+    "brandid": 3272,
+    "brand": "Nordmende"
+  },
+  {
+    "brandid": 3273,
+    "brand": "Normerel"
+  },
+  {
+    "brandid": 3275,
+    "brand": "Nortek"
+  },
+  {
+    "brandid": 3279,
+    "brand": "Novak"
+  },
+  {
+    "brandid": 3280,
+    "brand": "Novatronic"
+  },
+  {
+    "brandid": 3281,
+    "brand": "Novex"
+  },
+  {
+    "brandid": 3282,
+    "brand": "Novita"
+  },
+  {
+    "brandid": 3285,
+    "brand": "Npc"
+  },
+  {
+    "brandid": 3286,
+    "brand": "Npg"
+  },
+  {
+    "brandid": 3288,
+    "brand": "Ntc"
+  },
+  {
+    "brandid": 3291,
+    "brand": "Nu-Tec"
+  },
+  {
+    "brandid": 3293,
+    "brand": "O.K. Line"
+  },
+  {
+    "brandid": 3298,
+    "brand": "欧宝丽"
+  },
+  {
+    "brandid": 3300,
+    "brand": "Oceanic"
+  },
+  {
+    "brandid": 3305,
+    "brand": "Odeon"
+  },
+  {
+    "brandid": 3308,
+    "brand": "Odys"
+  },
+  {
+    "brandid": 3309,
+    "brand": "Ok."
+  },
+  {
+    "brandid": 3310,
+    "brand": "Okano"
+  },
+  {
+    "brandid": 3311,
+    "brand": "冲电气"
+  },
+  {
+    "brandid": 3313,
+    "brand": "Okline"
+  },
+  {
+    "brandid": 3314,
+    "brand": "Ol"
+  },
+  {
+    "brandid": 3315,
+    "brand": "奥丽维亚"
+  },
+  {
+    "brandid": 3318,
+    "brand": "欧丽安"
+  },
+  {
+    "brandid": 3320,
+    "brand": "Omega"
+  },
+  {
+    "brandid": 3322,
+    "brand": "Omni"
+  },
+  {
+    "brandid": 3323,
+    "brand": "Oncommand"
+  },
+  {
+    "brandid": 3325,
+    "brand": "Onei"
+  },
+  {
+    "brandid": 3326,
+    "brand": "Onida"
+  },
+  {
+    "brandid": 3327,
+    "brand": "Onimax"
+  },
+  {
+    "brandid": 3328,
+    "brand": "Onix"
+  },
+  {
+    "brandid": 3329,
+    "brand": "Onking"
+  },
+  {
+    "brandid": 3330,
+    "brand": "安桥"
+  },
+  {
+    "brandid": 3332,
+    "brand": "Onn"
+  },
+  {
+    "brandid": 3334,
+    "brand": "Onwa"
+  },
+  {
+    "brandid": 3335,
+    "brand": "Onyx"
+  },
+  {
+    "brandid": 3340,
+    "brand": "Opera"
+  },
+  {
+    "brandid": 3347,
+    "brand": "Optimus"
+  },
+  {
+    "brandid": 3348,
+    "brand": "奥图码"
+  },
+  {
+    "brandid": 3351,
+    "brand": "Optonica"
+  },
+  {
+    "brandid": 3355,
+    "brand": "Orava"
+  },
+  {
+    "brandid": 3357,
+    "brand": "Orbit"
+  },
+  {
+    "brandid": 3359,
+    "brand": "罗兰士"
+  },
+  {
+    "brandid": 3361,
+    "brand": "奥立龙"
+  },
+  {
+    "brandid": 3364,
+    "brand": "Orline"
+  },
+  {
+    "brandid": 3365,
+    "brand": "Ormond"
+  },
+  {
+    "brandid": 3367,
+    "brand": "大崎"
+  },
+  {
+    "brandid": 3371,
+    "brand": "Osume"
+  },
+  {
+    "brandid": 3372,
+    "brand": "Otic"
+  },
+  {
+    "brandid": 3373,
+    "brand": "奥托邮购"
+  },
+  {
+    "brandid": 3375,
+    "brand": "欧凌"
+  },
+  {
+    "brandid": 3383,
+    "brand": "贝斯特"
+  },
+  {
+    "brandid": 3385,
+    "brand": "Pacific"
+  },
+  {
+    "brandid": 3386,
+    "brand": "Packard Bell"
+  },
+  {
+    "brandid": 3388,
+    "brand": "Palladium"
+  },
+  {
+    "brandid": 3389,
+    "brand": "Palsonic"
+  },
+  {
+    "brandid": 3390,
+    "brand": "Panache"
+  },
+  {
+    "brandid": 3391,
+    "brand": "Panama"
+  },
+  {
+    "brandid": 3393,
+    "brand": "松下"
+  },
+  {
+    "brandid": 3397,
+    "brand": "Panavision"
+  },
+  {
+    "brandid": 3398,
+    "brand": "熊猫"
+  },
+  {
+    "brandid": 3400,
+    "brand": "盘古"
+  },
+  {
+    "brandid": 3404,
+    "brand": "Papouw"
+  },
+  {
+    "brandid": 3408,
+    "brand": "Park"
+  },
+  {
+    "brandid": 3409,
+    "brand": "松电"
+  },
+  {
+    "brandid": 3411,
+    "brand": "孔雀"
+  },
+  {
+    "brandid": 3414,
+    "brand": "Peaq"
+  },
+  {
+    "brandid": 3416,
+    "brand": "鹏盛"
+  },
+  {
+    "brandid": 3418,
+    "brand": "Penney"
+  },
+  {
+    "brandid": 3419,
+    "brand": "Peony"
+  },
+  {
+    "brandid": 3420,
+    "brand": "Perdio"
+  },
+  {
+    "brandid": 3421,
+    "brand": "Perfekt"
+  },
+  {
+    "brandid": 3422,
+    "brand": "飞歌"
+  },
+  {
+    "brandid": 3424,
+    "brand": "飞利浦"
+  },
+  {
+    "brandid": 3428,
+    "brand": "Phocus"
+  },
+  {
+    "brandid": 3429,
+    "brand": "Phoenix"
+  },
+  {
+    "brandid": 3430,
+    "brand": "Phonola"
+  },
+  {
+    "brandid": 3431,
+    "brand": "Phos Italia"
+  },
+  {
+    "brandid": 3433,
+    "brand": "百乐"
+  },
+  {
+    "brandid": 3437,
+    "brand": "先锋"
+  },
+  {
+    "brandid": 3439,
+    "brand": "Piva"
+  },
+  {
+    "brandid": 3440,
+    "brand": "Pixel"
+  },
+  {
+    "brandid": 3441,
+    "brand": "Pklytron"
+  },
+  {
+    "brandid": 3442,
+    "brand": "平达"
+  },
+  {
+    "brandid": 3444,
+    "brand": "Plastron"
+  },
+  {
+    "brandid": 3448,
+    "brand": "彩星"
+  },
+  {
+    "brandid": 3450,
+    "brand": "Playsonic"
+  },
+  {
+    "brandid": 3456,
+    "brand": "Polar"
+  },
+  {
+    "brandid": 3457,
+    "brand": "宝丽莱"
+  },
+  {
+    "brandid": 3461,
+    "brand": "宝立创"
+  },
+  {
+    "brandid": 3464,
+    "brand": "宝丽金"
+  },
+  {
+    "brandid": 3469,
+    "brand": "波特兰"
+  },
+  {
+    "brandid": 3472,
+    "brand": "Powerpoint"
+  },
+  {
+    "brandid": 3473,
+    "brand": "PPTV"
+  },
+  {
+    "brandid": 3474,
+    "brand": "Precision"
+  },
+  {
+    "brandid": 3475,
+    "brand": "拍得丽"
+  },
+  {
+    "brandid": 3478,
+    "brand": "Price Club"
+  },
+  {
+    "brandid": 3479,
+    "brand": "厦华"
+  },
+  {
+    "brandid": 3487,
+    "brand": "Princess"
+  },
+  {
+    "brandid": 3488,
+    "brand": "Princeton Graphics"
+  },
+  {
+    "brandid": 3489,
+    "brand": "Prinston"
+  },
+  {
+    "brandid": 3491,
+    "brand": "Prism"
+  },
+  {
+    "brandid": 3493,
+    "brand": "Pro Vision"
+  },
+  {
+    "brandid": 3497,
+    "brand": "Profilo"
+  },
+  {
+    "brandid": 3498,
+    "brand": "Profitronic"
+  },
+  {
+    "brandid": 3499,
+    "brand": "Proline"
+  },
+  {
+    "brandid": 3500,
+    "brand": "Promac"
+  },
+  {
+    "brandid": 3501,
+    "brand": "Promaccinemac"
+  },
+  {
+    "brandid": 3503,
+    "brand": "Proscan"
+  },
+  {
+    "brandid": 3505,
+    "brand": "Prosonic"
+  },
+  {
+    "brandid": 3506,
+    "brand": "保迪"
+  },
+  {
+    "brandid": 3508,
+    "brand": "普腾"
+  },
+  {
+    "brandid": 3510,
+    "brand": "Protron"
+  },
+  {
+    "brandid": 3511,
+    "brand": "唯冠"
+  },
+  {
+    "brandid": 3515,
+    "brand": "Pty"
+  },
+  {
+    "brandid": 3516,
+    "brand": "Pulsar"
+  },
+  {
+    "brandid": 3517,
+    "brand": "Pvision"
+  },
+  {
+    "brandid": 3518,
+    "brand": "Pye"
+  },
+  {
+    "brandid": 3519,
+    "brand": "派尔"
+  },
+  {
+    "brandid": 3521,
+    "brand": "Pyle Home"
+  },
+  {
+    "brandid": 3522,
+    "brand": "Q Media"
+  },
+  {
+    "brandid": 3523,
+    "brand": "Q. Bell"
+  },
+  {
+    "brandid": 3526,
+    "brand": "青岛"
+  },
+  {
+    "brandid": 3530,
+    "brand": "企业视窗"
+  },
+  {
+    "brandid": 3535,
+    "brand": "Qonix"
+  },
+  {
+    "brandid": 3538,
+    "brand": "Quadro"
+  },
+  {
+    "brandid": 3541,
+    "brand": "Quasar"
+  },
+  {
+    "brandid": 3542,
+    "brand": "Quelle"
+  },
+  {
+    "brandid": 3543,
+    "brand": "R-Line"
+  },
+  {
+    "brandid": 3546,
+    "brand": "Radialva"
+  },
+  {
+    "brandid": 3547,
+    "brand": "Radiola"
+  },
+  {
+    "brandid": 3548,
+    "brand": "Radiomarelli"
+  },
+  {
+    "brandid": 3549,
+    "brand": "Radionette"
+  },
+  {
+    "brandid": 3550,
+    "brand": "睿侠"
+  },
+  {
+    "brandid": 3553,
+    "brand": "Radiotone"
+  },
+  {
+    "brandid": 3557,
+    "brand": "彩虹"
+  },
+  {
+    "brandid": 3559,
+    "brand": "Rca"
+  },
+  {
+    "brandid": 3561,
+    "brand": "Realistic"
+  },
+  {
+    "brandid": 3563,
+    "brand": "Recor"
+  },
+  {
+    "brandid": 3564,
+    "brand": "Rectiligne"
+  },
+  {
+    "brandid": 3565,
+    "brand": "Red"
+  },
+  {
+    "brandid": 3566,
+    "brand": "Red Star"
+  },
+  {
+    "brandid": 3568,
+    "brand": "Reflex"
+  },
+  {
+    "brandid": 3569,
+    "brand": "Relisys"
+  },
+  {
+    "brandid": 3571,
+    "brand": "雷诺"
+  },
+  {
+    "brandid": 3574,
+    "brand": "Reoc"
+  },
+  {
+    "brandid": 3576,
+    "brand": "Revolution Hd"
+  },
+  {
+    "brandid": 3577,
+    "brand": "Revox"
+  },
+  {
+    "brandid": 3579,
+    "brand": "Rex"
+  },
+  {
+    "brandid": 3580,
+    "brand": "Rft"
+  },
+  {
+    "brandid": 3581,
+    "brand": "Rhapsody"
+  },
+  {
+    "brandid": 3582,
+    "brand": "日本三丸"
+  },
+  {
+    "brandid": 3586,
+    "brand": "理光"
+  },
+  {
+    "brandid": 3588,
+    "brand": "Rinex"
+  },
+  {
+    "brandid": 3591,
+    "brand": "日盛"
+  },
+  {
+    "brandid": 3595,
+    "brand": "理想"
+  },
+  {
+    "brandid": 3597,
+    "brand": "日芝"
+  },
+  {
+    "brandid": 3599,
+    "brand": "Roadstar"
+  },
+  {
+    "brandid": 3600,
+    "brand": "Rodex"
+  },
+  {
+    "brandid": 3602,
+    "brand": "Roku Tv"
+  },
+  {
+    "brandid": 3604,
+    "brand": "Rolsen"
+  },
+  {
+    "brandid": 3614,
+    "brand": "乐华"
+  },
+  {
+    "brandid": 3617,
+    "brand": "Royal"
+  },
+  {
+    "brandid": 3622,
+    "brand": "Rukopir"
+  },
+  {
+    "brandid": 3623,
+    "brand": "兰科"
+  },
+  {
+    "brandid": 3625,
+    "brand": "如意"
+  },
+  {
+    "brandid": 3628,
+    "brand": "Saba"
+  },
+  {
+    "brandid": 3630,
+    "brand": "Saga"
+  },
+  {
+    "brandid": 3631,
+    "brand": "萨基姆"
+  },
+  {
+    "brandid": 3634,
+    "brand": "塞格"
+  },
+  {
+    "brandid": 3636,
+    "brand": "Saisho"
+  },
+  {
+    "brandid": 3637,
+    "brand": "Saivod"
+  },
+  {
+    "brandid": 3641,
+    "brand": "Salora"
+  },
+  {
+    "brandid": 3642,
+    "brand": "声宝"
+  },
+  {
+    "brandid": 3647,
+    "brand": "三星"
+  },
+  {
+    "brandid": 3649,
+    "brand": "Samsux"
+  },
+  {
+    "brandid": 3650,
+    "brand": "Samtron"
+  },
+  {
+    "brandid": 3651,
+    "brand": "松颖"
+  },
+  {
+    "brandid": 3654,
+    "brand": "Sandstrom"
+  },
+  {
+    "brandid": 3655,
+    "brand": "三键"
+  },
+  {
+    "brandid": 3657,
+    "brand": "三垦"
+  },
+  {
+    "brandid": 3659,
+    "brand": "三灵"
+  },
+  {
+    "brandid": 3661,
+    "brand": "三社电器"
+  },
+  {
+    "brandid": 3663,
+    "brand": "三穗"
+  },
+  {
+    "brandid": 3666,
+    "brand": "Santeca"
+  },
+  {
+    "brandid": 3668,
+    "brand": "三洋"
+  },
+  {
+    "brandid": 3670,
+    "brand": "三元"
+  },
+  {
+    "brandid": 3673,
+    "brand": "先科"
+  },
+  {
+    "brandid": 3682,
+    "brand": "Save"
+  },
+  {
+    "brandid": 3683,
+    "brand": "Sbr"
+  },
+  {
+    "brandid": 3686,
+    "brand": "赛普特"
+  },
+  {
+    "brandid": 3688,
+    "brand": "Schaub Lorenz"
+  },
+  {
+    "brandid": 3689,
+    "brand": "施耐德"
+  },
+  {
+    "brandid": 3694,
+    "brand": "Scotch"
+  },
+  {
+    "brandid": 3695,
+    "brand": "Scott"
+  },
+  {
+    "brandid": 3699,
+    "brand": "西尔斯"
+  },
+  {
+    "brandid": 3701,
+    "brand": "Seaway"
+  },
+  {
+    "brandid": 3702,
+    "brand": "Sedea"
+  },
+  {
+    "brandid": 3704,
+    "brand": "Seeltech"
+  },
+  {
+    "brandid": 3705,
+    "brand": "Seelver"
+  },
+  {
+    "brandid": 3706,
+    "brand": "Seg"
+  },
+  {
+    "brandid": 3707,
+    "brand": "Sei-Sinudyne"
+  },
+  {
+    "brandid": 3708,
+    "brand": "Seiki"
+  },
+  {
+    "brandid": 3709,
+    "brand": "Seitech"
+  },
+  {
+    "brandid": 3710,
+    "brand": "Sel"
+  },
+  {
+    "brandid": 3711,
+    "brand": "Selecline"
+  },
+  {
+    "brandid": 3712,
+    "brand": "视丽"
+  },
+  {
+    "brandid": 3714,
+    "brand": "Selectron"
+  },
+  {
+    "brandid": 3715,
+    "brand": "Semp"
+  },
+  {
+    "brandid": 3716,
+    "brand": "Sencor"
+  },
+  {
+    "brandid": 3717,
+    "brand": "Serie Dorada"
+  },
+  {
+    "brandid": 3718,
+    "brand": "Serino"
+  },
+  {
+    "brandid": 3722,
+    "brand": "塞河"
+  },
+  {
+    "brandid": 3726,
+    "brand": "Shancha"
+  },
+  {
+    "brandid": 3727,
+    "brand": "上海"
+  },
+  {
+    "brandid": 3735,
+    "brand": "韶峰"
+  },
+  {
+    "brandid": 3738,
+    "brand": "夏普"
+  },
+  {
+    "brandid": 3741,
+    "brand": "Shaviki"
+  },
+  {
+    "brandid": 3744,
+    "brand": "神彩"
+  },
+  {
+    "brandid": 3746,
+    "brand": "Sheng Chia"
+  },
+  {
+    "brandid": 3748,
+    "brand": "沈阳"
+  },
+  {
+    "brandid": 3752,
+    "brand": "狮龙"
+  },
+  {
+    "brandid": 3756,
+    "brand": "Shijidianzi"
+  },
+  {
+    "brandid": 3757,
+    "brand": "新科"
+  },
+  {
+    "brandid": 3761,
+    "brand": "Shinelco"
+  },
+  {
+    "brandid": 3762,
+    "brand": "Shintoshi"
+  },
+  {
+    "brandid": 3763,
+    "brand": "Shinyoku"
+  },
+  {
+    "brandid": 3764,
+    "brand": "Shogun"
+  },
+  {
+    "brandid": 3766,
+    "brand": "Show"
+  },
+  {
+    "brandid": 3772,
+    "brand": "西门子"
+  },
+  {
+    "brandid": 3775,
+    "brand": "Siera"
+  },
+  {
+    "brandid": 3777,
+    "brand": "新格"
+  },
+  {
+    "brandid": 3779,
+    "brand": "Sigmac"
+  },
+  {
+    "brandid": 3783,
+    "brand": "Signature"
+  },
+  {
+    "brandid": 3784,
+    "brand": "Signet"
+  },
+  {
+    "brandid": 3785,
+    "brand": "Silo Digital"
+  },
+  {
+    "brandid": 3787,
+    "brand": "Silva"
+  },
+  {
+    "brandid": 3788,
+    "brand": "Silva Schneider"
+  },
+  {
+    "brandid": 3790,
+    "brand": "Silver"
+  },
+  {
+    "brandid": 3791,
+    "brand": "Silvercrest"
+  },
+  {
+    "brandid": 3793,
+    "brand": "Simply"
+  },
+  {
+    "brandid": 3794,
+    "brand": "Simpson"
+  },
+  {
+    "brandid": 3796,
+    "brand": "Singer"
+  },
+  {
+    "brandid": 3797,
+    "brand": "Sinotec"
+  },
+  {
+    "brandid": 3798,
+    "brand": "Sinudyne"
+  },
+  {
+    "brandid": 3803,
+    "brand": "Sky"
+  },
+  {
+    "brandid": 3819,
+    "brand": "创维"
+  },
+  {
+    "brandid": 3823,
+    "brand": "Sliding"
+  },
+  {
+    "brandid": 3826,
+    "brand": "Slsline"
+  },
+  {
+    "brandid": 3827,
+    "brand": "Slx"
+  },
+  {
+    "brandid": 3832,
+    "brand": "Soaiy"
+  },
+  {
+    "brandid": 3835,
+    "brand": "Soemtron"
+  },
+  {
+    "brandid": 3837,
+    "brand": "Sogo"
+  },
+  {
+    "brandid": 3838,
+    "brand": "索佳"
+  },
+  {
+    "brandid": 3840,
+    "brand": "Solavox"
+  },
+  {
+    "brandid": 3843,
+    "brand": "松百"
+  },
+  {
+    "brandid": 3845,
+    "brand": "Sonic"
+  },
+  {
+    "brandid": 3846,
+    "brand": "Soniko"
+  },
+  {
+    "brandid": 3847,
+    "brand": "声光"
+  },
+  {
+    "brandid": 3850,
+    "brand": "Sonitron"
+  },
+  {
+    "brandid": 3851,
+    "brand": "Sonneclair"
+  },
+  {
+    "brandid": 3852,
+    "brand": "Sonoko"
+  },
+  {
+    "brandid": 3853,
+    "brand": "Sonolor"
+  },
+  {
+    "brandid": 3854,
+    "brand": "Sontec"
+  },
+  {
+    "brandid": 3855,
+    "brand": "Sontech"
+  },
+  {
+    "brandid": 3857,
+    "brand": "索尼"
+  },
+  {
+    "brandid": 3860,
+    "brand": "Sound&Vision"
+  },
+  {
+    "brandid": 3861,
+    "brand": "Soundesign"
+  },
+  {
+    "brandid": 3864,
+    "brand": "Soundwave"
+  },
+  {
+    "brandid": 3865,
+    "brand": "南宝"
+  },
+  {
+    "brandid": 3867,
+    "brand": "索华"
+  },
+  {
+    "brandid": 3870,
+    "brand": "Sovos"
+  },
+  {
+    "brandid": 3871,
+    "brand": "首华"
+  },
+  {
+    "brandid": 3873,
+    "brand": "索伊"
+  },
+  {
+    "brandid": 3876,
+    "brand": "梅捷"
+  },
+  {
+    "brandid": 3878,
+    "brand": "Spectra"
+  },
+  {
+    "brandid": 3879,
+    "brand": "Spectravision"
+  },
+  {
+    "brandid": 3880,
+    "brand": "Spectroniq"
+  },
+  {
+    "brandid": 3882,
+    "brand": "Squareview"
+  },
+  {
+    "brandid": 3883,
+    "brand": "Sss"
+  },
+  {
+    "brandid": 3884,
+    "brand": "Standard"
+  },
+  {
+    "brandid": 3887,
+    "brand": "Star Sight"
+  },
+  {
+    "brandid": 3892,
+    "brand": "Starion"
+  },
+  {
+    "brandid": 3893,
+    "brand": "Starlight"
+  },
+  {
+    "brandid": 3894,
+    "brand": "Starline"
+  },
+  {
+    "brandid": 3895,
+    "brand": "Starlite"
+  },
+  {
+    "brandid": 3901,
+    "brand": "Stern"
+  },
+  {
+    "brandid": 3903,
+    "brand": "Strato"
+  },
+  {
+    "brandid": 3906,
+    "brand": "Strong"
+  },
+  {
+    "brandid": 3913,
+    "brand": "Sumo"
+  },
+  {
+    "brandid": 3915,
+    "brand": "Sunbritetv"
+  },
+  {
+    "brandid": 3918,
+    "brand": "Sungoo"
+  },
+  {
+    "brandid": 3919,
+    "brand": "Sunic Line"
+  },
+  {
+    "brandid": 3920,
+    "brand": "Sunkai"
+  },
+  {
+    "brandid": 3921,
+    "brand": "日菱"
+  },
+  {
+    "brandid": 3925,
+    "brand": "阳光"
+  },
+  {
+    "brandid": 3927,
+    "brand": "Sunstar"
+  },
+  {
+    "brandid": 3928,
+    "brand": "Sunstech"
+  },
+  {
+    "brandid": 3929,
+    "brand": "Sunwood"
+  },
+  {
+    "brandid": 3930,
+    "brand": "Super General"
+  },
+  {
+    "brandid": 3933,
+    "brand": "Superscan"
+  },
+  {
+    "brandid": 3934,
+    "brand": "Supersonic"
+  },
+  {
+    "brandid": 3935,
+    "brand": "Supertech"
+  },
+  {
+    "brandid": 3936,
+    "brand": "Supervision"
+  },
+  {
+    "brandid": 3937,
+    "brand": "Supra"
+  },
+  {
+    "brandid": 3938,
+    "brand": "Supratech"
+  },
+  {
+    "brandid": 3939,
+    "brand": "Supremacy"
+  },
+  {
+    "brandid": 3940,
+    "brand": "Supreme"
+  },
+  {
+    "brandid": 3941,
+    "brand": "上广电"
+  },
+  {
+    "brandid": 3943,
+    "brand": "Svasa"
+  },
+  {
+    "brandid": 3944,
+    "brand": "天鹅"
+  },
+  {
+    "brandid": 3946,
+    "brand": "Sweex"
+  },
+  {
+    "brandid": 3948,
+    "brand": "Swisstec"
+  },
+  {
+    "brandid": 3949,
+    "brand": "西凡尼亚"
+  },
+  {
+    "brandid": 3951,
+    "brand": "Symphonic"
+  },
+  {
+    "brandid": 3952,
+    "brand": "Synco"
+  },
+  {
+    "brandid": 3954,
+    "brand": "Syntax"
+  },
+  {
+    "brandid": 3958,
+    "brand": "T+A"
+  },
+  {
+    "brandid": 3962,
+    "brand": "Tacico"
+  },
+  {
+    "brandid": 3965,
+    "brand": "泰山"
+  },
+  {
+    "brandid": 3972,
+    "brand": "腾博"
+  },
+  {
+    "brandid": 3974,
+    "brand": "Tandy"
+  },
+  {
+    "brandid": 3975,
+    "brand": "Targa"
+  },
+  {
+    "brandid": 3978,
+    "brand": "Tashiko"
+  },
+  {
+    "brandid": 3981,
+    "brand": "大同"
+  },
+  {
+    "brandid": 3983,
+    "brand": "Tauras"
+  },
+  {
+    "brandid": 3988,
+    "brand": "TCL"
+  },
+  {
+    "brandid": 3989,
+    "brand": "Tcm"
+  },
+  {
+    "brandid": 3992,
+    "brand": "蒂雅克"
+  },
+  {
+    "brandid": 3994,
+    "brand": "Tec"
+  },
+  {
+    "brandid": 3995,
+    "brand": "Tech Line"
+  },
+  {
+    "brandid": 3997,
+    "brand": "Technica"
+  },
+  {
+    "brandid": 3999,
+    "brand": "Technics"
+  },
+  {
+    "brandid": 4000,
+    "brand": "Technika"
+  },
+  {
+    "brandid": 4001,
+    "brand": "Technisat"
+  },
+  {
+    "brandid": 4002,
+    "brand": "Technisson"
+  },
+  {
+    "brandid": 4003,
+    "brand": "Techno"
+  },
+  {
+    "brandid": 4005,
+    "brand": "Technol Ace"
+  },
+  {
+    "brandid": 4007,
+    "brand": "Technosonic"
+  },
+  {
+    "brandid": 4010,
+    "brand": "Techvision"
+  },
+  {
+    "brandid": 4011,
+    "brand": "Techwood"
+  },
+  {
+    "brandid": 4012,
+    "brand": "Tecnimagen"
+  },
+  {
+    "brandid": 4013,
+    "brand": "Teco"
+  },
+  {
+    "brandid": 4015,
+    "brand": "Tedelex"
+  },
+  {
+    "brandid": 4016,
+    "brand": "Tek"
+  },
+  {
+    "brandid": 4018,
+    "brand": "Teknika"
+  },
+  {
+    "brandid": 4019,
+    "brand": "Tele System"
+  },
+  {
+    "brandid": 4021,
+    "brand": "Telecaption"
+  },
+  {
+    "brandid": 4025,
+    "brand": "Telecor"
+  },
+  {
+    "brandid": 4027,
+    "brand": "德律风根"
+  },
+  {
+    "brandid": 4029,
+    "brand": "Telefusion"
+  },
+  {
+    "brandid": 4030,
+    "brand": "Telegazi"
+  },
+  {
+    "brandid": 4031,
+    "brand": "Telemeister"
+  },
+  {
+    "brandid": 4033,
+    "brand": "Telerent"
+  },
+  {
+    "brandid": 4035,
+    "brand": "Telesonic"
+  },
+  {
+    "brandid": 4036,
+    "brand": "Telestar"
+  },
+  {
+    "brandid": 4037,
+    "brand": "Teletech"
+  },
+  {
+    "brandid": 4039,
+    "brand": "Teleview"
+  },
+  {
+    "brandid": 4047,
+    "brand": "Tempest"
+  },
+  {
+    "brandid": 4048,
+    "brand": "Tennessee"
+  },
+  {
+    "brandid": 4049,
+    "brand": "Tensai"
+  },
+  {
+    "brandid": 4050,
+    "brand": "泰瑞"
+  },
+  {
+    "brandid": 4054,
+    "brand": "特易购"
+  },
+  {
+    "brandid": 4056,
+    "brand": "Tesla"
+  },
+  {
+    "brandid": 4058,
+    "brand": "Tevion"
+  },
+  {
+    "brandid": 4061,
+    "brand": "Thes"
+  },
+  {
+    "brandid": 4065,
+    "brand": "汤姆逊"
+  },
+  {
+    "brandid": 4068,
+    "brand": "Thorn"
+  },
+  {
+    "brandid": 4069,
+    "brand": "Thorn-Ferguson"
+  },
+  {
+    "brandid": 4070,
+    "brand": "清华同方"
+  },
+  {
+    "brandid": 4072,
+    "brand": "Tiane"
+  },
+  {
+    "brandid": 4073,
+    "brand": "天庚板"
+  },
+  {
+    "brandid": 4075,
+    "brand": "天科板"
+  },
+  {
+    "brandid": 4079,
+    "brand": "Tit"
+  },
+  {
+    "brandid": 4081,
+    "brand": "Tivax"
+  },
+  {
+    "brandid": 4089,
+    "brand": "Tmk"
+  },
+  {
+    "brandid": 4090,
+    "brand": "Tnci"
+  },
+  {
+    "brandid": 4094,
+    "brand": "Tokai"
+  },
+  {
+    "brandid": 4095,
+    "brand": "Tokaido"
+  },
+  {
+    "brandid": 4096,
+    "brand": "东凌"
+  },
+  {
+    "brandid": 4098,
+    "brand": "同光"
+  },
+  {
+    "brandid": 4100,
+    "brand": "Tongtel"
+  },
+  {
+    "brandid": 4104,
+    "brand": "Top Show"
+  },
+  {
+    "brandid": 4107,
+    "brand": "Topline"
+  },
+  {
+    "brandid": 4110,
+    "brand": "东芝"
+  },
+  {
+    "brandid": 4112,
+    "brand": "Tosumi"
+  },
+  {
+    "brandid": 4115,
+    "brand": "Toyoda"
+  },
+  {
+    "brandid": 4118,
+    "brand": "Trakton"
+  },
+  {
+    "brandid": 4121,
+    "brand": "Trans-Continents"
+  },
+  {
+    "brandid": 4122,
+    "brand": "Transonic"
+  },
+  {
+    "brandid": 4125,
+    "brand": "Triad"
+  },
+  {
+    "brandid": 4128,
+    "brand": "Trio"
+  },
+  {
+    "brandid": 4129,
+    "brand": "Tristar"
+  },
+  {
+    "brandid": 4130,
+    "brand": "Triumph"
+  },
+  {
+    "brandid": 4132,
+    "brand": "Trutech"
+  },
+  {
+    "brandid": 4144,
+    "brand": "Tve"
+  },
+  {
+    "brandid": 4147,
+    "brand": "Tvs"
+  },
+  {
+    "brandid": 4148,
+    "brand": "Tvtext 95"
+  },
+  {
+    "brandid": 4152,
+    "brand": "Uher"
+  },
+  {
+    "brandid": 4154,
+    "brand": "Ultravox"
+  },
+  {
+    "brandid": 4156,
+    "brand": "Umc"
+  },
+  {
+    "brandid": 4159,
+    "brand": "Unic Line"
+  },
+  {
+    "brandid": 4160,
+    "brand": "友利电"
+  },
+  {
+    "brandid": 4170,
+    "brand": "United"
+  },
+  {
+    "brandid": 4172,
+    "brand": "Unitek"
+  },
+  {
+    "brandid": 4175,
+    "brand": "环球"
+  },
+  {
+    "brandid": 4178,
+    "brand": "Universum"
+  },
+  {
+    "brandid": 4179,
+    "brand": "Univox"
+  },
+  {
+    "brandid": 4180,
+    "brand": "杂牌机"
+  },
+  {
+    "brandid": 4185,
+    "brand": "Unviersal"
+  },
+  {
+    "brandid": 4188,
+    "brand": "Upstar"
+  },
+  {
+    "brandid": 4190,
+    "brand": "金塔"
+  },
+  {
+    "brandid": 4193,
+    "brand": "优视达"
+  },
+  {
+    "brandid": 4197,
+    "brand": "V7"
+  },
+  {
+    "brandid": 4200,
+    "brand": "Vanguard"
+  },
+  {
+    "brandid": 4204,
+    "brand": "Vd-Tech"
+  },
+  {
+    "brandid": 4205,
+    "brand": "Vdigi"
+  },
+  {
+    "brandid": 4212,
+    "brand": "Venturer"
+  },
+  {
+    "brandid": 4213,
+    "brand": "Venus"
+  },
+  {
+    "brandid": 4215,
+    "brand": "Vestel"
+  },
+  {
+    "brandid": 4216,
+    "brand": "Vexa"
+  },
+  {
+    "brandid": 4219,
+    "brand": "威牌"
+  },
+  {
+    "brandid": 4224,
+    "brand": "Victor"
+  },
+  {
+    "brandid": 4225,
+    "brand": "Video Concepts"
+  },
+  {
+    "brandid": 4228,
+    "brand": "Videocon"
+  },
+  {
+    "brandid": 4229,
+    "brand": "Videosystem"
+  },
+  {
+    "brandid": 4230,
+    "brand": "Vidtech"
+  },
+  {
+    "brandid": 4235,
+    "brand": "优派"
+  },
+  {
+    "brandid": 4239,
+    "brand": "Viking"
+  },
+  {
+    "brandid": 4242,
+    "brand": "Vimax"
+  },
+  {
+    "brandid": 4246,
+    "brand": "Viore"
+  },
+  {
+    "brandid": 4248,
+    "brand": "Vision"
+  },
+  {
+    "brandid": 4251,
+    "brand": "Visionplus"
+  },
+  {
+    "brandid": 4253,
+    "brand": "Visteon"
+  },
+  {
+    "brandid": 4254,
+    "brand": "Vistron"
+  },
+  {
+    "brandid": 4255,
+    "brand": "Visual Innovations"
+  },
+  {
+    "brandid": 4257,
+    "brand": "景新"
+  },
+  {
+    "brandid": 4261,
+    "brand": "Vivax"
+  },
+  {
+    "brandid": 4262,
+    "brand": "丽讯"
+  },
+  {
+    "brandid": 4264,
+    "brand": "Vivo"
+  },
+  {
+    "brandid": 4265,
+    "brand": "瑞轩"
+  },
+  {
+    "brandid": 4272,
+    "brand": "Vortec"
+  },
+  {
+    "brandid": 4273,
+    "brand": "Voxson"
+  },
+  {
+    "brandid": 4274,
+    "brand": "Vsa"
+  },
+  {
+    "brandid": 4276,
+    "brand": "Vu"
+  },
+  {
+    "brandid": 4281,
+    "brand": "Walker"
+  },
+  {
+    "brandid": 4282,
+    "brand": "Waltham"
+  },
+  {
+    "brandid": 4283,
+    "brand": "沃尔顿"
+  },
+  {
+    "brandid": 4287,
+    "brand": "Wansa"
+  },
+  {
+    "brandid": 4289,
+    "brand": "Wards"
+  },
+  {
+    "brandid": 4290,
+    "brand": "Warumaia"
+  },
+  {
+    "brandid": 4291,
+    "brand": "沃特森"
+  },
+  {
+    "brandid": 4294,
+    "brand": "惠佳捷"
+  },
+  {
+    "brandid": 4297,
+    "brand": "Web"
+  },
+  {
+    "brandid": 4298,
+    "brand": "Wega"
+  },
+  {
+    "brandid": 4299,
+    "brand": "Wegavox"
+  },
+  {
+    "brandid": 4303,
+    "brand": "Welltech"
+  },
+  {
+    "brandid": 4304,
+    "brand": "Weltblick"
+  },
+  {
+    "brandid": 4305,
+    "brand": "Weltstar"
+  },
+  {
+    "brandid": 4306,
+    "brand": "Wenstar"
+  },
+  {
+    "brandid": 4309,
+    "brand": "西屋"
+  },
+  {
+    "brandid": 4311,
+    "brand": "Weston"
+  },
+  {
+    "brandid": 4312,
+    "brand": "Westwood"
+  },
+  {
+    "brandid": 4313,
+    "brand": "沃夫德尔"
+  },
+  {
+    "brandid": 4318,
+    "brand": "White Westinghouse"
+  },
+  {
+    "brandid": 4321,
+    "brand": "Wilson"
+  },
+  {
+    "brandid": 4322,
+    "brand": "Windsor"
+  },
+  {
+    "brandid": 4323,
+    "brand": "Windy Sam"
+  },
+  {
+    "brandid": 4325,
+    "brand": "Wintel"
+  },
+  {
+    "brandid": 4329,
+    "brand": "World-Of-Vision"
+  },
+  {
+    "brandid": 4334,
+    "brand": "Wyse"
+  },
+  {
+    "brandid": 4335,
+    "brand": "X"
+  },
+  {
+    "brandid": 4337,
+    "brand": "Xdome"
+  },
+  {
+    "brandid": 4338,
+    "brand": "Xenius"
+  },
+  {
+    "brandid": 4342,
+    "brand": "Xiahua"
+  },
+  {
+    "brandid": 4343,
+    "brand": "祥阳"
+  },
+  {
+    "brandid": 4345,
+    "brand": "翔宇"
+  },
+  {
+    "brandid": 4347,
+    "brand": "小米"
+  },
+  {
+    "brandid": 4353,
+    "brand": "西湖"
+  },
+  {
+    "brandid": 4357,
+    "brand": "幸福"
+  },
+  {
+    "brandid": 4359,
+    "brand": "星海"
+  },
+  {
+    "brandid": 4363,
+    "brand": "鑫萌板"
+  },
+  {
+    "brandid": 4365,
+    "brand": "新日松"
+  },
+  {
+    "brandid": 4367,
+    "brand": "Xiron"
+  },
+  {
+    "brandid": 4369,
+    "brand": "Xlogic"
+  },
+  {
+    "brandid": 4370,
+    "brand": "Xms"
+  },
+  {
+    "brandid": 4371,
+    "brand": "Xoceco"
+  },
+  {
+    "brandid": 4372,
+    "brand": "Xomax"
+  },
+  {
+    "brandid": 4373,
+    "brand": "Xoro"
+  },
+  {
+    "brandid": 4374,
+    "brand": "Xrypton"
+  },
+  {
+    "brandid": 4380,
+    "brand": "雪莲"
+  },
+  {
+    "brandid": 4390,
+    "brand": "雅马哈"
+  },
+  {
+    "brandid": 4393,
+    "brand": "Yamishi"
+  },
+  {
+    "brandid": 4394,
+    "brand": "Yapshe"
+  },
+  {
+    "brandid": 4395,
+    "brand": "Yes"
+  },
+  {
+    "brandid": 4396,
+    "brand": "莺歌"
+  },
+  {
+    "brandid": 4398,
+    "brand": "Yinghong"
+  },
+  {
+    "brandid": 4403,
+    "brand": "Yokan"
+  },
+  {
+    "brandid": 4404,
+    "brand": "Yoko"
+  },
+  {
+    "brandid": 4405,
+    "brand": "永宝"
+  },
+  {
+    "brandid": 4407,
+    "brand": "永固"
+  },
+  {
+    "brandid": 4419,
+    "brand": "Yu-Ma-Tu"
+  },
+  {
+    "brandid": 4424,
+    "brand": "宇航"
+  },
+  {
+    "brandid": 4437,
+    "brand": "Zenith"
+  },
+  {
+    "brandid": 4439,
+    "brand": "Zepto"
+  },
+  {
+    "brandid": 4447,
+    "brand": "珠海"
+  },
+  {
+    "brandid": 4450,
+    "brand": "兆赫"
+  },
+  {
+    "brandid": 4457,
+    "brand": "Zonda"
+  },
+  {
+    "brandid": 4464,
+    "brand": "Common"
+  },
+  {
+    "brandid": 4874,
+    "brand": "Doshisha"
+  },
+  {
+    "brandid": 4899,
+    "brand": "Nuvision"
+  },
+  {
+    "brandid": 4919,
+    "brand": "Roku"
+  },
+  {
+    "brandid": 5040,
+    "brand": "将军"
+  },
+  {
+    "brandid": 5192,
+    "brand": "韩电"
+  },
+  {
+    "brandid": 5219,
+    "brand": "I-O DATA"
+  },
+  {
+    "brandid": 5220,
+    "brand": "Cable TV"
+  },
+  {
+    "brandid": 5221,
+    "brand": "s-cubism"
+  },
+  {
+    "brandid": 5222,
+    "brand": "GREEN HOUSE"
+  },
+  {
+    "brandid": 5223,
+    "brand": "SKY PerfecTV!"
+  },
+  {
+    "brandid": 5224,
+    "brand": "USEN"
+  },
+  {
+    "brandid": 5225,
+    "brand": "joyeux"
+  },
+  {
+    "brandid": 5226,
+    "brand": "REAL LIFE JAPAN"
+  },
+  {
+    "brandid": 5227,
+    "brand": "Hikari-TV"
+  },
+  {
+    "brandid": 5228,
+    "brand": "DMM.com"
+  },
+  {
+    "brandid": 5229,
+    "brand": "J:COM"
+  },
+  {
+    "brandid": 5230,
+    "brand": "CANDELA"
+  },
+  {
+    "brandid": 5232,
+    "brand": "PIXELA"
+  },
+  {
+    "brandid": 5233,
+    "brand": "maxzen"
+  },
+  {
+    "brandid": 5234,
+    "brand": "SKNET"
+  },
+  {
+    "brandid": 5250,
+    "brand": "MARSHAL"
+  },
+  {
+    "brandid": 5251,
+    "brand": "ドンキホーテ"
+  },
+  {
+    "brandid": 5252,
+    "brand": "Aka"
+  },
+  {
+    "brandid": 5253,
+    "brand": "Champion"
+  },
+  {
+    "brandid": 5254,
+    "brand": "EQD Auria"
+  },
+  {
+    "brandid": 5255,
+    "brand": "Epworth"
+  },
+  {
+    "brandid": 5256,
+    "brand": "JCM"
+  },
+  {
+    "brandid": 5257,
+    "brand": "KC"
+  },
+  {
+    "brandid": 5259,
+    "brand": "LG Alps"
+  },
+  {
+    "brandid": 5261,
+    "brand": "Nexus"
+  },
+  {
+    "brandid": 5262,
+    "brand": "QuantumFX"
+  },
+  {
+    "brandid": 5263,
+    "brand": "Sens"
+  },
+  {
+    "brandid": 5264,
+    "brand": "Silo"
+  },
+  {
+    "brandid": 5265,
+    "brand": "Xogego"
+  },
+  {
+    "brandid": 5266,
+    "brand": "oCOSMO"
+  },
+  {
+    "brandid": 5318,
+    "brand": "New Acoustic Dimension"
+  },
+  {
+    "brandid": 5545,
+    "brand": "奥特斯"
+  },
+  {
+    "brandid": 5546,
+    "brand": "Aol"
+  },
+  {
+    "brandid": 5548,
+    "brand": "豁达特技"
+  },
+  {
+    "brandid": 5549,
+    "brand": "健生"
+  },
+  {
+    "brandid": 5550,
+    "brand": "康泰克"
+  },
+  {
+    "brandid": 5552,
+    "brand": "三源"
+  },
+  {
+    "brandid": 5553,
+    "brand": "TVM"
+  },
+  {
+    "brandid": 5554,
+    "brand": "威派"
+  },
+  {
+    "brandid": 5555,
+    "brand": "余杭"
+  },
+  {
+    "brandid": 5561,
+    "brand": "华夏"
+  },
+  {
+    "brandid": 5574,
+    "brand": "青云科技"
+  },
+  {
+    "brandid": 5576,
+    "brand": "Spectricon"
+  },
+  {
+    "brandid": 5577,
+    "brand": "康冠"
+  },
+  {
+    "brandid": 5581,
+    "brand": "梦美"
+  },
+  {
+    "brandid": 5584,
+    "brand": "赛格"
+  },
+  {
+    "brandid": 5586,
+    "brand": "海乐"
+  },
+  {
+    "brandid": 5587,
+    "brand": "Detron"
+  },
+  {
+    "brandid": 5592,
+    "brand": "PBI"
+  },
+  {
+    "brandid": 5595,
+    "brand": "鑫萌"
+  },
+  {
+    "brandid": 5599,
+    "brand": "Inteo"
+  },
+  {
+    "brandid": 5600,
+    "brand": "幻象"
+  },
+  {
+    "brandid": 5601,
+    "brand": "朝野科技"
+  },
+  {
+    "brandid": 5602,
+    "brand": "锋派"
+  },
+  {
+    "brandid": 5606,
+    "brand": "日派"
+  },
+  {
+    "brandid": 5607,
+    "brand": "红梅"
+  },
+  {
+    "brandid": 5610,
+    "brand": "鼎科"
+  },
+  {
+    "brandid": 5615,
+    "brand": "博一格数码"
+  },
+  {
+    "brandid": 5620,
+    "brand": "SET"
+  },
+  {
+    "brandid": 5621,
+    "brand": "台林"
+  },
+  {
+    "brandid": 5624,
+    "brand": "英可"
+  },
+  {
+    "brandid": 5628,
+    "brand": "华润"
+  },
+  {
+    "brandid": 5629,
+    "brand": "太尹"
+  },
+  {
+    "brandid": 5630,
+    "brand": "Tcl"
+  },
+  {
+    "brandid": 5633,
+    "brand": "凯擘"
+  },
+  {
+    "brandid": 5638,
+    "brand": "Futuretech"
+  },
+  {
+    "brandid": 5639,
+    "brand": "德丽珑"
+  },
+  {
+    "brandid": 5640,
+    "brand": "三间"
+  },
+  {
+    "brandid": 5642,
+    "brand": "鹏程"
+  },
+  {
+    "brandid": 5644,
+    "brand": "东门子"
+  },
+  {
+    "brandid": 5645,
+    "brand": "Praxis"
+  },
+  {
+    "brandid": 5647,
+    "brand": "Nesco"
+  },
+  {
+    "brandid": 5649,
+    "brand": "东帝士"
+  },
+  {
+    "brandid": 5651,
+    "brand": "敬泰"
+  },
+  {
+    "brandid": 5655,
+    "brand": "日红"
+  },
+  {
+    "brandid": 5657,
+    "brand": "Porland"
+  },
+  {
+    "brandid": 5658,
+    "brand": "TOPCONPro"
+  },
+  {
+    "brandid": 5661,
+    "brand": "Grunpy"
+  },
+  {
+    "brandid": 5662,
+    "brand": "欧琳"
+  },
+  {
+    "brandid": 5669,
+    "brand": "华顿"
+  },
+  {
+    "brandid": 5671,
+    "brand": "禾聊硕"
+  },
+  {
+    "brandid": 5674,
+    "brand": "Baysonic"
+  },
+  {
+    "brandid": 5677,
+    "brand": "Semivox"
+  },
+  {
+    "brandid": 5680,
+    "brand": "慧浦神望"
+  },
+  {
+    "brandid": 5683,
+    "brand": "Tai Wah"
+  },
+  {
+    "brandid": 5684,
+    "brand": "优盟"
+  },
+  {
+    "brandid": 5686,
+    "brand": "山茶"
+  },
+  {
+    "brandid": 5691,
+    "brand": "Beuamark"
+  },
+  {
+    "brandid": 5692,
+    "brand": "Scimitsu"
+  },
+  {
+    "brandid": 5707,
+    "brand": "冬凌"
+  },
+  {
+    "brandid": 5709,
+    "brand": "TCRC"
+  },
+  {
+    "brandid": 5714,
+    "brand": "新抚"
+  },
+  {
+    "brandid": 5716,
+    "brand": "东林"
+  },
+  {
+    "brandid": 5719,
+    "brand": "宇瑟"
+  },
+  {
+    "brandid": 5721,
+    "brand": "奥林匹亚"
+  },
+  {
+    "brandid": 5722,
+    "brand": "夏浦"
+  },
+  {
+    "brandid": 5724,
+    "brand": "生力"
+  },
+  {
+    "brandid": 5728,
+    "brand": "康下"
+  },
+  {
+    "brandid": 5730,
+    "brand": "Dream Vision"
+  },
+  {
+    "brandid": 5737,
+    "brand": "爱芒果"
+  },
+  {
+    "brandid": 5748,
+    "brand": "CHKQ"
+  },
+  {
+    "brandid": 5751,
+    "brand": "看尚"
+  },
+  {
+    "brandid": 5752,
+    "brand": "富丽"
+  },
+  {
+    "brandid": 5753,
+    "brand": "利华"
+  },
+  {
+    "brandid": 5755,
+    "brand": "德加拉"
+  },
+  {
+    "brandid": 5756,
+    "brand": "新视代"
+  },
+  {
+    "brandid": 5757,
+    "brand": "索映"
+  },
+  {
+    "brandid": 5760,
+    "brand": "富里"
+  },
+  {
+    "brandid": 5761,
+    "brand": "慧蒲"
+  },
+  {
+    "brandid": 5770,
+    "brand": "电城"
+  },
+  {
+    "brandid": 5779,
+    "brand": "宝利通"
+  },
+  {
+    "brandid": 5781,
+    "brand": "奥林匹克"
+  },
+  {
+    "brandid": 5785,
+    "brand": "瀚丽美"
+  },
+  {
+    "brandid": 5788,
+    "brand": "Lloytron"
+  },
+  {
+    "brandid": 5789,
+    "brand": "New Sonic"
+  },
+  {
+    "brandid": 5794,
+    "brand": "集品"
+  },
+  {
+    "brandid": 5796,
+    "brand": "暴风TV"
+  },
+  {
+    "brandid": 5797,
+    "brand": "亿硕"
+  },
+  {
+    "brandid": 5800,
+    "brand": "金雀"
+  },
+  {
+    "brandid": 5809,
+    "brand": "三丸"
+  },
+  {
+    "brandid": 5810,
+    "brand": "微鲸"
+  },
+  {
+    "brandid": 5812,
+    "brand": "Chunghsin"
+  },
+  {
+    "brandid": 5813,
+    "brand": "彩讯"
+  },
+  {
+    "brandid": 5815,
+    "brand": "丽格美"
+  },
+  {
+    "brandid": 5818,
+    "brand": "蓝星"
+  },
+  {
+    "brandid": 5824,
+    "brand": "酷开"
+  },
+  {
+    "brandid": 5828,
+    "brand": "旭璟"
+  },
+  {
+    "brandid": 5834,
+    "brand": "凯红"
+  },
+  {
+    "brandid": 5836,
+    "brand": "Ambassador"
+  },
+  {
+    "brandid": 5837,
+    "brand": "Pptv"
+  },
+  {
+    "brandid": 5843,
+    "brand": "Addsion"
+  },
+  {
+    "brandid": 5845,
+    "brand": "Polestar"
+  },
+  {
+    "brandid": 5858,
+    "brand": "朝虹"
+  },
+  {
+    "brandid": 5871,
+    "brand": "中韩"
+  },
+  {
+    "brandid": 5878,
+    "brand": "Azuma"
+  },
+  {
+    "brandid": 6133,
+    "brand": "A.R.Systems"
+  },
+  {
+    "brandid": 6139,
+    "brand": "Accusound"
+  },
+  {
+    "brandid": 6142,
+    "brand": "Acronn"
+  },
+  {
+    "brandid": 6143,
+    "brand": "Akashi"
+  },
+  {
+    "brandid": 6144,
+    "brand": "Akito"
+  },
+  {
+    "brandid": 6145,
+    "brand": "Anam National"
+  },
+  {
+    "brandid": 6146,
+    "brand": "AquaVision"
+  },
+  {
+    "brandid": 6147,
+    "brand": "Atec"
+  },
+  {
+    "brandid": 6148,
+    "brand": "Auchan"
+  },
+  {
+    "brandid": 6149,
+    "brand": "Blue Media"
+  },
+  {
+    "brandid": 6150,
+    "brand": "Bristol"
+  },
+  {
+    "brandid": 6151,
+    "brand": "Ecron"
+  },
+  {
+    "brandid": 6152,
+    "brand": "Electroview"
+  },
+  {
+    "brandid": 6153,
+    "brand": "Enox."
+  },
+  {
+    "brandid": 6154,
+    "brand": "Etron"
+  },
+  {
+    "brandid": 6155,
+    "brand": "Eurovision"
+  },
+  {
+    "brandid": 6156,
+    "brand": "Everline"
+  },
+  {
+    "brandid": 6157,
+    "brand": "Fenner"
+  },
+  {
+    "brandid": 6158,
+    "brand": "Handic"
+  },
+  {
+    "brandid": 6159,
+    "brand": "Hornyphon"
+  },
+  {
+    "brandid": 6160,
+    "brand": "Ict"
+  },
+  {
+    "brandid": 6161,
+    "brand": "JTC"
+  },
+  {
+    "brandid": 6162,
+    "brand": "JTV"
+  },
+  {
+    "brandid": 6163,
+    "brand": "Kogan"
+  },
+  {
+    "brandid": 6164,
+    "brand": "Marca Canaria"
+  },
+  {
+    "brandid": 6165,
+    "brand": "Miia"
+  },
+  {
+    "brandid": 6166,
+    "brand": "Morgan's"
+  },
+  {
+    "brandid": 6167,
+    "brand": "Mystery"
+  },
+  {
+    "brandid": 6168,
+    "brand": "NeoniQ"
+  },
+  {
+    "brandid": 6169,
+    "brand": "Olevia"
+  },
+  {
+    "brandid": 6170,
+    "brand": "Osio"
+  },
+  {
+    "brandid": 6171,
+    "brand": "Plantron"
+  },
+  {
+    "brandid": 6172,
+    "brand": "Pragma Digital"
+  },
+  {
+    "brandid": 6173,
+    "brand": "President"
+  },
+  {
+    "brandid": 6174,
+    "brand": "PrimeView"
+  },
+  {
+    "brandid": 6175,
+    "brand": "Qilive"
+  },
+  {
+    "brandid": 6176,
+    "brand": "Quartek"
+  },
+  {
+    "brandid": 6177,
+    "brand": "Rank Arena"
+  },
+  {
+    "brandid": 6178,
+    "brand": "Romsat"
+  },
+  {
+    "brandid": 6179,
+    "brand": "Sandstr0m"
+  },
+  {
+    "brandid": 6180,
+    "brand": "Schontech"
+  },
+  {
+    "brandid": 6181,
+    "brand": "SEI"
+  },
+  {
+    "brandid": 6182,
+    "brand": "Sense"
+  },
+  {
+    "brandid": 6183,
+    "brand": "Shivaki"
+  },
+  {
+    "brandid": 6184,
+    "brand": "Sky Media"
+  },
+  {
+    "brandid": 6185,
+    "brand": "Sound & Vision"
+  },
+  {
+    "brandid": 6186,
+    "brand": "Stevison"
+  },
+  {
+    "brandid": 6187,
+    "brand": "Swedx"
+  },
+  {
+    "brandid": 6188,
+    "brand": "Sysline"
+  },
+  {
+    "brandid": 6189,
+    "brand": "TD Systems"
+  },
+  {
+    "brandid": 6190,
+    "brand": "0512"
+  },
+  {
+    "brandid": 6191,
+    "brand": "1770"
+  },
+  {
+    "brandid": 6192,
+    "brand": "Technical"
+  },
+  {
+    "brandid": 6193,
+    "brand": "Teledex"
+  },
+  {
+    "brandid": 6194,
+    "brand": "Tucson"
+  },
+  {
+    "brandid": 6195,
+    "brand": "V7 Videoseven"
+  },
+  {
+    "brandid": 6196,
+    "brand": "Veon"
+  },
+  {
+    "brandid": 6197,
+    "brand": "Vivid"
+  },
+  {
+    "brandid": 6434,
+    "brand": "Sveon"
+  }
+]

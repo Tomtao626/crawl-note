@@ -1,0 +1,7362 @@
+<<<<<<< HEAD
+[{
+  "serial": 3,
+  "brand": "10moons",
+  "model": []
+},
+{
+"serial": 11,
+"brand": "888",
+"model": []
+},
+{
+"serial": 6,
+"brand": "A.R.SYSTEMS",
+"model": []
+},
+{
+"serial": 2,
+"brand": "ACURA",
+"model": []
+},
+{
+"serial": 1,
+"brand": "ADC",
+"model": []
+},
+{
+"serial": 7,
+"brand": "ADL",
+"model": []
+},
+{
+"serial": 8,
+"brand": "ADMIRA",
+"model": []
+},
+{
+"serial": 11,
+"brand": "ADT",
+"model": []
+},
+{
+"serial": 11,
+"brand": "AEG",
+"model": []
+},
+{
+"serial": 3,
+"brand": "AGEF",
+"model": []
+},
+{
+"serial": 6,
+"brand": "AIM",
+"model": []
+},
+{
+"serial": 1,
+"brand": "AKIB",
+"model": []
+},
+{
+"serial": 4,
+"brand": "AKITO",
+"model": []
+},
+{
+"serial": 6,
+"brand": "ALARON",
+"model": []
+},
+{
+"serial": 1,
+"brand": "ALLSAR",
+"model": []
+},
+{
+"serial": 3,
+"brand": "ALLSTAR",
+"model": []
+},
+{
+"serial": 3,
+"brand": "ALLVIEW",
+"model": []
+},
+{
+"serial": 3,
+"brand": "ALWA",
+"model": []
+},
+{
+"serial": 6,
+"brand": "AMBASSADOR",
+"model": []
+},
+{
+"serial": 3,
+"brand": "AMPLIVISION",
+"model": []
+},
+{
+"serial": 11,
+"brand": "AMTRAN",
+"model": []
+},
+{
+"serial": 3,
+"brand": "ANAM NATIONAL",
+"model": []
+},
+{
+"serial": 20,
+"brand": "ANHUA",
+"model": []
+},
+{
+"serial": 1,
+"brand": "AOL",
+"model": []
+},
+{
+"serial": 21,
+"brand": "AOLINPIKE",
+"model": []
+},
+{
+"serial": 26,
+"brand": "AOLINPU",
+"model": []
+},
+{
+"serial": 1,
+"brand": "ARCTIC",
+"model": []
+},
+{
+"serial": 1,
+"brand": "ARIO",
+"model": []
+},
+{
+"serial": 11,
+"brand": "ART",
+"model": []
+},
+{
+"serial": 8,
+"brand": "ASA",
+"model": []
+},
+{
+"serial": 6,
+"brand": "ASBERG",
+"model": []
+},
+{
+"serial": 1,
+"brand": "ATD",
+"model": []
+},
+{
+"serial": 8,
+"brand": "AVerMedia",
+"model": []
+},
+{
+"serial": 1,
+"brand": "AWA",
+"model": []
+},
+{
+"serial": 7,
+"brand": "AcceleVision",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Accent",
+"model": []
+},
+
+{
+"serial": 1,
+"brand": "AccuView",
+"model": []
+},
+{
+"serial": 7,
+"brand": "Accurian",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Acer",
+"model": []
+},
+{
+"serial": 5,
+"brand": "Acme",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Acoustic Solutions",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Acousto",
+"model": []
+},
+{
+"serial": 10,
+"brand": "Acousto-optic intelligent science and technology",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Action",
+"model": []
+},
+{
+"serial": 7,
+"brand": "Ad Notam",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Addison",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Addsion",
+"model": []
+},
+{
+"serial": 5,
+"brand": "Admiral",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Advante",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Advent",
+"model": []
+},
+{
+"serial": 13,
+"brand": "Aerospace",
+"model": []
+},
+{
+"serial": 7,
+"brand": "Aftron",
+"model": []
+},
+
+{
+"serial": 1,
+"brand": "Agazi",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Aiko",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Airda",
+"model": []
+},
+{
+"serial": 103,
+"brand": "Aiwa",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Akashi",
+"model": []
+},
+{
+"serial": 3,
+"brand": "Akiba",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Akira",
+"model": []
+},
+{
+"serial": 14,
+"brand": "Akura",
+"model": []
+},
+{
+"serial": 11,
+"brand": "AlDisplay",
+"model": []
+},
+{
+"serial": 20,
+"brand": "Alba",
+"model": []
+},
+{
+"serial": 12,
+"brand": "Albatron",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Alien",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Alkos",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Allorgan",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Ambassador",
+"model": []
+},
+{
+"serial": 10,
+"brand": "Ampro",
+"model": []
+},
+{
+"serial": 35,
+"brand": "Amstrad",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Anam",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Anam Nationnal",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Andersson",
+"model": []
+},
+{
+"serial": 4,
+"brand": "Angostura",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Anitech",
+"model": []
+},
+{
+"serial": 25,
+"brand": "Annwa",
+"model": []
+},
+{
+"serial": 7,
+"brand": "Ansonic",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Aolonpiya",
+"model": []
+},
+{
+"serial": 14,
+"brand": "Apex",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Apex Digital",
+"model": []
+},
+{
+"serial": 12,
+"brand": "Appe",
+"model": []
+},
+{
+"serial": 7,
+"brand": "Ardem",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Arena",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Aristona",
+"model": []
+},
+{
+"serial": 11,
+"brand": "As Long",
+"model": []
+},
+{
+"serial": 21,
+"brand": "As of gifted",
+"model": []
+},
+{
+"serial": 7,
+"brand": "Astra",
+"model": []
+},
+{
+"serial": 24,
+"brand": "Astro",
+"model": []
+},
+{
+"serial": 1,
+"brand": "AsuKa",
+"model": []
+},
+{
+"serial": 5,
+"brand": "Asuka",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Asus",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Atlantic",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Audio Dynamics",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Audiosonic",
+"model": []
+},
+{
+"serial": 33,
+"brand": "Audiovox",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Audioworld",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Autovox",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Auvio",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Aveis",
+"model": []
+},
+{
+"serial": 7,
+"brand": "Aventura",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Avol",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Awa",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Axxon",
+"model": []
+},
+{
+"serial": 2,
+"brand": "B&H",
+"model": []
+},
+{
+"serial": 22,
+"brand": "BAIHEHUA",
+"model": []
+},
+{
+"serial": 26,
+"brand": "BAIHUA",
+"model": []
+},
+{
+"serial": 21,
+"brand": "BAILE",
+"model": []
+},
+{
+"serial": 11,
+"brand": "BAOSHENG",
+"model": []
+},
+{
+"serial": 296,
+"brand": "BEIJING",
+"model": []
+},
+{
+"serial": 1,
+"brand": "BGH",
+"model": []
+},
+{
+"serial": 4,
+"brand": "BOE",
+"model": []
+},
+{
+"serial": 13,
+"brand": "BPL",
+"model": []
+},
+{
+"serial": 3,
+"brand": "Baird",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Baisic Line",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Bao spend",
+"model": []
+},
+{
+"serial": 7,
+"brand": "BaoHuaShi",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Baolicai",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Barco",
+"model": []
+},
+{
+"serial": 3,
+"brand": "Basic Line",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Bauhn",
+"model": []
+},
+{
+"serial": 7,
+"brand": "Baur",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Baysonic",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Beaumark",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Bei Lingqiao",
+"model": []
+},
+{
+"serial": 15,
+"brand": "Beko",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Belson",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Belstar",
+"model": []
+},
+{
+"serial": 65,
+"brand": "BenQ",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Beon",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Berthen",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Best",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Bestar",
+"model": []
+},
+{
+"serial": 7,
+"brand": "Bestv",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Beuamark",
+"model": []
+},
+{
+"serial": 5,
+"brand": "Black Diamond",
+"model": []
+},
+{
+"serial": 1,
+"brand": "BlackDiamond",
+"model": []
+},
+{
+"serial": 12,
+"brand": "Blaupunkt",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Bloomberg Digital",
+"model": []
+},
+{
+"serial": 5,
+"brand": "Blue Sky",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Boca",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Bork",
+"model": []
+},
+{
+"serial": 4,
+"brand": "Brandt",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Brikmann",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Brionvega",
+"model": []
+},
+{
+"serial": 5,
+"brand": "Broksonic",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Brokwood",
+"model": []
+},
+{
+"serial": 29,
+"brand": "Broom",
+"model": []
+},
+{
+"serial": 18,
+"brand": "Bush",
+"model": []
+},
+{
+"serial": 1,
+"brand": "CAI",
+"model": []
+},
+{
+"serial": 16,
+"brand": "CAIHONG",
+"model": []
+},
+{
+"serial": 7,
+"brand": "CAILING",
+"model": []
+},
+{
+"serial": 6,
+"brand": "CAIXING",
+"model": []
+},
+{
+"serial": 9,
+"brand": "CCE",
+"model": []
+},
+{
+"serial": 8,
+"brand": "CGE",
+"model": []
+},
+{
+"serial": 296,
+"brand": "CHANGCHENG",
+"model": []
+},
+{
+"serial": 37,
+"brand": "CHANGFEI",
+"model": []
+},
+{
+"serial": 13,
+"brand": "CHANGFENG",
+"model": []
+},
+{
+"serial": 22,
+"brand": "CHENGDU",
+"model": []
+},
+{
+"serial": 1,
+"brand": "CHKQ",
+"model": []
+},
+{
+"serial": 31,
+"brand": "CHUANGJIA",
+"model": []
+},{
+"serial": 223,
+"brand": "CONROWA",
+"model": []
+},
+{
+"serial": 9,
+"brand": "CTX",
+"model": []
+},
+{
+"serial": 7,
+"brand": "CYBEX",
+"model": []
+},
+{
+"serial": 16,
+"brand": "Cai Ling",
+"model": []
+},
+{
+"serial": 12,
+"brand": "Caishi",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Calix",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Calypso",
+"model": []
+},
+{
+"serial": 18,
+"brand": "Camellia",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Cameron",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Camper",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Canca",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Candle",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Canon",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Capsonic",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Carad",
+"model": []
+},
+{
+"serial": 7,
+"brand": "Carena",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Carrefour",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Carver",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Cascade",
+"model": []
+},
+{
+"serial": 20,
+"brand": "Casio",
+"model": []
+},
+{
+"serial": 7,
+"brand": "Cathay",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Celcus",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Celebrity",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Celestial",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Cello",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Centrex",
+"model": []
+},
+{
+"serial": 3,
+"brand": "Centrum",
+"model": []
+},
+{
+"serial": 9,
+"brand": "Centrurion",
+"model": []
+},
+{
+"serial": 41,
+"brand": "Changfeng",
+"model": []
+},
+{
+"serial": 25,
+"brand": "Changhai",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Chaparral",
+"model": []
+},
+{
+"serial": 14,
+"brand": "Chimei",
+"model": []
+},
+{
+"serial": 6,
+"brand": "China Telecom",
+"model": []
+},
+{
+"serial": 2,
+"brand": "China and South Korea",
+"model": []
+},
+{
+"serial": 27,
+"brand": "Chrysanthemum",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Chuanjing",
+"model": []
+},
+{
+"serial": 3,
+"brand": "Chun Yun",
+"model": []
+},
+{
+"serial": 9,
+"brand": "Chung Hsin",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Chunghsin",
+"model": []
+},
+{
+"serial": 29,
+"brand": "Chunlan",
+"model": []
+},
+{
+"serial": 17,
+"brand": "Chunsun",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Cimline",
+"model": []
+},
+{
+"serial": 10,
+"brand": "Citizen",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Clarivox",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Clayton",
+"model": []
+},
+{
+"serial": 4,
+"brand": "Coby",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Color Poem",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Combitech",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Commander",
+"model": []
+},
+{
+"serial": 12,
+"brand": "Commander In Chief",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Commercial Solutions",
+"model": []
+},
+{
+"serial": 16,
+"brand": "Comverse",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Concerto",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Condor",
+"model": []
+},
+{
+"serial": 3,
+"brand": "Conia",
+"model": []
+},
+{
+"serial": 4,
+"brand": "Contec",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Cool Letv",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Cool Open",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Cosmel",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Cox",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Crosley",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Crown",
+"model": []
+},
+{
+"serial": 83,
+"brand": "Crowne",
+"model": []
+},
+{
+"serial": 9,
+"brand": "Ctech",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Curtis",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Curtis Mathes",
+"model": []
+},
+{
+"serial": 10,
+"brand": "Cyber",
+"model": []
+},
+{
+"serial": 18,
+"brand": "Cybercom",
+"model": []
+},
+{
+"serial": 21,
+"brand": "Cytron",
+"model": []
+},
+{
+"serial": 2,
+"brand": "DCS",
+"model": []
+},
+{
+"serial": 1,
+"brand": "DEC",
+"model": []
+},
+{
+"serial": 17,
+"brand": "DETRON",
+"model": []
+},
+{
+"serial": 22,
+"brand": "DIGITEC",
+"model": []
+},
+{
+"serial": 2,
+"brand": "DL",
+"model": []
+},
+{
+"serial": 28,
+"brand": "DONGLIN",
+"model": []
+},
+{
+"serial": 11,
+"brand": "DRTRON",
+"model": []
+},
+{
+"serial": 2,
+"brand": "DSE",
+"model": []
+},
+{
+"serial": 18,
+"brand": "DUONGJIE",
+"model": []
+},
+{
+"serial": 9,
+"brand": "DVision",
+"model": []
+},
+{
+"serial": 1,
+"brand": "DX",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Daenyx",
+"model": []
+},
+{
+"serial": 58,
+"brand": "Daewoo",
+"model": []
+},
+{
+"serial": 7,
+"brand": "Dan Nikos",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Dansai",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Dantax",
+"model": []
+},
+{
+"serial": 15,
+"brand": "Dante Sound",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Datsura",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Dawa",
+"model": []
+},
+{
+"serial": 17,
+"brand": "Day Chicago",
+"model": []
+},
+{
+"serial": 20,
+"brand": "Day Geng board",
+"model": []
+},
+{
+"serial": 9,
+"brand": "Day School",
+"model": []
+},
+{
+"serial": 10,
+"brand": "Day Sound",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Day cheng",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Daya",
+"model": []
+},
+{
+"serial": 10,
+"brand": "Days Min TV",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Daytek",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Daytron",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Dbox",
+"model": []
+},
+{
+"serial": 2,
+"brand": "De Graaf",
+"model": []
+},
+{
+"serial": 3,
+"brand": "Decca",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Delilong",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Dell",
+"model": []
+},
+{
+"serial": 12,
+"brand": "Denon",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Denver",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Desmet",
+"model": []
+},
+{
+"serial": 1,
+"brand": "DiBoss",
+"model": []
+},
+{
+"serial": 4,
+"brand": "Diamond",
+"model": []
+},
+{
+"serial": 12,
+"brand": "Dick Smith Elec",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Dicon",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Digatron",
+"model": []
+},
+{
+"serial": 6,
+"brand": "DigiMax",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Digihome",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Digiline",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Digital",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Digital Life",
+"model": []
+},
+{
+"serial": 14,
+"brand": "Digital Sky",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Digitel",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Digitex",
+"model": []
+},
+{
+"serial": 3,
+"brand": "Digitor",
+"model": []
+},
+{
+"serial": 1,
+"brand": "DigtalLabs",
+"model": []
+},
+{
+"serial": 16,
+"brand": "Ding branch",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Distar",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Dixi",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Domeos",
+"model": []
+},
+{
+"serial": 49,
+"brand": "Dongbao",
+"model": []
+},
+{
+"serial": 20,
+"brand": "Dongda",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Dongling",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Dongyang TV",
+"model": []
+},
+{
+"serial": 19,
+"brand": "Dream",
+"model": []
+},
+{
+"serial": 3,
+"brand": "Dream Vision",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Drean",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Driving",
+"model": []
+},
+{
+"serial": 3,
+"brand": "Dua",
+"model": []
+},
+{
+"serial": 14,
+"brand": "Dual",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Dumont",
+"model": []
+},
+{
+"serial": 4,
+"brand": "Durabrand",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Dux",
+"model": []
+},
+{
+"serial": 10,
+"brand": "Dwin",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Dynatron",
+"model": []
+},
+{
+"serial": 5,
+"brand": "Dynex",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Dyon",
+"model": []
+},
+{
+"serial": 11,
+"brand": "ECE",
+"model": []
+},
+{
+"serial": 1,
+"brand": "ELG",
+"model": []
+},
+{
+"serial": 2,
+"brand": "ESA",
+"model": []
+},
+{
+"serial": 1,
+"brand": "ESC",
+"model": []
+},
+{
+"serial": 16,
+"brand": "East China Sea",
+"model": []
+},
+{
+"serial": 9,
+"brand": "East King",
+"model": []
+},
+{
+"serial": 2,
+"brand": "East timor",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Ecco",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Edison",
+"model": []
+},
+{
+"serial": 10,
+"brand": "Eight",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Eisou",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Ekea",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Elbe",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Electric City",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Electroband",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Electrograph",
+"model": []
+},
+{
+"serial": 3,
+"brand": "Electrohome",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Electron",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Electrophonic",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Elekta",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Elektra",
+"model": []
+},
+{
+"serial": 12,
+"brand": "Element Electronics",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Elfunk",
+"model": []
+},
+{
+"serial": 9,
+"brand": "Elin",
+"model": []
+},
+{
+"serial": 14,
+"brand": "Elite",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Elta",
+"model": []
+},
+{
+"serial": 24,
+"brand": "Emerson",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Envision",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Enzer",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Epson",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Erres",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Etec",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Etron",
+"model": []
+},
+{
+"serial": 15,
+"brand": "Eulogize",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Euro-Feel",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Euroline",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Euroman",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Euroopa",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Eurphon",
+"model": []
+},
+{
+"serial": 24,
+"brand": "Event To",
+"model": []
+},
+{
+"serial": 12,
+"brand": "Evergreen",
+"model": []
+},
+{
+"serial": 9,
+"brand": "Everlasting",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Evesham",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Evolution",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Evotel",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Excellent Group",
+"model": []
+},
+{
+"serial": 19,
+"brand": "Excellent Lana Si",
+"model": []
+},
+{
+"serial": 10,
+"brand": "Excellent Map",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Excello",
+"model": []
+},
+{
+"serial": 9,
+"brand": "Expert",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Exquisit",
+"model": []
+},
+{
+"serial": 23,
+"brand": "FEIYAN",
+"model": []
+},
+{
+"serial": 40,
+"brand": "FUJIAN",
+"model": []
+},
+{
+"serial": 7,
+"brand": "FULI",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Favi",
+"model": []
+},
+{
+"serial": 10,
+"brand": "Fei Long",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Fenner",
+"model": []
+},
+{
+"serial": 4,
+"brand": "Ferguson",
+"model": []
+},
+{
+"serial": 7,
+"brand": "Fidelity",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Fidelty",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Finlandia",
+"model": []
+},
+{
+"serial": 9,
+"brand": "Finlux",
+"model": []
+},
+{
+"serial": 5,
+"brand": "Firstline",
+"model": []
+},
+{
+"serial": 23,
+"brand": "Fisher",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Flint",
+"model": []
+},
+{
+"serial": 5,
+"brand": "Fly",
+"model": []
+},
+{
+"serial": 22,
+"brand": "Flying Deer",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Flying wave",
+"model": []
+},
+{
+"serial": 4,
+"brand": "For the",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Formenti",
+"model": []
+},
+{
+"serial": 14,
+"brand": "Fortress",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Foxconn",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Fraba",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Friac",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Frigidaire",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Fu Li",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Fujicom",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Fujimaru",
+"model": []
+},
+{
+"serial": 25,
+"brand": "Fujitsu",
+"model": []
+},
+{
+"serial": 7,
+"brand": "Fujitsu Apex",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Fujitsu Siemens",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Fuli",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Fulix",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Funshion",
+"model": []
+},
+{
+"serial": 137,
+"brand": "Furi",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Furichi",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Fushun",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Futronic",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Futuretech",
+"model": []
+},
+{
+"serial": 34,
+"brand": "GANGTAI",
+"model": []
+},
+{
+"serial": 12,
+"brand": "GANXIN",
+"model": []
+},
+{
+"serial": 1,
+"brand": "GBC",
+"model": []
+},
+{
+"serial": 30,
+"brand": "GE",
+"model": []
+},
+{
+"serial": 3,
+"brand": "GEC",
+"model": []
+},
+{
+"serial": 1,
+"brand": "GFM",
+"model": []
+},
+{
+"serial": 11,
+"brand": "GHanz",
+"model": []
+},
+{
+"serial": 11,
+"brand": "GIEC",
+"model": []
+},
+{
+"serial": 11,
+"brand": "GP",
+"model": []
+},
+{
+"serial": 1,
+"brand": "GPM",
+"model": []
+},
+{
+"serial": 1,
+"brand": "GPX",
+"model": []
+},
+{
+"serial": 6,
+"brand": "GVA",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Gaba",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Gadmei",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Galaxi",
+"model": []
+},
+{
+"serial": 17,
+"brand": "Galaxis",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Galaxy",
+"model": []
+},
+{
+"serial": 18,
+"brand": "Gateway",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Gauss bayesian",
+"model": []
+},
+{
+"serial": 2,
+"brand": "General",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Genesis",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Genexxa",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Gericom",
+"model": []
+},
+{
+"serial": 9,
+"brand": "GlobeCast",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Go Video",
+"model": []
+},
+{
+"serial": 22,
+"brand": "God Choi",
+"model": []
+},
+{
+"serial": 14,
+"brand": "Gold Magpie",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Goldfunk",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Goldi",
+"model": []
+},
+{
+"serial": 40,
+"brand": "Goldstar",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Good",
+"model": []
+},
+{
+"serial": 10,
+"brand": "Good Luck",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Good People",
+"model": []
+},
+{
+"serial": 10,
+"brand": "Goodmans",
+"model": []
+},
+{
+"serial": 13,
+"brand": "Goofy",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Gorenje",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Government",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Gra",
+"model": []
+},
+{
+"serial": 22,
+"brand": "Gradiente",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Graetz",
+"model": []
+},
+{
+"serial": 7,
+"brand": "Granada",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Grandin",
+"model": []
+},
+{
+"serial": 16,
+"brand": "Grundig",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Grunkel",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Grunpy",
+"model": []
+},
+{
+"serial": 10,
+"brand": "Guangdong Radio And TV Network",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Guoke photoelectric",
+"model": []
+},
+{
+"serial": 30,
+"brand": "Gypsophila",
+"model": []
+},
+{
+"serial": 2,
+"brand": "H&B",
+"model": []
+},
+{
+"serial": 2,
+"brand": "HCM",
+"model": []
+},
+{
+"serial": 1,
+"brand": "HCN",
+"model": []
+},
+{
+"serial": 12,
+"brand": "HCT",
+"model": []
+},
+{
+"serial": 6,
+"brand": "HEIER",
+"model": []
+},
+{
+"serial": 12,
+"brand": "HIMEDIA",
+"model": []
+},
+{
+"serial": 23,
+"brand": "HONGMEI",
+"model": []
+},{
+"serial": 27,
+"brand": "HONGYAN",
+"model": []
+},
+{
+"serial": 1,
+"brand": "HOT",
+"model": []
+},
+{
+"serial": 8,
+"brand": "HPC",
+"model": []
+},
+{
+"serial": 1,
+"brand": "HPP",
+"model": []
+},
+{
+"serial": 10,
+"brand": "HUAQIANG",
+"model": []
+},
+{
+"serial": 9,
+"brand": "HUARI",
+"model": []
+},
+{
+"serial": 7,
+"brand": "HUIJIABAN",
+"model": []
+},
+{
+"serial": 7,
+"brand": "HUODAKEJI",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Haas",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Haaz",
+"model": []
+},
+{
+"serial": 29,
+"brand": "Hai Le",
+"model": []
+},
+{
+"serial": 28,
+"brand": "Haihong",
+"model": []
+},
+{
+"serial": 4,
+"brand": "Haimei huang",
+"model": []
+},
+{
+"serial": 9,
+"brand": "Hallmark",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Hankook",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Hanlimei",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Hannsg",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Hanpa",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Hanseatic",
+"model": []
+},
+{
+"serial": 7,
+"brand": "Hanso",
+"model": []
+},
+{
+"serial": 5,
+"brand": "Hanspree",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Hantarex",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Hantor",
+"model": []
+},
+{
+"serial": 10,
+"brand": "Happiness",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Harman Kardon",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Harwood",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Hauppauge",
+"model": []
+},{
+"serial": 7,
+"brand": "Herman",
+"model": []
+},
+{
+"serial": 12,
+"brand": "Hewlett Packard",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Highline",
+"model": []
+},
+{
+"serial": 4,
+"brand": "Hinari",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Hisawa",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Hiteker",
+"model": []
+},
+{
+"serial": 7,
+"brand": "Honest Crown",
+"model": []
+},{
+"serial": 44,
+"brand": "Hongmei",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Horlon",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Huajia",
+"model": []
+},
+{
+"serial": 12,
+"brand": "Huanglong",
+"model": []
+},
+{
+"serial": 120,
+"brand": "Huangshan",
+"model": []
+},
+{
+"serial": 42,
+"brand": "Huanyu",
+"model": []
+},
+{
+"serial": 16,
+"brand": "Huari",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Huarong",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Huarun",
+"model": []
+},
+{
+"serial": 9,
+"brand": "Huawei",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Huawei's secret box",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Huijia Board",
+"model": []
+},
+{
+"serial": 16,
+"brand": "Huijia board",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Huipu",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Humax",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Hung Kai",
+"model": []
+},
+{
+"serial": 11,
+"brand": "IKEA",
+"model": []
+},
+{
+"serial": 2,
+"brand": "ILO",
+"model": []
+},
+{
+"serial": 16,
+"brand": "INTEL",
+"model": []
+},
+{
+"serial": 4,
+"brand": "ITT",
+"model": []
+},
+{
+"serial": 3,
+"brand": "ITV",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Imation",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Imperial",
+"model": []
+},
+{
+"serial": 7,
+"brand": "In The Constant",
+"model": []
+},
+{
+"serial": 6,
+"brand": "In science and technology",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Inco",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Infocus",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Inno-Hit",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Innovation",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Insiginia",
+"model": []
+},
+{
+"serial": 4,
+"brand": "Insignia",
+"model": []
+},
+{
+"serial": 3,
+"brand": "Integrate",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Intertronic",
+"model": []
+},
+{
+"serial": 1,
+"brand": "JAV",
+"model": []
+},
+{
+"serial": 8,
+"brand": "JCPenney",
+"model": []
+},
+{
+"serial": 8,
+"brand": "JEC",
+"model": []
+},
+{
+"serial": 64,
+"brand": "JIALICAI",
+"model": []
+},
+{
+"serial": 13,
+"brand": "JIAN SHENG",
+"model": []
+},
+{
+"serial": 10,
+"brand": "JIANSHENG",
+"model": []
+},
+{
+"serial": 30,
+"brand": "JINFENG",
+"model": []
+},
+{
+"serial": 13,
+"brand": "JINGHAI",
+"model": []
+},
+{
+"serial": 12,
+"brand": "JINGLIPU",
+"model": []
+},
+{
+"serial": 1,
+"brand": "JMB",
+"model": []
+},
+{
+"serial": 10,
+"brand": "JNC",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Jean",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Jensen",
+"model": []
+},
+{
+"serial": 10,
+"brand": "Jerrold",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Jessor",
+"model": []
+},
+{
+"serial": 10,
+"brand": "Jiangxi",
+"model": []
+},
+{
+"serial": 10,
+"brand": "Jiangxi Cable",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Jin Xin Plate",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Jingtai",
+"model": []
+},
+{
+"serial": 21,
+"brand": "Jinxin board",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Jiulian",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Joyful",
+"model": []
+},
+{
+"serial": 6,
+"brand": "KANGHONG",
+"model": []
+},
+{
+"serial": 21,
+"brand": "KANGHUA",
+"model": []
+},
+{
+"serial": 37,
+"brand": "KANGLI",
+"model": []
+},
+{
+"serial": 9,
+"brand": "KANGWEI",
+"model": []
+},
+{
+"serial": 10,
+"brand": "KBrO",
+"model": []
+},
+{
+"serial": 1,
+"brand": "KLH",
+"model": []
+},
+{
+"serial": 1,
+"brand": "KMC",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Kai Chi",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Kaisui",
+"model": []
+},
+{
+"serial": 26,
+"brand": "Kang",
+"model": []
+},
+{
+"serial": 14,
+"brand": "Kang Hong",
+"model": []
+},
+{
+"serial": 50,
+"brand": "Kang Li",
+"model": []
+},
+{
+"serial": 41,
+"brand": "Kang Yi",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Kapsch",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Kay",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Ken Brown",
+"model": []
+},
+{
+"serial": 8,
+"brand": "Kendo",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Kiboer",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Kneissel",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Kogan",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Konon",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Korea Electric",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Kulun Flag",
+"model": []
+},
+{
+"serial": 45,
+"brand": "Kunlun",
+"model": []
+},
+{
+"serial": 6,
+"brand": "LAN-STAR",
+"model": []
+},
+{
+"serial": 3,
+"brand": "LIHUA",
+"model": []
+=======
+[
+  {
+    "serial": 3,
+    "brand": "10moons",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "888",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "A.R.SYSTEMS",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "ACURA",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "ADC",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "ADL",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "ADMIRA",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "ADT",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "AEG",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "AGEF",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "AIM",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "AKIB",
+    "model": []
+  },
+  {
+    "serial": 4,
+    "brand": "AKITO",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "ALARON",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "ALLSAR",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "ALLSTAR",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "ALLVIEW",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "ALWA",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "AMBASSADOR",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "AMPLIVISION",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "AMTRAN",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "ANAM NATIONAL",
+    "model": []
+  },
+  {
+    "serial": 20,
+    "brand": "ANHUA",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "AOL",
+    "model": []
+  },
+  {
+    "serial": 21,
+    "brand": "AOLINPIKE",
+    "model": []
+  },
+  {
+    "serial": 26,
+    "brand": "AOLINPU",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "ARCTIC",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "ARIO",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "ART",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "ASA",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "ASBERG",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "ATD",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "AVerMedia",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "AWA",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "AcceleVision",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Accent",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "AccuView",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "Accurian",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Acer",
+    "model": []
+  },
+  {
+    "serial": 5,
+    "brand": "Acme",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Acoustic Solutions",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Acousto",
+    "model": []
+  },
+  {
+    "serial": 10,
+    "brand": "Acousto-optic intelligent science and technology",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Action",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "Ad Notam",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Addison",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Addsion",
+    "model": []
+  },
+  {
+    "serial": 5,
+    "brand": "Admiral",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Advante",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Advent",
+    "model": []
+  },
+  {
+    "serial": 13,
+    "brand": "Aerospace",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "Aftron",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Agazi",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Aiko",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Airda",
+    "model": []
+  },
+  {
+    "serial": 103,
+    "brand": "Aiwa",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Akashi",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "Akiba",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Akira",
+    "model": []
+  },
+  {
+    "serial": 14,
+    "brand": "Akura",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "AlDisplay",
+    "model": []
+  },
+  {
+    "serial": 20,
+    "brand": "Alba",
+    "model": []
+  },
+  {
+    "serial": 12,
+    "brand": "Albatron",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Alien",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Alkos",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Allorgan",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Ambassador",
+    "model": []
+  },
+  {
+    "serial": 10,
+    "brand": "Ampro",
+    "model": []
+  },
+  {
+    "serial": 35,
+    "brand": "Amstrad",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Anam",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Anam Nationnal",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Andersson",
+    "model": []
+  },
+  {
+    "serial": 4,
+    "brand": "Angostura",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Anitech",
+    "model": []
+  },
+  {
+    "serial": 25,
+    "brand": "Annwa",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "Ansonic",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Aolonpiya",
+    "model": []
+  },
+  {
+    "serial": 14,
+    "brand": "Apex",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Apex Digital",
+    "model": []
+  },
+  {
+    "serial": 12,
+    "brand": "Appe",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "Ardem",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Arena",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Aristona",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "As Long",
+    "model": []
+  },
+  {
+    "serial": 21,
+    "brand": "As of gifted",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "Astra",
+    "model": []
+  },
+  {
+    "serial": 24,
+    "brand": "Astro",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "AsuKa",
+    "model": []
+  },
+  {
+    "serial": 5,
+    "brand": "Asuka",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Asus",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Atlantic",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Audio Dynamics",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Audiosonic",
+    "model": []
+  },
+  {
+    "serial": 33,
+    "brand": "Audiovox",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Audioworld",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Autovox",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Auvio",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Aveis",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "Aventura",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Avol",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Awa",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Axxon",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "B&H",
+    "model": []
+  },
+  {
+    "serial": 22,
+    "brand": "BAIHEHUA",
+    "model": []
+  },
+  {
+    "serial": 26,
+    "brand": "BAIHUA",
+    "model": []
+  },
+  {
+    "serial": 21,
+    "brand": "BAILE",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "BAOSHENG",
+    "model": []
+  },
+  {
+    "serial": 296,
+    "brand": "BEIJING",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "BGH",
+    "model": []
+  },
+  {
+    "serial": 4,
+    "brand": "BOE",
+    "model": []
+  },
+  {
+    "serial": 13,
+    "brand": "BPL",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "Baird",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Baisic Line",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Bao spend",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "BaoHuaShi",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Baolicai",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Barco",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "Basic Line",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Bauhn",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "Baur",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Baysonic",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Beaumark",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Bei Lingqiao",
+    "model": []
+  },
+  {
+    "serial": 15,
+    "brand": "Beko",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Belson",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Belstar",
+    "model": []
+  },
+  {
+    "serial": 65,
+    "brand": "BenQ",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Beon",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Berthen",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Best",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Bestar",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "Bestv",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Beuamark",
+    "model": []
+  },
+  {
+    "serial": 5,
+    "brand": "Black Diamond",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "BlackDiamond",
+    "model": []
+  },
+  {
+    "serial": 12,
+    "brand": "Blaupunkt",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Bloomberg Digital",
+    "model": []
+  },
+  {
+    "serial": 5,
+    "brand": "Blue Sky",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Boca",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Bork",
+    "model": []
+  },
+  {
+    "serial": 4,
+    "brand": "Brandt",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Brikmann",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Brionvega",
+    "model": []
+  },
+  {
+    "serial": 5,
+    "brand": "Broksonic",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Brokwood",
+    "model": []
+  },
+  {
+    "serial": 29,
+    "brand": "Broom",
+    "model": []
+  },
+  {
+    "serial": 18,
+    "brand": "Bush",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "CAI",
+    "model": []
+  },
+  {
+    "serial": 16,
+    "brand": "CAIHONG",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "CAILING",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "CAIXING",
+    "model": []
+  },
+  {
+    "serial": 9,
+    "brand": "CCE",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "CGE",
+    "model": []
+  },
+  {
+    "serial": 296,
+    "brand": "CHANGCHENG",
+    "model": []
+  },
+  {
+    "serial": 37,
+    "brand": "CHANGFEI",
+    "model": []
+  },
+  {
+    "serial": 13,
+    "brand": "CHANGFENG",
+    "model": []
+  },
+  {
+    "serial": 22,
+    "brand": "CHENGDU",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "CHKQ",
+    "model": []
+  },
+  {
+    "serial": 31,
+    "brand": "CHUANGJIA",
+    "model": []
+  },
+  {
+    "serial": 223,
+    "brand": "CONROWA",
+    "model": []
+  },
+  {
+    "serial": 9,
+    "brand": "CTX",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "CYBEX",
+    "model": []
+  },
+  {
+    "serial": 16,
+    "brand": "Cai Ling",
+    "model": []
+  },
+  {
+    "serial": 12,
+    "brand": "Caishi",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Calix",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Calypso",
+    "model": []
+  },
+  {
+    "serial": 18,
+    "brand": "Camellia",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Cameron",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Camper",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Canca",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Candle",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Canon",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Capsonic",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Carad",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "Carena",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Carrefour",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Carver",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Cascade",
+    "model": []
+  },
+  {
+    "serial": 20,
+    "brand": "Casio",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "Cathay",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Celcus",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Celebrity",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Celestial",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Cello",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Centrex",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "Centrum",
+    "model": []
+  },
+  {
+    "serial": 9,
+    "brand": "Centrurion",
+    "model": []
+  },
+  {
+    "serial": 41,
+    "brand": "Changfeng",
+    "model": []
+  },
+  {
+    "serial": 25,
+    "brand": "Changhai",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Chaparral",
+    "model": []
+  },
+  {
+    "serial": 14,
+    "brand": "Chimei",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "China Telecom",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "China and South Korea",
+    "model": []
+  },
+  {
+    "serial": 27,
+    "brand": "Chrysanthemum",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Chuanjing",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "Chun Yun",
+    "model": []
+  },
+  {
+    "serial": 9,
+    "brand": "Chung Hsin",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Chunghsin",
+    "model": []
+  },
+  {
+    "serial": 29,
+    "brand": "Chunlan",
+    "model": []
+  },
+  {
+    "serial": 17,
+    "brand": "Chunsun",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Cimline",
+    "model": []
+  },
+  {
+    "serial": 10,
+    "brand": "Citizen",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Clarivox",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Clayton",
+    "model": []
+  },
+  {
+    "serial": 4,
+    "brand": "Coby",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Color Poem",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Combitech",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Commander",
+    "model": []
+  },
+  {
+    "serial": 12,
+    "brand": "Commander In Chief",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Commercial Solutions",
+    "model": []
+  },
+  {
+    "serial": 16,
+    "brand": "Comverse",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Concerto",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Condor",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "Conia",
+    "model": []
+  },
+  {
+    "serial": 4,
+    "brand": "Contec",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Cool Letv",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Cool Open",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Cosmel",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Cox",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Crosley",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Crown",
+    "model": []
+  },
+  {
+    "serial": 83,
+    "brand": "Crowne",
+    "model": []
+  },
+  {
+    "serial": 9,
+    "brand": "Ctech",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Curtis",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Curtis Mathes",
+    "model": []
+  },
+  {
+    "serial": 10,
+    "brand": "Cyber",
+    "model": []
+  },
+  {
+    "serial": 18,
+    "brand": "Cybercom",
+    "model": []
+  },
+  {
+    "serial": 21,
+    "brand": "Cytron",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "DCS",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "DEC",
+    "model": []
+  },
+  {
+    "serial": 17,
+    "brand": "DETRON",
+    "model": []
+  },
+  {
+    "serial": 22,
+    "brand": "DIGITEC",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "DL",
+    "model": []
+  },
+  {
+    "serial": 28,
+    "brand": "DONGLIN",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "DRTRON",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "DSE",
+    "model": []
+  },
+  {
+    "serial": 18,
+    "brand": "DUONGJIE",
+    "model": []
+  },
+  {
+    "serial": 9,
+    "brand": "DVision",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "DX",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Daenyx",
+    "model": []
+  },
+  {
+    "serial": 58,
+    "brand": "Daewoo",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "Dan Nikos",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Dansai",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Dantax",
+    "model": []
+  },
+  {
+    "serial": 15,
+    "brand": "Dante Sound",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Datsura",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Dawa",
+    "model": []
+  },
+  {
+    "serial": 17,
+    "brand": "Day Chicago",
+    "model": []
+  },
+  {
+    "serial": 20,
+    "brand": "Day Geng board",
+    "model": []
+  },
+  {
+    "serial": 9,
+    "brand": "Day School",
+    "model": []
+  },
+  {
+    "serial": 10,
+    "brand": "Day Sound",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Day cheng",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Daya",
+    "model": []
+  },
+  {
+    "serial": 10,
+    "brand": "Days Min TV",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Daytek",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Daytron",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Dbox",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "De Graaf",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "Decca",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Delilong",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Dell",
+    "model": []
+  },
+  {
+    "serial": 12,
+    "brand": "Denon",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Denver",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Desmet",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "DiBoss",
+    "model": []
+  },
+  {
+    "serial": 4,
+    "brand": "Diamond",
+    "model": []
+  },
+  {
+    "serial": 12,
+    "brand": "Dick Smith Elec",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Dicon",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Digatron",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "DigiMax",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Digihome",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Digiline",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Digital",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Digital Life",
+    "model": []
+  },
+  {
+    "serial": 14,
+    "brand": "Digital Sky",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Digitel",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Digitex",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "Digitor",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "DigtalLabs",
+    "model": []
+  },
+  {
+    "serial": 16,
+    "brand": "Ding branch",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Distar",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Dixi",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Domeos",
+    "model": []
+  },
+  {
+    "serial": 49,
+    "brand": "Dongbao",
+    "model": []
+  },
+  {
+    "serial": 20,
+    "brand": "Dongda",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Dongling",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Dongyang TV",
+    "model": []
+  },
+  {
+    "serial": 19,
+    "brand": "Dream",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "Dream Vision",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Drean",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Driving",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "Dua",
+    "model": []
+  },
+  {
+    "serial": 14,
+    "brand": "Dual",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Dumont",
+    "model": []
+  },
+  {
+    "serial": 4,
+    "brand": "Durabrand",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Dux",
+    "model": []
+  },
+  {
+    "serial": 10,
+    "brand": "Dwin",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Dynatron",
+    "model": []
+  },
+  {
+    "serial": 5,
+    "brand": "Dynex",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Dyon",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "ECE",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "ELG",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "ESA",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "ESC",
+    "model": []
+  },
+  {
+    "serial": 16,
+    "brand": "East China Sea",
+    "model": []
+  },
+  {
+    "serial": 9,
+    "brand": "East King",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "East timor",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Ecco",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Edison",
+    "model": []
+  },
+  {
+    "serial": 10,
+    "brand": "Eight",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Eisou",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Ekea",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Elbe",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Electric City",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Electroband",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Electrograph",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "Electrohome",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Electron",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Electrophonic",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Elekta",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Elektra",
+    "model": []
+  },
+  {
+    "serial": 12,
+    "brand": "Element Electronics",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Elfunk",
+    "model": []
+  },
+  {
+    "serial": 9,
+    "brand": "Elin",
+    "model": []
+  },
+  {
+    "serial": 14,
+    "brand": "Elite",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Elta",
+    "model": []
+  },
+  {
+    "serial": 24,
+    "brand": "Emerson",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Envision",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Enzer",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Epson",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Erres",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Etec",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Etron",
+    "model": []
+  },
+  {
+    "serial": 15,
+    "brand": "Eulogize",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Euro-Feel",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Euroline",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Euroman",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Euroopa",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Eurphon",
+    "model": []
+  },
+  {
+    "serial": 24,
+    "brand": "Event To",
+    "model": []
+  },
+  {
+    "serial": 12,
+    "brand": "Evergreen",
+    "model": []
+  },
+  {
+    "serial": 9,
+    "brand": "Everlasting",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Evesham",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Evolution",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Evotel",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Excellent Group",
+    "model": []
+  },
+  {
+    "serial": 19,
+    "brand": "Excellent Lana Si",
+    "model": []
+  },
+  {
+    "serial": 10,
+    "brand": "Excellent Map",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Excello",
+    "model": []
+  },
+  {
+    "serial": 9,
+    "brand": "Expert",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Exquisit",
+    "model": []
+  },
+  {
+    "serial": 23,
+    "brand": "FEIYAN",
+    "model": []
+  },
+  {
+    "serial": 40,
+    "brand": "FUJIAN",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "FULI",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Favi",
+    "model": []
+  },
+  {
+    "serial": 10,
+    "brand": "Fei Long",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Fenner",
+    "model": []
+  },
+  {
+    "serial": 4,
+    "brand": "Ferguson",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "Fidelity",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Fidelty",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Finlandia",
+    "model": []
+  },
+  {
+    "serial": 9,
+    "brand": "Finlux",
+    "model": []
+  },
+  {
+    "serial": 5,
+    "brand": "Firstline",
+    "model": []
+  },
+  {
+    "serial": 23,
+    "brand": "Fisher",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Flint",
+    "model": []
+  },
+  {
+    "serial": 5,
+    "brand": "Fly",
+    "model": []
+  },
+  {
+    "serial": 22,
+    "brand": "Flying Deer",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Flying wave",
+    "model": []
+  },
+  {
+    "serial": 4,
+    "brand": "For the",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Formenti",
+    "model": []
+  },
+  {
+    "serial": 14,
+    "brand": "Fortress",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Foxconn",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Fraba",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Friac",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Frigidaire",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Fu Li",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Fujicom",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Fujimaru",
+    "model": []
+  },
+  {
+    "serial": 25,
+    "brand": "Fujitsu",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "Fujitsu Apex",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Fujitsu Siemens",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Fuli",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Fulix",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Funshion",
+    "model": []
+  },
+  {
+    "serial": 137,
+    "brand": "Furi",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Furichi",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Fushun",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Futronic",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Futuretech",
+    "model": []
+  },
+  {
+    "serial": 34,
+    "brand": "GANGTAI",
+    "model": []
+  },
+  {
+    "serial": 12,
+    "brand": "GANXIN",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "GBC",
+    "model": []
+  },
+  {
+    "serial": 30,
+    "brand": "GE",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "GEC",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "GFM",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "GHanz",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "GIEC",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "GP",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "GPM",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "GPX",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "GVA",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Gaba",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Gadmei",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Galaxi",
+    "model": []
+  },
+  {
+    "serial": 17,
+    "brand": "Galaxis",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Galaxy",
+    "model": []
+  },
+  {
+    "serial": 18,
+    "brand": "Gateway",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Gauss bayesian",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "General",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Genesis",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Genexxa",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Gericom",
+    "model": []
+  },
+  {
+    "serial": 9,
+    "brand": "GlobeCast",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Go Video",
+    "model": []
+  },
+  {
+    "serial": 22,
+    "brand": "God Choi",
+    "model": []
+  },
+  {
+    "serial": 14,
+    "brand": "Gold Magpie",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Goldfunk",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Goldi",
+    "model": []
+  },
+  {
+    "serial": 40,
+    "brand": "Goldstar",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Good",
+    "model": []
+  },
+  {
+    "serial": 10,
+    "brand": "Good Luck",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Good People",
+    "model": []
+  },
+  {
+    "serial": 10,
+    "brand": "Goodmans",
+    "model": []
+  },
+  {
+    "serial": 13,
+    "brand": "Goofy",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Gorenje",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Government",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Gra",
+    "model": []
+  },
+  {
+    "serial": 22,
+    "brand": "Gradiente",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Graetz",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "Granada",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Grandin",
+    "model": []
+  },
+  {
+    "serial": 16,
+    "brand": "Grundig",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Grunkel",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Grunpy",
+    "model": []
+  },
+  {
+    "serial": 10,
+    "brand": "Guangdong Radio And TV Network",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Guoke photoelectric",
+    "model": []
+  },
+  {
+    "serial": 30,
+    "brand": "Gypsophila",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "H&B",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "HCM",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "HCN",
+    "model": []
+  },
+  {
+    "serial": 12,
+    "brand": "HCT",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "HEIER",
+    "model": []
+  },
+  {
+    "serial": 12,
+    "brand": "HIMEDIA",
+    "model": []
+  },
+  {
+    "serial": 23,
+    "brand": "HONGMEI",
+    "model": []
+  },
+  {
+    "serial": 27,
+    "brand": "HONGYAN",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "HOT",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "HPC",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "HPP",
+    "model": []
+  },
+  {
+    "serial": 10,
+    "brand": "HUAQIANG",
+    "model": []
+  },
+  {
+    "serial": 9,
+    "brand": "HUARI",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "HUIJIABAN",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "HUODAKEJI",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Haas",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Haaz",
+    "model": []
+  },
+  {
+    "serial": 29,
+    "brand": "Hai Le",
+    "model": []
+  },
+  {
+    "serial": 28,
+    "brand": "Haihong",
+    "model": []
+  },
+  {
+    "serial": 4,
+    "brand": "Haimei huang",
+    "model": []
+  },
+  {
+    "serial": 9,
+    "brand": "Hallmark",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Hankook",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Hanlimei",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Hannsg",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Hanpa",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Hanseatic",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "Hanso",
+    "model": []
+  },
+  {
+    "serial": 5,
+    "brand": "Hanspree",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Hantarex",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Hantor",
+    "model": []
+  },
+  {
+    "serial": 10,
+    "brand": "Happiness",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Harman Kardon",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Harwood",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Hauppauge",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "Herman",
+    "model": []
+  },
+  {
+    "serial": 12,
+    "brand": "Hewlett Packard",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Highline",
+    "model": []
+  },
+  {
+    "serial": 4,
+    "brand": "Hinari",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Hisawa",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Hiteker",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "Honest Crown",
+    "model": []
+  },
+  {
+    "serial": 44,
+    "brand": "Hongmei",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Horlon",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Huajia",
+    "model": []
+  },
+  {
+    "serial": 12,
+    "brand": "Huanglong",
+    "model": []
+  },
+  {
+    "serial": 120,
+    "brand": "Huangshan",
+    "model": []
+  },
+  {
+    "serial": 42,
+    "brand": "Huanyu",
+    "model": []
+  },
+  {
+    "serial": 16,
+    "brand": "Huari",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Huarong",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Huarun",
+    "model": []
+  },
+  {
+    "serial": 9,
+    "brand": "Huawei",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Huawei's secret box",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Huijia Board",
+    "model": []
+  },
+  {
+    "serial": 16,
+    "brand": "Huijia board",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Huipu",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Humax",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Hung Kai",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "IKEA",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "ILO",
+    "model": []
+  },
+  {
+    "serial": 16,
+    "brand": "INTEL",
+    "model": []
+  },
+  {
+    "serial": 4,
+    "brand": "ITT",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "ITV",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Imation",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Imperial",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "In The Constant",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "In science and technology",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Inco",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Infocus",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Inno-Hit",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Innovation",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Insiginia",
+    "model": []
+  },
+  {
+    "serial": 4,
+    "brand": "Insignia",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "Integrate",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Intertronic",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "JAV",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "JCPenney",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "JEC",
+    "model": []
+  },
+  {
+    "serial": 64,
+    "brand": "JIALICAI",
+    "model": []
+  },
+  {
+    "serial": 13,
+    "brand": "JIAN SHENG",
+    "model": []
+  },
+  {
+    "serial": 10,
+    "brand": "JIANSHENG",
+    "model": []
+  },
+  {
+    "serial": 30,
+    "brand": "JINFENG",
+    "model": []
+  },
+  {
+    "serial": 13,
+    "brand": "JINGHAI",
+    "model": []
+  },
+  {
+    "serial": 12,
+    "brand": "JINGLIPU",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "JMB",
+    "model": []
+  },
+  {
+    "serial": 10,
+    "brand": "JNC",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Jean",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Jensen",
+    "model": []
+  },
+  {
+    "serial": 10,
+    "brand": "Jerrold",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Jessor",
+    "model": []
+  },
+  {
+    "serial": 10,
+    "brand": "Jiangxi",
+    "model": []
+  },
+  {
+    "serial": 10,
+    "brand": "Jiangxi Cable",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Jin Xin Plate",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Jingtai",
+    "model": []
+  },
+  {
+    "serial": 21,
+    "brand": "Jinxin board",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Jiulian",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Joyful",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "KANGHONG",
+    "model": []
+  },
+  {
+    "serial": 21,
+    "brand": "KANGHUA",
+    "model": []
+  },
+  {
+    "serial": 37,
+    "brand": "KANGLI",
+    "model": []
+  },
+  {
+    "serial": 9,
+    "brand": "KANGWEI",
+    "model": []
+  },
+  {
+    "serial": 10,
+    "brand": "KBrO",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "KLH",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "KMC",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Kai Chi",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Kaisui",
+    "model": []
+  },
+  {
+    "serial": 26,
+    "brand": "Kang",
+    "model": []
+  },
+  {
+    "serial": 14,
+    "brand": "Kang Hong",
+    "model": []
+  },
+  {
+    "serial": 50,
+    "brand": "Kang Li",
+    "model": []
+  },
+  {
+    "serial": 41,
+    "brand": "Kang Yi",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Kapsch",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Kay",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Ken Brown",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Kendo",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Kiboer",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Kneissel",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Kogan",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Konon",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Korea Electric",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Kulun Flag",
+    "model": []
+  },
+  {
+    "serial": 45,
+    "brand": "Kunlun",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "LAN-STAR",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "LIHUA",
+    "model": []
+  },
+  {
+    "serial": 29,
+    "brand": "Landscape",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Leadtek WinFast",
+    "model": []
+  },
+  {
+    "serial": 21,
+    "brand": "Leap",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Lengweifu",
+    "model": []
+  },
+  {
+    "serial": 14,
+    "brand": "Lenovo",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Leon",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Lexsor",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Leyco",
+    "model": []
+  },
+  {
+    "serial": 5,
+    "brand": "Life",
+    "model": []
+  },
+  {
+    "serial": 19,
+    "brand": "Lifetec",
+    "model": []
+  },
+  {
+    "serial": 12,
+    "brand": "Lihua",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Linn",
+    "model": []
+  },
+  {
+    "serial": 9,
+    "brand": "Lion and dragon",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Little overlord",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Lloytron",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Lnteo",
+    "model": []
+  },
+  {
+    "serial": 21,
+    "brand": "Loewe",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Logik",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "Long Hua",
+    "model": []
+  },
+  {
+    "serial": 12,
+    "brand": "Longjiang",
+    "model": []
+  },
+  {
+    "serial": 14,
+    "brand": "Loose electrical",
+    "model": []
+  },
+  {
+    "serial": 10,
+    "brand": "Love",
+    "model": []
+  },
+  {
+    "serial": 15,
+    "brand": "Luck gentleman",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Lumatron",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Luxor",
+    "model": []
+  },
+  {
+    "serial": 4,
+    "brand": "MEIectronic",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "MENGMEI",
+    "model": []
+  },
+  {
+    "serial": 13,
+    "brand": "MHz",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "MSI",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "MT Logic",
+    "model": []
+  },
+  {
+    "serial": 146,
+    "brand": "MUDAN",
+    "model": []
+  },
+  {
+    "serial": 12,
+    "brand": "Mag",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "Maganavox",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Magic-Pro",
+    "model": []
+  },
+  {
+    "serial": 9,
+    "brand": "Magnasonic",
+    "model": []
+  },
+  {
+    "serial": 25,
+    "brand": "Magnavox",
+    "model": []
+  },
+  {
+    "serial": 5,
+    "brand": "Magnum",
+    "model": []
+  },
+  {
+    "serial": 12,
+    "brand": "Malata",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Mandor",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Manesth",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Mango Love",
+    "model": []
+  },
+  {
+    "serial": 12,
+    "brand": "Marantz",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Marta",
+    "model": []
+  },
+  {
+    "serial": 16,
+    "brand": "Matsui",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "McGonagall",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "McMichael",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Mecer",
+    "model": []
+  },
+  {
+    "serial": 23,
+    "brand": "Medion",
+    "model": []
+  },
+  {
+    "serial": 33,
+    "brand": "Melody",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Memorex",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Mermaid digital",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Merten",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Metz",
+    "model": []
+  },
+  {
+    "serial": 16,
+    "brand": "Micromaxx",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Microstar",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Mikomi",
+    "model": []
+  },
+  {
+    "serial": 22,
+    "brand": "Minded",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Minerva",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Mintek",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Mivar",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Mod",
+    "model": []
+  },
+  {
+    "serial": 16,
+    "brand": "Modern",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Moons",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Morning Star",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Motorola",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Murphy",
+    "model": []
+  },
+  {
+    "serial": 15,
+    "brand": "NAD",
+    "model": []
+  },
+  {
+    "serial": 18,
+    "brand": "NANBAO",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "NANSHENG",
+    "model": []
+  },
+  {
+    "serial": 140,
+    "brand": "NEC",
+    "model": []
+  },
+  {
+    "serial": 17,
+    "brand": "NIKKO",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "NPC",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Naxa",
+    "model": []
+  },
+  {
+    "serial": 41,
+    "brand": "Nec",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Neckermann",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "Nei",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Nesco",
+    "model": []
+  },
+  {
+    "serial": 18,
+    "brand": "New Day Song",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "New Sonic",
+    "model": []
+  },
+  {
+    "serial": 30,
+    "brand": "New Star",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "Nexus",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Nikai",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Nikkai",
+    "model": []
+  },
+  {
+    "serial": 19,
+    "brand": "Nikon",
+    "model": []
+  },
+  {
+    "serial": 5,
+    "brand": "Nokia",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Norcent",
+    "model": []
+  },
+  {
+    "serial": 34,
+    "brand": "OLEVIA",
+    "model": []
+  },
+  {
+    "serial": 5,
+    "brand": "OULIN",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "Okano",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Oki",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "Olympia",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Olympic",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Onida",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Onwa",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Optimus",
+    "model": []
+  },
+  {
+    "serial": 9,
+    "brand": "Optoma",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "Osaki",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Otto Mail Order",
+    "model": []
+  },
+  {
+    "serial": 13,
+    "brand": "Otto Versand",
+    "model": []
+  },
+  {
+    "serial": 16,
+    "brand": "Ouling",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "PBl",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "PDICommunicationSystems",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "PPTV",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "PROMAC",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "PackarBell",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Packard",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Packard bell",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Palsonic",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Pandora",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Pangu",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Pantel",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Pathe Marconi",
+    "model": []
+  },
+  {
+    "serial": 25,
+    "brand": "Peacock",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Peaq",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Pengcheng",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Perido",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Philco",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Phocus",
+    "model": []
+  },
+  {
+    "serial": 10,
+    "brand": "Picture",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Pilot",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Pine",
+    "model": []
+  },
+  {
+    "serial": 19,
+    "brand": "Pioneer TV",
+    "model": []
+  },
+  {
+    "serial": 25,
+    "brand": "Playmates",
+    "model": []
+  },
+  {
+    "serial": 19,
+    "brand": "Po Sing",
+    "model": []
+  },
+  {
+    "serial": 9,
+    "brand": "Polaroid",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Polestar",
+    "model": []
+  },
+  {
+    "serial": 160,
+    "brand": "Polytron",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "Polyvision",
+    "model": []
+  },
+  {
+    "serial": 9,
+    "brand": "Portland",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Praxis",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Precision",
+    "model": []
+  },
+  {
+    "serial": 254,
+    "brand": "Prima",
+    "model": []
+  },
+  {
+    "serial": 43,
+    "brand": "Pro2",
+    "model": []
+  },
+  {
+    "serial": 10,
+    "brand": "Proscan",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "Prosonic",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "Protech",
+    "model": []
+  },
+  {
+    "serial": 14,
+    "brand": "Proton",
+    "model": []
+  },
+  {
+    "serial": 10,
+    "brand": "Proview",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Pye",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "QBell",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "QMedia",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "QiSheng",
+    "model": []
+  },
+  {
+    "serial": 31,
+    "brand": "Qingdao",
+    "model": []
+  },
+  {
+    "serial": 10,
+    "brand": "Qingyuan Radio And Television",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "Qingyun Electric Appliance",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Quanta TV",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Quantum View",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Quasar",
+    "model": []
+  },
+  {
+    "serial": 5,
+    "brand": "Quelle",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Questa",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "RBM",
+    "model": []
+  },
+  {
+    "serial": 21,
+    "brand": "RCA",
+    "model": []
+  },
+  {
+    "serial": 20,
+    "brand": "RFT",
+    "model": []
+  },
+  {
+    "serial": 9,
+    "brand": "RISHENG",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Rabdosia",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "RadioShack",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Radioette",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Radiotone",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Radix",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Rank",
+    "model": []
+  },
+  {
+    "serial": 4,
+    "brand": "Realistic",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Red Star",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Reflexion",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Renault",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "Rihong",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Rinex",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Risun",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Roadstar",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Royalstar",
+    "model": []
+  },
+  {
+    "serial": 17,
+    "brand": "Rui Xia",
+    "model": []
+  },
+  {
+    "serial": 12,
+    "brand": "Ruian Radio And Television",
+    "model": []
+  },
+  {
+    "serial": 19,
+    "brand": "Runco",
+    "model": []
+  },
+  {
+    "serial": 15,
+    "brand": "Ruyi",
+    "model": []
+  },
+  {
+    "serial": 18,
+    "brand": "SAIGE",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "SAKAISIO",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "SAN miguel",
+    "model": []
+  },
+  {
+    "serial": 9,
+    "brand": "SANJIAN",
+    "model": []
+  },
+  {
+    "serial": 29,
+    "brand": "SANLING",
+    "model": []
+  },
+  {
+    "serial": 15,
+    "brand": "SANSUI",
+    "model": []
+  },
+  {
+    "serial": 22,
+    "brand": "SAST",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "SBR",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "SEG",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "SET",
+    "model": []
+  },
+  {
+    "serial": 9,
+    "brand": "SEYE",
+    "model": []
+  },
+  {
+    "serial": 20,
+    "brand": "SHENCAI",
+    "model": []
+  },
+  {
+    "serial": 4,
+    "brand": "SHENGCAI",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "SHENGLI",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "SHERWOOD",
+    "model": []
+  },
+  {
+    "serial": 4,
+    "brand": "SHUYAN",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "SILO",
+    "model": []
+  },
+  {
+    "serial": 28,
+    "brand": "SONYO",
+    "model": []
+  },
+  {
+    "serial": 9,
+    "brand": "SUMO",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Sagem",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Sager",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Saisho",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Salora",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Samos",
+    "model": []
+  },
+  {
+    "serial": 152,
+    "brand": "Sampo",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Sampo SHARP",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Sandstroms",
+    "model": []
+  },
+  {
+    "serial": 12,
+    "brand": "Sanling",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Sansumi",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Sayville",
+    "model": []
+  },
+  {
+    "serial": 17,
+    "brand": "Schneider",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Scimitsu",
+    "model": []
+  },
+  {
+    "serial": 16,
+    "brand": "Sears",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "See Is",
+    "model": []
+  },
+  {
+    "serial": 13,
+    "brand": "Seibt",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Seiki",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Semivox",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Sentra",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Set Pproduct",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Set product",
+    "model": []
+  },
+  {
+    "serial": 9,
+    "brand": "Shadow Ya",
+    "model": []
+  },
+  {
+    "serial": 59,
+    "brand": "Shanghai",
+    "model": []
+  },
+  {
+    "serial": 21,
+    "brand": "Shaofeng",
+    "model": []
+  },
+  {
+    "serial": 17,
+    "brand": "Shenyang",
+    "model": []
+  },
+  {
+    "serial": 13,
+    "brand": "Shili",
+    "model": []
+  },
+  {
+    "serial": 5,
+    "brand": "Shinco",
+    "model": []
+  },
+  {
+    "serial": 10,
+    "brand": "Siemens",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Sigmac",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Silver",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "Silver looks",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Silvercrest",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Sinudyne",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Siragon",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Skantic",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Sky Plate",
+    "model": []
+  },
+  {
+    "serial": 12,
+    "brand": "Sokkia",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Solavox",
+    "model": []
+  },
+  {
+    "serial": 13,
+    "brand": "Song",
+    "model": []
+  },
+  {
+    "serial": 27,
+    "brand": "Song Lin",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Sonolor",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Sound Discrimination",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Sound&Vision",
+    "model": []
+  },
+  {
+    "serial": 46,
+    "brand": "South Po",
+    "model": []
+  },
+  {
+    "serial": 17,
+    "brand": "South Sound",
+    "model": []
+  },
+  {
+    "serial": 46,
+    "brand": "Soyea",
+    "model": []
+  },
+  {
+    "serial": 25,
+    "brand": "Soyo",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Spectricon",
+    "model": []
+  },
+  {
+    "serial": 32,
+    "brand": "Spring breeze",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Standard",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Storm TV",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Sunbright",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Super General",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Supra",
+    "model": []
+  },
+  {
+    "serial": 30,
+    "brand": "Swallow",
+    "model": []
+  },
+  {
+    "serial": 13,
+    "brand": "Swan",
+    "model": []
+  },
+  {
+    "serial": 18,
+    "brand": "Sylvania",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Symphonic",
+    "model": []
+  },
+  {
+    "serial": 32,
+    "brand": "Synco",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Syntax",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Syntax Olevia",
+    "model": []
+  },
+  {
+    "serial": 20,
+    "brand": "TAISHAN",
+    "model": []
+  },
+  {
+    "serial": 100,
+    "brand": "TCBO-TOS",
+    "model": []
+  },
+  {
+    "serial": 16,
+    "brand": "TCM",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "TCRC",
+    "model": []
+  },
+  {
+    "serial": 20,
+    "brand": "TELEFUNKEN",
+    "model": []
+  },
+  {
+    "serial": 10,
+    "brand": "THOMSON",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "TIANGENGBAN",
+    "model": []
+  },
+  {
+    "serial": 3,
+    "brand": "TIANKEBAN",
+    "model": []
+  },
+  {
+    "serial": 16,
+    "brand": "TOBO",
+    "model": []
+  },
+  {
+    "serial": 5,
+    "brand": "TONGGUANG",
+    "model": []
+  },
+  {
+    "serial": 17,
+    "brand": "TOPCON",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "TOPCONPro",
+    "model": []
+  },
+  {
+    "serial": 94,
+    "brand": "TOS",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Tai Wah",
+    "model": []
+  },
+  {
+    "serial": 29,
+    "brand": "Taishan",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Taiwan Lin",
+    "model": []
+  },
+  {
+    "serial": 5,
+    "brand": "Tanaka",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Tandy",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Tashiko",
+    "model": []
+  },
+  {
+    "serial": 9,
+    "brand": "Te Dan",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Teac",
+    "model": []
+  },
+  {
+    "serial": 11,
+    "brand": "Technics",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Technika",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Techwood",
+    "model": []
+  },
+  {
+    "serial": 22,
+    "brand": "Teco",
+    "model": []
+  },
+  {
+    "serial": 7,
+    "brand": "Telavia",
+    "model": []
+  },
+  {
+    "serial": 4,
+    "brand": "Telefunken",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Teletech",
+    "model": []
+  },
+  {
+    "serial": 12,
+    "brand": "Teng Bo",
+    "model": []
+  },
+  {
+    "serial": 6,
+    "brand": "Tensai",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Test",
+    "model": []
+  },
+  {
+    "serial": 17,
+    "brand": "Tevion",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Thakral",
+    "model": []
+  },
+  {
+    "serial": 12,
+    "brand": "The eastern art",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "The new world",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "The number of",
+    "model": []
+  },
+  {
+    "serial": 8,
+    "brand": "The river",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "The visual",
+    "model": []
+  },
+  {
+    "serial": 4,
+    "brand": "Thorn",
+    "model": []
+  },
+  {
+    "serial": 1,
+    "brand": "Three Pills",
+    "model": []
+  },
+  {
+    "serial": 20,
+    "brand": "Three Yuan",
+    "model": []
+  },
+  {
+    "serial": 14,
+    "brand": "Three key",
+    "model": []
+  },
+  {
+    "serial": 10,
+    "brand": "Thunis",
+    "model": []
+  },
+  {
+    "serial": 2,
+    "brand": "Tian Geng Plate",
+    "model": []
+  },
+  {
+    "serial": 15,
+    "brand": "Tianke board",
+    "model": []
+  },
+  {
+    "serial": 4,
+    "brand": "Tide polyster",
+    "model": []
+  }
+]
+
+
+
+{
+  "serial": 34,
+  "brand": "Tongguang",
+  "model": []
+>>>>>>> 8ef486f5ea9aac02410ef403ae6d1b69a90ed1d1
+},
+{
+"serial": 9,
+"brand": "Tongzhou",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Too Much Yin",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Top Branch",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Toward  Rainbow",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Transonic",
+"model": []
+},
+{
+"serial": 24,
+"brand": "Treasure flower stone",
+"model": []
+},{
+"serial": 1,
+"brand": "Trutech",
+"model": []
+},
+{
+"serial": 109,
+"brand": "Tupper",
+"model": []
+},
+{
+"serial": 10,
+"brand": "UT Starcom",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Uher",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Ultravision",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Umc",
+"model": []
+},
+{
+"serial": 14,
+"brand": "Uniden",
+"model": []
+},
+{
+"serial": 6,
+"brand": "United",
+"model": []
+},
+{
+"serial": 30,
+"brand": "Universal",
+"model": []
+},
+{
+"serial": 4,
+"brand": "Universum",
+"model": []
+},
+{
+"serial": 22,
+"brand": "Urn",
+"model": []
+},
+{
+"serial": 10,
+"brand": "Useful",
+"model": []
+},
+{
+"serial": 6,
+"brand": "VISTAR",
+"model": []
+},
+{
+"serial": 6,
+"brand": "VITO",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Vector Research",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Venturer",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Venus",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Vestel",
+"model": []
+},
+{
+"serial": 20,
+"brand": "Veuve",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Vexa",
+"model": []
+},{
+"serial": 11,
+"brand": "ViViD",
+"model": []
+},{
+"serial": 1,
+"brand": "Vicarage Science",
+"model": []
+},
+{
+"serial": 22,
+"brand": "Victory",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Video Concepts",
+"model": []
+},
+{
+"serial": 14,
+"brand": "Videocon",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Videon",
+"model": []
+},
+{
+"serial": 15,
+"brand": "ViewSonic",
+"model": []
+},
+{
+"serial": 13,
+"brand": "Viewpia",
+"model": []
+},
+{
+"serial": 3,
+"brand": "Viore",
+"model": []
+},
+{
+"serial": 10,
+"brand": "Vira brand",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Vision",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Vision Hui Pu",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Vision Quest",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Vistron",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Vityas",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Vivitek",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Vivo",
+"model": []
+},
+{
+"serial": 9,
+"brand": "Vizio",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Vlnc",
+"model": []
+},
+{
+"serial": 2,
+"brand": "Vortec",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Voxson",
+"model": []
+},
+{
+"serial": 8,
+"brand": "WARUMAIA",
+"model": []
+},
+{
+"serial": 3,
+"brand": "WEIPAI",
+"model": []
+},
+{
+"serial": 9,
+"brand": "Wafa",
+"model": []
+},
+{
+"serial": 11,
+"brand": "Wahson",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Waltham",
+"model": []
+},
+{
+"serial": 6,
+"brand": "Walton",
+"model": []
+},
+{
+"serial": 1,
+"brand": "Wansa",
+"model": []
+}]
