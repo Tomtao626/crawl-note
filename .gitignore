@@ -119,3 +119,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+/venv/
+/.idea/
+/test.html
+/foo.db
+/Files
+/SP_log
+/meta.db
+/test.py
