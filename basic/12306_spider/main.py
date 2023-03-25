@@ -115,6 +115,7 @@ class GrabVote(object):
                         EC.presence_of_element_located((By.XPATH, ".//tbody[@id='queryLeftTable']/tr"))
                     )
 
+
     def run(self):
         self.wait_input()
         self._login()
